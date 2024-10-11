@@ -235,36 +235,36 @@ abp new XX.BaseService -t module --no-ui --version 8.0.0
 
 ### 初始化项目数据库
 > 认证服务（AuthServer.Host）
-作用：token认证、服务间通信认证等
+- 作用：token认证、服务间通信认证等
 认证服务：AuthServer.Host
    首先，在appsettings.json中配置好数据库连接，比如：
  ``` xml
 "Default": "Server=localhost;Database=ABP;Trusted_Connection=True;TrustServerCertificate=True;"
  ```
-![image](https://github.com/user-attachments/assets/db8005c6-7302-4df9-be62-ae4371e6ad4e)
+ - ![image](https://github.com/user-attachments/assets/db8005c6-7302-4df9-be62-ae4371e6ad4e)
 
 设置AuthServer.Host为启动项目，执行迁移命令：Update-database
- ![image](https://github.com/user-attachments/assets/0280df42-5545-43c8-b130-88a1f681a599)
+ - ![image](https://github.com/user-attachments/assets/0280df42-5545-43c8-b130-88a1f681a599)
 
 自动生成数据库相关认证的表：
-![image](https://github.com/user-attachments/assets/db66af7b-4310-4281-b73f-fd5727df7925)
+ - ![image](https://github.com/user-attachments/assets/db66af7b-4310-4281-b73f-fd5727df7925)
 > 基础服务BaseService
-作用：系统管理功能，包括：用户管理、角色管理、菜单管理、租户管理、数据字典等系统基础功能
+- 作用：系统管理功能，包括：用户管理、角色管理、菜单管理、租户管理、数据字典等系统基础功能
 配置数据库连接：
-![image](https://github.com/user-attachments/assets/2c440f00-bc11-49f5-b6d1-fcf20d1dde4e)
+ - ![image](https://github.com/user-attachments/assets/2c440f00-bc11-49f5-b6d1-fcf20d1dde4e)
 
-> 执行数据库迁移
-![image](https://github.com/user-attachments/assets/93f8f503-8e5d-47a9-9488-7b8cd9686431)
+- 执行数据库迁移
+ - ![image](https://github.com/user-attachments/assets/93f8f503-8e5d-47a9-9488-7b8cd9686431)
 
-> 生成数据库表：
-![image](https://github.com/user-attachments/assets/36283e44-5758-4b87-8b09-aab20f038db1)
+- 生成数据库表：
+ - ![image](https://github.com/user-attachments/assets/36283e44-5758-4b87-8b09-aab20f038db1)
 
-> 其他项目说明
-![image](https://github.com/user-attachments/assets/27aa60bf-e5e1-40c7-bad1-2791bd233a6d)
-- 文件服务：FileStorage.Host（开发中）
-- 定时任务：HangFireJob.HttpApi.Host   定时与业务完全分离（完成）
-- WMS基础服务：WMS.BaseService.HttpApi.Host（例如：基础档案等一维表的基础服务）（准备开发中）
-- WMS主业务：WMS.Business.HttpApi.Host（主业务） 与基础服务通过 内部网关进行 服务间通信（准备开发中）
+- 其他项目说明
+- ![image](https://github.com/user-attachments/assets/27aa60bf-e5e1-40c7-bad1-2791bd233a6d)
+ - 文件服务：FileStorage.Host（开发中）
+ - 定时任务：HangFireJob.HttpApi.Host   定时与业务完全分离（完成）
+ - WMS基础服务：WMS.BaseService.HttpApi.Host（例如：基础档案等一维表的基础服务）（准备开发中）
+ - WMS主业务：WMS.Business.HttpApi.Host（主业务） 与基础服务通过 内部网关进行 服务间通信（准备开发中）
 
 ### 开发进度
 WMS相关业务准备开发中，目前进度：架起了ABP微服务架构。
