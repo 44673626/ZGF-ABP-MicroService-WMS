@@ -270,10 +270,15 @@ abp new XX.BaseService -t module --no-ui --version 8.0.0
 开源项目，大家一学习应用！
 
 ### ABP微服务（学习文档）
-- 编写中，将从零开始学习，DDD原则，包括以后会陆续出相关视频。
-![image](https://github.com/user-attachments/assets/6b68e909-1d45-4ef6-a40e-26028c9a3f76)
+编写中，将从零开始学习，DDD原则，包括以后会陆续出相关视频。
+> 基础篇：框架和DDD
+> 中级篇：分布式配置
+> 高级篇：微服务
+> 源码及环境安装
+> 前端篇：Vue2.0
+> 视频讲解
 
 ## License
 遵守的协议
 ## 技术支持群
-QQ:
+QQ:82032553
