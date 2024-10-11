@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "WMS.BaseService.Domain.Shared": {
+      "path": "src/WMS.BaseService.Domain.Shared/WMS.BaseService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.Domain": {
+      "path": "src/WMS.BaseService.Domain/WMS.BaseService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.Application.Contracts": {
+      "path": "src/WMS.BaseService.Application.Contracts/WMS.BaseService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.Application": {
+      "path": "src/WMS.BaseService.Application/WMS.BaseService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.EntityFrameworkCore": {
+      "path": "src/WMS.BaseService.EntityFrameworkCore/WMS.BaseService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.MongoDB": {
+      "path": "src/WMS.BaseService.MongoDB/WMS.BaseService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.HttpApi": {
+      "path": "src/WMS.BaseService.HttpApi/WMS.BaseService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.HttpApi.Client": {
+      "path": "src/WMS.BaseService.HttpApi.Client/WMS.BaseService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.TestBase": {
+      "path": "test/WMS.BaseService.TestBase/WMS.BaseService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "WMS.BaseService.EntityFrameworkCore.Tests": {
+      "path": "test/WMS.BaseService.EntityFrameworkCore.Tests/WMS.BaseService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "WMS.BaseService.MongoDB.Tests": {
+      "path": "test/WMS.BaseService.MongoDB.Tests/WMS.BaseService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "WMS.BaseService.Domain.Tests": {
+      "path": "test/WMS.BaseService.Domain.Tests/WMS.BaseService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "WMS.BaseService.Application.Tests": {
+      "path": "test/WMS.BaseService.Application.Tests/WMS.BaseService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "WMS.BaseService.HttpApi.Host": {
+      "path": "host/WMS.BaseService.HttpApi.Host/WMS.BaseService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "WMS.BaseService.Web": {
+      "path": "src/WMS.BaseService.Web/WMS.BaseService.Web.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/WMS.BaseService.HttpApi.Client.ConsoleTestApp/WMS.BaseService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "WMS.BaseService.Web.Host": {
+      "path": "host/WMS.BaseService.Web.Host/WMS.BaseService.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "WMS.BaseService.AuthServer": {
+      "path": "host/WMS.BaseService.AuthServer/WMS.BaseService.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "WMS.BaseService.Host.Shared": {
+      "path": "host/WMS.BaseService.Host.Shared/WMS.BaseService.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "WMS.BaseService.Web.Unified": {
+      "path": "host/WMS.BaseService.Web.Unified/WMS.BaseService.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "WMS.BaseService.Blazor": {
+      "path": "src/WMS.BaseService.Blazor/WMS.BaseService.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.Blazor.Host": {
+      "path": "host/WMS.BaseService.Blazor.Host/WMS.BaseService.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "WMS.BaseService.Blazor.Server": {
+      "path": "src/WMS.BaseService.Blazor.Server/WMS.BaseService.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.Blazor.WebAssembly": {
+      "path": "src/WMS.BaseService.Blazor.WebAssembly/WMS.BaseService.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "WMS.BaseService.Blazor.Server.Host": {
+      "path": "host/WMS.BaseService.Blazor.Server.Host/WMS.BaseService.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

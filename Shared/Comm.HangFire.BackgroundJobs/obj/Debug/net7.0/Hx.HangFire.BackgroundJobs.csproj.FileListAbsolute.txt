@@ -1,0 +1,12 @@
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\bin\Debug\net7.0\Hx.HangFire.BackgroundJobs.deps.json
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\bin\Debug\net7.0\Hx.HangFire.BackgroundJobs.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\bin\Debug\net7.0\Hx.HangFire.BackgroundJobs.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\Hx.HangFire.BackgroundJobs.csproj.AssemblyReference.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\Hx.HangFire.BackgroundJobs.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\Hx.HangFire.BackgroundJobs.AssemblyInfoInputs.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\Hx.HangFire.BackgroundJobs.AssemblyInfo.cs
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\Hx.HangFire.BackgroundJobs.csproj.CoreCompileInputs.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\Hx.HangFire.BackgroundJobs.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\refint\Hx.HangFire.BackgroundJobs.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\Hx.HangFire.BackgroundJobs.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.HangFire.BackgroundJobs\obj\Debug\net7.0\ref\Hx.HangFire.BackgroundJobs.dll

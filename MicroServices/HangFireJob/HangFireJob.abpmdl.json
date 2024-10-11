@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "HangFireJob.Domain.Shared": {
+      "path": "src/HangFireJob.Domain.Shared/HangFireJob.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "HangFireJob.Domain": {
+      "path": "src/HangFireJob.Domain/HangFireJob.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "HangFireJob.Application.Contracts": {
+      "path": "src/HangFireJob.Application.Contracts/HangFireJob.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "HangFireJob.Application": {
+      "path": "src/HangFireJob.Application/HangFireJob.Application.abppkg.json",
+      "folder": "src"
+    },
+    "HangFireJob.EntityFrameworkCore": {
+      "path": "src/HangFireJob.EntityFrameworkCore/HangFireJob.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "HangFireJob.MongoDB": {
+      "path": "src/HangFireJob.MongoDB/HangFireJob.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "HangFireJob.HttpApi": {
+      "path": "src/HangFireJob.HttpApi/HangFireJob.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "HangFireJob.HttpApi.Client": {
+      "path": "src/HangFireJob.HttpApi.Client/HangFireJob.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "HangFireJob.TestBase": {
+      "path": "test/HangFireJob.TestBase/HangFireJob.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "HangFireJob.EntityFrameworkCore.Tests": {
+      "path": "test/HangFireJob.EntityFrameworkCore.Tests/HangFireJob.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "HangFireJob.MongoDB.Tests": {
+      "path": "test/HangFireJob.MongoDB.Tests/HangFireJob.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "HangFireJob.Domain.Tests": {
+      "path": "test/HangFireJob.Domain.Tests/HangFireJob.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "HangFireJob.Application.Tests": {
+      "path": "test/HangFireJob.Application.Tests/HangFireJob.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "HangFireJob.HttpApi.Host": {
+      "path": "host/HangFireJob.HttpApi.Host/HangFireJob.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "HangFireJob.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/HangFireJob.HttpApi.Client.ConsoleTestApp/HangFireJob.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "HangFireJob.AuthServer": {
+      "path": "host/HangFireJob.AuthServer/HangFireJob.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "HangFireJob.Host.Shared": {
+      "path": "host/HangFireJob.Host.Shared/HangFireJob.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

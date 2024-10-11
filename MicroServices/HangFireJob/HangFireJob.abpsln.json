@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "HangFireJob": {
+      "path": "HangFireJob.abpmdl.json"
+    }
+  }
+}

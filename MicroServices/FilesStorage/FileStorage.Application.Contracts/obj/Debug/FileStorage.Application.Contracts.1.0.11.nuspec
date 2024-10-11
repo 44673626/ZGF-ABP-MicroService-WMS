@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileStorage.Application.Contracts</id>
+    <version>1.0.11</version>
+    <authors>FileStorage.Application.Contracts</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="FileStorage.Domain" version="1.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Ddd.Application" version="7.2.2" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.PermissionManagement.Application.Contracts" version="7.2.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.Application.Contracts\bin\Debug\net7.0\FileStorage.Application.Contracts.dll" target="lib\net7.0\FileStorage.Application.Contracts.dll" />
+  </files>
+</package>

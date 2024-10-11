@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "d678cifucsNqqll8t4P9hh6UKuC2L1zDrtiMsTxOZb0=",
+  "Source": "FileStorage.Host",
+  "BasePath": "_content/FileStorage.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileStorage.Host\\wwwroot",
+      "Source": "FileStorage.Host",
+      "ContentRoot": "E:\\2024合心工作\\源码\\SmartFactorySuite2024113\\SmartFactorySuite\\MicroServices\\FilesStorage\\FileStorage.Host\\wwwroot\\",
+      "BasePath": "_content/FileStorage.Host",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

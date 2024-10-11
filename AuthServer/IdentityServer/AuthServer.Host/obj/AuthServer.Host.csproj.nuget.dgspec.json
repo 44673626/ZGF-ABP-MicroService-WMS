@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\AuthServer\\IdentityServer\\AuthServer.Host\\AuthServer.Host.csproj": {}
+  },
+  "projects": {
+    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\AuthServer\\IdentityServer\\AuthServer.Host\\AuthServer.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\AuthServer\\IdentityServer\\AuthServer.Host\\AuthServer.Host.csproj",
+        "projectName": "AuthServer.Host",
+        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\AuthServer\\IdentityServer\\AuthServer.Host\\AuthServer.Host.csproj",
+        "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
+        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\AuthServer\\IdentityServer\\AuthServer.Host\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj": {
+                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.DataProtection.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Volo.Abp.Account.Application": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.Account.Web.IdentityServer": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.AuditLogging.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.Dapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.EventBus.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.FeatureManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.Identity.Application.Contracts": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.IdentityServer.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.PermissionManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.SettingManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.TenantManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.TenantManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj",
+        "projectName": "Com.ConsulConfig",
+        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj",
+        "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
+        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.7.14.1, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

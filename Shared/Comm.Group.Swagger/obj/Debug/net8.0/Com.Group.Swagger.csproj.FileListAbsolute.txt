@@ -1,0 +1,12 @@
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\bin\Debug\net8.0\Com.Group.Swagger.deps.json
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\bin\Debug\net8.0\Com.Group.Swagger.dll
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\bin\Debug\net8.0\Com.Group.Swagger.pdb
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\Com.Group.Swagger.csproj.AssemblyReference.cache
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\Com.Group.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\Com.Group.Swagger.AssemblyInfoInputs.cache
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\Com.Group.Swagger.AssemblyInfo.cs
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\Com.Group.Swagger.csproj.CoreCompileInputs.cache
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\Com.Group.Swagger.dll
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\refint\Com.Group.Swagger.dll
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\Com.Group.Swagger.pdb
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\Hx.Group.Swagger\obj\Debug\net8.0\ref\Com.Group.Swagger.dll

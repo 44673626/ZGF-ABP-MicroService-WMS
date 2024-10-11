@@ -1,0 +1,12 @@
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\HX.ConsulConfig.csproj.AssemblyReference.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\HX.ConsulConfig.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\HX.ConsulConfig.AssemblyInfoInputs.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\HX.ConsulConfig.AssemblyInfo.cs
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\HX.ConsulConfig.csproj.CoreCompileInputs.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\bin\Debug\net8.0\HX.ConsulConfig.deps.json
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\bin\Debug\net8.0\HX.ConsulConfig.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\bin\Debug\net8.0\HX.ConsulConfig.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\HX.ConsulConfig.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\refint\HX.ConsulConfig.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\HX.ConsulConfig.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\HX.ConsulConfig\obj\Debug\net8.0\ref\HX.ConsulConfig.dll

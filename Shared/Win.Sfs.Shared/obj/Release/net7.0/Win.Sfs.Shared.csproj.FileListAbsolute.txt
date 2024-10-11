@@ -1,0 +1,15 @@
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\bin\Release\net7.0\Win.Sfs.Shared.deps.json
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\bin\Release\net7.0\Win.Sfs.Shared.dll
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\bin\Release\net7.0\Win.Sfs.Shared.pdb
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\bin\Release\net7.0\Win.Utils.dll
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\bin\Release\net7.0\Win.Utils.pdb
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\Win.Sfs.Shared.csproj.AssemblyReference.cache
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\Win.Sfs.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\Win.Sfs.Shared.AssemblyInfoInputs.cache
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\Win.Sfs.Shared.AssemblyInfo.cs
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\Win.Sfs.Shared.csproj.CoreCompileInputs.cache
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\Win.Sfs.Shared.csproj.CopyComplete
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\Win.Sfs.Shared.dll
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\refint\Win.Sfs.Shared.dll
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\Win.Sfs.Shared.pdb
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Sfs.Shared\obj\Release\net7.0\ref\Win.Sfs.Shared.dll

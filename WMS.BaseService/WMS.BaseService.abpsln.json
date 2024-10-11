@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "WMS.BaseService": {
+      "path": "WMS.BaseService.abpmdl.json"
+    }
+  }
+}

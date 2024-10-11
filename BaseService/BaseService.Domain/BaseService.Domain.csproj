@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>BaseService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Localization\BaseService\cs.json" />
+    <None Remove="Localization\BaseService\en.json" />
+    <None Remove="Localization\BaseService\zh-Hans.json" />
+    <None Remove="Localization\BaseService\zh-Hant.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Localization\BaseService\cs.json" />
+    <EmbeddedResource Include="Localization\BaseService\en.json" />
+    <EmbeddedResource Include="Localization\BaseService\zh-Hans.json" />
+    <EmbeddedResource Include="Localization\BaseService\zh-Hant.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AuditLogging.Domain" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Ddd.Domain" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.PermissionManagement.Domain.Identity" Version="8.1.1" />
+  </ItemGroup>
+
+</Project>

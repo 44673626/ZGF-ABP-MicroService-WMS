@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HX.ApolloConfig</id>
+    <version>1.0.0</version>
+    <authors>HX.ApolloConfig</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Com.Ctrip.Framework.Apollo.Configuration" version="2.10.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\合心工作\微服务\SmartFactorySuite\HX.ApolloConfig\bin\Debug\net6.0\HX.ApolloConfig.dll" target="lib\net6.0\HX.ApolloConfig.dll" />
+  </files>
+</package>

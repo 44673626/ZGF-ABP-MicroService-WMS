@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Version>1.0.15</Version>
+    <Title>文件服务</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Http.Client" Version="8.1.1" />
+    <ProjectReference Include="..\FileStorage.Application.Contracts\FileStorage.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

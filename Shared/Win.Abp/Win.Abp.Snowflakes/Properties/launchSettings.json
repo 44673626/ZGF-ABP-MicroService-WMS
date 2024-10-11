@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Win.Abp.Snowflakes": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:26960;http://localhost:26961"
+    }
+  }
+}

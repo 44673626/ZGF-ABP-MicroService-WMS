@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Magicodes.IE.Excel" Version="2.4.0-beta2" />
+    <PackageReference Include="Shouldly" Version="3.0.2" />
+    <PackageReference Include="Volo.Abp.Ddd.Application" Version="4.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Modules\FileStorage\FileStorage.Application.Contracts\FileStorage.Application.Contracts.csproj" />
+    <ProjectReference Include="..\..\Win.Sfs.Shared\Win.Sfs.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

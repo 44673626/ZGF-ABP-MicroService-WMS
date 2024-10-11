@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Win.Sfs.Shared</id>
+    <version>2.0.0</version>
+    <authors>Win.Sfs.Shared</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Win.Utils" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Caching" version="7.2.2" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Ddd.Application" version="7.2.2" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Ddd.Application.Contracts" version="7.2.2" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Ddd.Domain" version="7.2.2" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.EntityFrameworkCore" version="7.2.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Shared\Win.Sfs.Shared\bin\Debug\net7.0\Win.Sfs.Shared.dll" target="lib\net7.0\Win.Sfs.Shared.dll" />
+  </files>
+</package>

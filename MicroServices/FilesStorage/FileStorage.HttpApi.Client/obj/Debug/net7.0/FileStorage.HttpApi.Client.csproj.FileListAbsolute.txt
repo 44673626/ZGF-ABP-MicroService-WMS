@@ -1,0 +1,17 @@
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\bin\Debug\net7.0\FileStorage.HttpApi.Client.deps.json
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\bin\Debug\net7.0\FileStorage.HttpApi.Client.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\bin\Debug\net7.0\FileStorage.HttpApi.Client.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\bin\Debug\net7.0\FileStorage.Application.Contracts.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\bin\Debug\net7.0\FileStorage.Domain.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\bin\Debug\net7.0\FileStorage.Application.Contracts.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\bin\Debug\net7.0\FileStorage.Domain.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\FileStorage.HttpApi.Client.csproj.AssemblyReference.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\FileStorage.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\FileStorage.HttpApi.Client.AssemblyInfoInputs.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\FileStorage.HttpApi.Client.AssemblyInfo.cs
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\FileStorage.HttpApi.Client.csproj.CoreCompileInputs.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\FileStorage.HttpApi.Client.csproj.CopyComplete
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\FileStorage.HttpApi.Client.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\refint\FileStorage.HttpApi.Client.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\FileStorage.HttpApi.Client.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\obj\Debug\net7.0\ref\FileStorage.HttpApi.Client.dll

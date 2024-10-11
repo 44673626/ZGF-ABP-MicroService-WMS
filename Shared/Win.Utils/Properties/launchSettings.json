@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Win.Utils": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:26958;http://localhost:26959"
+    }
+  }
+}

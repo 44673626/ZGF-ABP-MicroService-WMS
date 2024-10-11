@@ -1,0 +1,1294 @@
+
+Date:2024-10-11 11:48:46.872
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-10-11 11:48:46.900
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- WMS.Business.ABPVNextHttpApiHostModule
+
+Date:2024-10-11 11:48:46.901
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - WMS.Business.ABPVNextApplicationModule
+
+Date:2024-10-11 11:48:46.903
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - WMS.Business.ABPVNextDomainModule
+
+Date:2024-10-11 11:48:46.903
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-10-11 11:48:46.904
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-10-11 11:48:46.906
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-10-11 11:48:46.907
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-10-11 11:48:46.908
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-10-11 11:48:46.909
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-10-11 11:48:46.909
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-10-11 11:48:46.910
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-10-11 11:48:46.911
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-10-11 11:48:46.912
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-10-11 11:48:46.913
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-10-11 11:48:46.913
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-10-11 11:48:46.914
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-10-11 11:48:46.915
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-10-11 11:48:46.916
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-10-11 11:48:46.916
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-10-11 11:48:46.917
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-10-11 11:48:46.921
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-10-11 11:48:46.923
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-10-11 11:48:46.924
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-10-11 11:48:46.925
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-10-11 11:48:46.926
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-10-11 11:48:46.927
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-10-11 11:48:46.927
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-10-11 11:48:46.928
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-10-11 11:48:46.929
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-10-11 11:48:46.930
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-10-11 11:48:46.933
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-10-11 11:48:46.934
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-10-11 11:48:46.935
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-10-11 11:48:46.935
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - WMS.Business.ABPVNextDomainSharedModule
+
+Date:2024-10-11 11:48:46.936
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-10-11 11:48:46.936
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - WMS.Business.ABPVNextApplicationContractsModule
+
+Date:2024-10-11 11:48:46.937
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-10-11 11:48:46.938
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-10-11 11:48:46.939
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-10-11 11:48:46.940
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-10-11 11:48:46.941
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-10-11 11:48:46.942
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-10-11 11:48:46.943
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-10-11 11:48:46.944
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-10-11 11:48:46.946
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - WMS.Business.EntityFrameworkCore.ABPVNextEntityFrameworkCoreModule
+
+Date:2024-10-11 11:48:46.947
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-10-11 11:48:46.947
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-10-11 11:48:46.948
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-10-11 11:48:46.949
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-10-11 11:48:46.950
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Dapper.AbpDapperModule
+
+Date:2024-10-11 11:48:46.951
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - WMS.Business.ABPVNextHttpApiModule
+
+Date:2024-10-11 11:48:46.951
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-10-11 11:48:46.952
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-10-11 11:48:46.952
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-10-11 11:48:46.953
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-10-11 11:48:46.954
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-10-11 11:48:46.955
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-10-11 11:48:46.956
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-10-11 11:48:46.957
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-10-11 11:48:46.958
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2024-10-11 11:48:46.959
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2024-10-11 11:48:46.959
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2024-10-11 11:48:46.960
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2024-10-11 11:48:46.961
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2024-10-11 11:48:46.961
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2024-10-11 11:48:46.962
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2024-10-11 11:48:46.962
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2024-10-11 11:48:46.963
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-10-11 11:48:46.964
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-10-11 11:48:46.966
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-10-11 11:48:46.966
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Caching.StackExchangeRedis.AbpCachingStackExchangeRedisModule
+
+Date:2024-10-11 11:48:46.966
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2024-10-11 11:48:46.967
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-10-11 11:48:46.968
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-10-11 11:48:46.968
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-10-11 11:48:46.969
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-10-11 11:48:46.969
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-10-11 11:48:46.970
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-10-11 11:48:46.971
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-10-11 11:48:46.972
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-10-11 11:48:46.972
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-10-11 11:48:46.973
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BlobStoring.AbpBlobStoringModule
+
+Date:2024-10-11 11:48:46.974
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BlobStoring.FileSystem.AbpBlobStoringFileSystemModule
+
+Date:2024-10-11 11:48:46.975
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-10-11 11:48:46.976
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Swashbuckle.AbpSwashbuckleModule
+
+Date:2024-10-11 11:48:47.737
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-10-11 11:48:47.874
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:44381"
+
+Date:2024-10-11 11:48:47.877
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-10-11 11:48:47.878
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-10-11 11:48:47.879
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "D:\ABPWMS\ABP8SmartFactorySuite\WMS.Business\host\WMS.Business.HttpApi.Host"
+
+Date:2024-10-11 11:48:51.673
+LogLevel:Warning
+Class:Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+Message:Failed to determine the https port for redirect.
+
+Date:2024-10-11 11:49:09.059
+LogLevel:Warning
+Class:Volo.Abp.Caching.DistributedCache
+Message:The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 3, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=3,Free=32764,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=128,Timers=7), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 3, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=3,Free=32764,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=128,Timers=7), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Volo.Abp.Caching.DistributedCache`2.GetAsync(TCacheKey key, Nullable`1 hideErrors, Boolean considerUow, CancellationToken token)
+
+Date:2024-10-11 11:49:09.173
+LogLevel:Error
+Class:Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+Message:The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 2, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 3, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=126,Timers=8), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 2, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 3, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=126,Timers=8), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at Volo.Abp.PermissionManagement.StaticPermissionSaver.SaveAsync()
+   at Volo.Abp.PermissionManagement.StaticPermissionSaver.SaveAsync()
+   at Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule.<>c__DisplayClass8_0.<<SaveStaticPermissionsToDatabaseAsync>b__1>d.MoveNext()
+
+Date:2024-10-11 11:49:09.273
+LogLevel:Error
+Class:Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+Message:The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 3, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=128,Timers=7), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 3, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=128,Timers=7), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at Volo.Abp.SettingManagement.StaticSettingSaver.SaveAsync()
+   at Volo.Abp.SettingManagement.StaticSettingSaver.SaveAsync()
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous(IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapter.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync(IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Volo.Abp.SettingManagement.AbpSettingManagementDomainModule.<>c__DisplayClass8_0.<<SaveStaticSettingsToDatabaseAsync>b__1>d.MoveNext()
+
+Date:2024-10-11 11:49:09.281
+LogLevel:Warning
+Class:Volo.Abp.Caching.DistributedCache
+Message:---------- Exception Data ----------
+Redis-Message = HMGET c:Volo.Abp.SettingManagement.Setting,k:ABPVNext:pn:T,pk:,n:Abp.Localization.DefaultLanguage
+Redis-Timeout = 5000
+Redis-OpsSinceLastHeartbeat = 0
+Redis-Queue-Awaiting-Write = 0
+Redis-Queue-Awaiting-Response = 0
+Redis-Active-Writer = False
+Redis-Backlog-Writer = CheckingForTimeout
+Redis-Read-State = NotStarted
+Redis-Write-State = Idle
+Redis-Inbound-Bytes = 0
+Redis-Last-Result-Bytes = 0
+Redis-Inbound-Buffer-Bytes = 0
+Redis-Sync-Ops = 0
+Redis-Async-Ops = 3
+Redis-Server-Endpoint = 192.168.1.191:6379
+Redis-Server-Connected-Seconds = n/a
+Redis-Abort-On-Connect = 0
+Redis-Multiplexer-Connects = 1/1/0
+Redis-Manager = 10 of 10 available
+Redis-Client-Name = HEXIN(SE.Redis-v2.6.122.38350)
+Redis-ThreadPool-IO-Completion = (Busy=0,Free=1000,Min=1,Max=1000)
+Redis-ThreadPool-Workers = (Busy=3,Free=32764,Min=16,Max=32767)
+Redis-ThreadPool-Items = (Threads=6,QueuedItems=0,CompletedItems=128,Timers=7)
+Redis-Busy-Workers = 3
+Redis-Version = 2.6.122.38350
+redis-command = HMGET c:Volo.Abp.SettingManagement.Setting,k:ABPVNext:pn:T,pk:,n:Abp.Localization.DefaultLanguage
+request-sent-status = WaitingInBacklog
+redis-server = 192.168.1.191:6379
+
+
+Date:2024-10-11 11:49:09.287
+LogLevel:Error
+Class:Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+Message:---------- Exception Data ----------
+Redis-Message = HMGET ABPVNext:_WMS.Business.HttpApi.Host_AbpPermissionsHash
+Redis-Timeout = 5000
+Redis-OpsSinceLastHeartbeat = 0
+Redis-Queue-Awaiting-Write = 2
+Redis-Queue-Awaiting-Response = 0
+Redis-Active-Writer = False
+Redis-Backlog-Writer = CheckingForTimeout
+Redis-Read-State = NotStarted
+Redis-Write-State = Idle
+Redis-Inbound-Bytes = 0
+Redis-Last-Result-Bytes = 0
+Redis-Inbound-Buffer-Bytes = 0
+Redis-Sync-Ops = 0
+Redis-Async-Ops = 3
+Redis-Server-Endpoint = 192.168.1.191:6379
+Redis-Server-Connected-Seconds = n/a
+Redis-Abort-On-Connect = 0
+Redis-Multiplexer-Connects = 1/1/0
+Redis-Manager = 10 of 10 available
+Redis-Client-Name = HEXIN(SE.Redis-v2.6.122.38350)
+Redis-ThreadPool-IO-Completion = (Busy=0,Free=1000,Min=1,Max=1000)
+Redis-ThreadPool-Workers = (Busy=0,Free=32767,Min=16,Max=32767)
+Redis-ThreadPool-Items = (Threads=6,QueuedItems=0,CompletedItems=126,Timers=8)
+Redis-Busy-Workers = 0
+Redis-Version = 2.6.122.38350
+redis-command = HMGET ABPVNext:_WMS.Business.HttpApi.Host_AbpPermissionsHash
+request-sent-status = WaitingInBacklog
+redis-server = 192.168.1.191:6379
+
+
+Date:2024-10-11 11:49:09.289
+LogLevel:Error
+Class:Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+Message:---------- Exception Data ----------
+Redis-Message = HMGET ABPVNext:_WMS.Business.HttpApi.Host_AbpSettingsHash
+Redis-Timeout = 5000
+Redis-OpsSinceLastHeartbeat = 0
+Redis-Queue-Awaiting-Write = 1
+Redis-Queue-Awaiting-Response = 0
+Redis-Active-Writer = False
+Redis-Backlog-Writer = CheckingForTimeout
+Redis-Read-State = NotStarted
+Redis-Write-State = Idle
+Redis-Inbound-Bytes = 0
+Redis-Last-Result-Bytes = 0
+Redis-Inbound-Buffer-Bytes = 0
+Redis-Sync-Ops = 0
+Redis-Async-Ops = 3
+Redis-Server-Endpoint = 192.168.1.191:6379
+Redis-Server-Connected-Seconds = n/a
+Redis-Abort-On-Connect = 0
+Redis-Multiplexer-Connects = 1/1/0
+Redis-Manager = 10 of 10 available
+Redis-Client-Name = HEXIN(SE.Redis-v2.6.122.38350)
+Redis-ThreadPool-IO-Completion = (Busy=0,Free=1000,Min=1,Max=1000)
+Redis-ThreadPool-Workers = (Busy=1,Free=32766,Min=16,Max=32767)
+Redis-ThreadPool-Items = (Threads=6,QueuedItems=0,CompletedItems=128,Timers=7)
+Redis-Busy-Workers = 1
+Redis-Version = 2.6.122.38350
+redis-command = HMGET ABPVNext:_WMS.Business.HttpApi.Host_AbpSettingsHash
+request-sent-status = WaitingInBacklog
+redis-server = 192.168.1.191:6379
+
+
+Date:2024-10-11 11:49:15.944
+LogLevel:Warning
+Class:Volo.Abp.Caching.DistributedCache
+Message:The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=EVAL, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 5, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=175,Timers=10), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=EVAL, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 5, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=175,Timers=10), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at StackExchange.Redis.RedisDatabase.ScriptEvaluateAsync(String script, RedisKey[] keys, RedisValue[] values, CommandFlags flags) in /_/src/StackExchange.Redis/RedisDatabase.cs:line 1552
+   at Volo.Abp.Caching.StackExchangeRedis.AbpRedisCache.SetManyAsync(IEnumerable`1 items, DistributedCacheEntryOptions options, CancellationToken token)
+   at Volo.Abp.Caching.DistributedCache`2.<>c__DisplayClass54_0.<<SetManyAsync>g__SetRealCache|0>d.MoveNext()
+
+Date:2024-10-11 11:49:15.965
+LogLevel:Warning
+Class:Volo.Abp.Caching.DistributedCache
+Message:---------- Exception Data ----------
+Redis-Message = EVAL
+Redis-Timeout = 5000
+Redis-OpsSinceLastHeartbeat = 0
+Redis-Queue-Awaiting-Write = 1
+Redis-Queue-Awaiting-Response = 0
+Redis-Active-Writer = False
+Redis-Backlog-Writer = CheckingForTimeout
+Redis-Last-Result-Bytes = 0
+Redis-Inbound-Buffer-Bytes = 0
+Redis-Sync-Ops = 0
+Redis-Async-Ops = 5
+Redis-Server-Endpoint = 192.168.1.191:6379
+Redis-Server-Connected-Seconds = n/a
+Redis-Abort-On-Connect = 0
+Redis-Multiplexer-Connects = 1/1/0
+Redis-Manager = 10 of 10 available
+Redis-Client-Name = HEXIN(SE.Redis-v2.6.122.38350)
+Redis-ThreadPool-IO-Completion = (Busy=0,Free=1000,Min=1,Max=1000)
+Redis-ThreadPool-Workers = (Busy=1,Free=32766,Min=16,Max=32767)
+Redis-ThreadPool-Items = (Threads=6,QueuedItems=0,CompletedItems=175,Timers=10)
+Redis-Busy-Workers = 1
+Redis-Version = 2.6.122.38350
+redis-command = EVAL
+request-sent-status = WaitingInBacklog
+redis-server = 192.168.1.191:6379
+
+
+Date:2024-10-11 11:49:21.895
+LogLevel:Warning
+Class:Volo.Abp.Caching.DistributedCache
+Message:The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 6, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=208,Timers=10), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 6, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=208,Timers=10), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Volo.Abp.Caching.DistributedCache`2.GetAsync(TCacheKey key, Nullable`1 hideErrors, Boolean considerUow, CancellationToken token)
+
+Date:2024-10-11 11:49:21.899
+LogLevel:Warning
+Class:Volo.Abp.Caching.DistributedCache
+Message:---------- Exception Data ----------
+Redis-Message = HMGET c:Volo.Abp.SettingManagement.Setting,k:ABPVNext:pn:G,pk:,n:Abp.Localization.DefaultLanguage
+Redis-Timeout = 5000
+Redis-OpsSinceLastHeartbeat = 0
+Redis-Queue-Awaiting-Write = 0
+Redis-Queue-Awaiting-Response = 0
+Redis-Active-Writer = False
+Redis-Backlog-Writer = CheckingForTimeout
+Redis-Read-State = NotStarted
+Redis-Write-State = Idle
+Redis-Inbound-Bytes = 0
+Redis-Last-Result-Bytes = 0
+Redis-Inbound-Buffer-Bytes = 0
+Redis-Sync-Ops = 0
+Redis-Async-Ops = 6
+Redis-Server-Endpoint = 192.168.1.191:6379
+Redis-Server-Connected-Seconds = n/a
+Redis-Abort-On-Connect = 0
+Redis-Multiplexer-Connects = 1/1/0
+Redis-Manager = 10 of 10 available
+Redis-Client-Name = HEXIN(SE.Redis-v2.6.122.38350)
+Redis-ThreadPool-IO-Completion = (Busy=0,Free=1000,Min=1,Max=1000)
+Redis-ThreadPool-Workers = (Busy=0,Free=32767,Min=16,Max=32767)
+Redis-ThreadPool-Items = (Threads=6,QueuedItems=0,CompletedItems=208,Timers=10)
+Redis-Busy-Workers = 0
+Redis-Version = 2.6.122.38350
+redis-command = HMGET c:Volo.Abp.SettingManagement.Setting,k:ABPVNext:pn:G,pk:,n:Abp.Localization.DefaultLanguage
+request-sent-status = WaitingInBacklog
+redis-server = 192.168.1.191:6379
+
+
+Date:2024-10-11 11:49:27.929
+LogLevel:Warning
+Class:Volo.Abp.Caching.DistributedCache
+Message:The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=EVAL, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 9, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=235,Timers=9), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=EVAL, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 9, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=16,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=235,Timers=9), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at StackExchange.Redis.RedisDatabase.ScriptEvaluateAsync(String script, RedisKey[] keys, RedisValue[] values, CommandFlags flags) in /_/src/StackExchange.Redis/RedisDatabase.cs:line 1552
+   at Volo.Abp.Caching.StackExchangeRedis.AbpRedisCache.SetManyAsync(IEnumerable`1 items, DistributedCacheEntryOptions options, CancellationToken token)
+   at Volo.Abp.Caching.DistributedCache`2.<>c__DisplayClass54_0.<<SetManyAsync>g__SetRealCache|0>d.MoveNext()
+
+Date:2024-10-11 11:49:27.931
+LogLevel:Warning
+Class:Volo.Abp.Caching.DistributedCache
+Message:---------- Exception Data ----------
+Redis-Message = EVAL
+Redis-Timeout = 5000
+Redis-OpsSinceLastHeartbeat = 0
+Redis-Queue-Awaiting-Write = 1
+Redis-Queue-Awaiting-Response = 0
+Redis-Active-Writer = False
+Redis-Backlog-Writer = CheckingForTimeout
+Redis-Last-Result-Bytes = 0
+Redis-Inbound-Buffer-Bytes = 0
+Redis-Sync-Ops = 0
+Redis-Async-Ops = 9
+Redis-Server-Endpoint = 192.168.1.191:6379
+Redis-Server-Connected-Seconds = n/a
+Redis-Abort-On-Connect = 0
+Redis-Multiplexer-Connects = 1/1/0
+Redis-Manager = 10 of 10 available
+Redis-Client-Name = HEXIN(SE.Redis-v2.6.122.38350)
+Redis-ThreadPool-IO-Completion = (Busy=0,Free=1000,Min=1,Max=1000)
+Redis-ThreadPool-Workers = (Busy=2,Free=32765,Min=16,Max=32767)
+Redis-ThreadPool-Items = (Threads=6,QueuedItems=0,CompletedItems=235,Timers=9)
+Redis-Busy-Workers = 2
+Redis-Version = 2.6.122.38350
+redis-command = EVAL
+request-sent-status = WaitingInBacklog
+redis-server = 192.168.1.191:6379
+
+
+Date:2024-10-11 11:49:32.963
+LogLevel:Error
+Class:Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+Message:The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 10, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=11,QueuedItems=0,CompletedItems=435,Timers=10), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 10, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=11,QueuedItems=0,CompletedItems=435,Timers=10), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at Volo.Abp.PermissionManagement.StaticPermissionSaver.SaveAsync()
+   at Volo.Abp.PermissionManagement.StaticPermissionSaver.SaveAsync()
+   at Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule.<>c__DisplayClass8_0.<<SaveStaticPermissionsToDatabaseAsync>b__1>d.MoveNext()
+
+Date:2024-10-11 11:49:32.969
+LogLevel:Error
+Class:Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+Message:---------- Exception Data ----------
+Redis-Message = HMGET ABPVNext:_WMS.Business.HttpApi.Host_AbpPermissionsHash
+Redis-Timeout = 5000
+Redis-OpsSinceLastHeartbeat = 0
+Redis-Queue-Awaiting-Write = 1
+Redis-Queue-Awaiting-Response = 0
+Redis-Active-Writer = False
+Redis-Backlog-Writer = CheckingForTimeout
+Redis-Read-State = NotStarted
+Redis-Write-State = Idle
+Redis-Inbound-Bytes = 0
+Redis-Last-Result-Bytes = 0
+Redis-Inbound-Buffer-Bytes = 0
+Redis-Sync-Ops = 0
+Redis-Async-Ops = 10
+Redis-Server-Endpoint = 192.168.1.191:6379
+Redis-Server-Connected-Seconds = n/a
+Redis-Abort-On-Connect = 0
+Redis-Multiplexer-Connects = 1/1/0
+Redis-Manager = 10 of 10 available
+Redis-Client-Name = HEXIN(SE.Redis-v2.6.122.38350)
+Redis-ThreadPool-IO-Completion = (Busy=0,Free=1000,Min=1,Max=1000)
+Redis-ThreadPool-Workers = (Busy=0,Free=32767,Min=16,Max=32767)
+Redis-ThreadPool-Items = (Threads=11,QueuedItems=0,CompletedItems=435,Timers=10)
+Redis-Busy-Workers = 0
+Redis-Version = 2.6.122.38350
+redis-command = HMGET ABPVNext:_WMS.Business.HttpApi.Host_AbpPermissionsHash
+request-sent-status = WaitingInBacklog
+redis-server = 192.168.1.191:6379
+
+
+Date:2024-10-11 11:49:35.047
+LogLevel:Error
+Class:Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+Message:The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 10, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=13,QueuedItems=0,CompletedItems=481,Timers=9), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 10, serverEndpoint: 192.168.1.191:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: HEXIN(SE.Redis-v2.6.122.38350), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=13,QueuedItems=0,CompletedItems=481,Timers=9), v: 2.6.122.38350 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at Volo.Abp.SettingManagement.StaticSettingSaver.SaveAsync()
+   at Volo.Abp.SettingManagement.StaticSettingSaver.SaveAsync()
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous(IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapter.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync(IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Volo.Abp.SettingManagement.AbpSettingManagementDomainModule.<>c__DisplayClass8_0.<<SaveStaticSettingsToDatabaseAsync>b__1>d.MoveNext()
+
+Date:2024-10-11 11:49:35.053
+LogLevel:Error
+Class:Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+Message:---------- Exception Data ----------
+Redis-Message = HMGET ABPVNext:_WMS.Business.HttpApi.Host_AbpSettingsHash
+Redis-Timeout = 5000
+Redis-OpsSinceLastHeartbeat = 0
+Redis-Queue-Awaiting-Write = 0
+Redis-Queue-Awaiting-Response = 0
+Redis-Active-Writer = False
+Redis-Backlog-Writer = CheckingForTimeout
+Redis-Read-State = NotStarted
+Redis-Write-State = Idle
+Redis-Inbound-Bytes = 0
+Redis-Last-Result-Bytes = 0
+Redis-Inbound-Buffer-Bytes = 0
+Redis-Sync-Ops = 0
+Redis-Async-Ops = 10
+Redis-Server-Endpoint = 192.168.1.191:6379
+Redis-Server-Connected-Seconds = n/a
+Redis-Abort-On-Connect = 0
+Redis-Multiplexer-Connects = 1/1/0
+Redis-Manager = 10 of 10 available
+Redis-Client-Name = HEXIN(SE.Redis-v2.6.122.38350)
+Redis-ThreadPool-IO-Completion = (Busy=0,Free=1000,Min=1,Max=1000)
+Redis-ThreadPool-Workers = (Busy=0,Free=32767,Min=16,Max=32767)
+Redis-ThreadPool-Items = (Threads=13,QueuedItems=0,CompletedItems=481,Timers=9)
+Redis-Busy-Workers = 0
+Redis-Version = 2.6.122.38350
+redis-command = HMGET ABPVNext:_WMS.Business.HttpApi.Host_AbpSettingsHash
+request-sent-status = WaitingInBacklog
+redis-server = 192.168.1.191:6379
+
+
+Date:2024-10-11 11:51:16.893
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-10-11 11:51:16.918
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- WMS.Business.ABPVNextHttpApiHostModule
+
+Date:2024-10-11 11:51:16.919
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - WMS.Business.ABPVNextApplicationModule
+
+Date:2024-10-11 11:51:16.920
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - WMS.Business.ABPVNextDomainModule
+
+Date:2024-10-11 11:51:16.921
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-10-11 11:51:16.922
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-10-11 11:51:16.922
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-10-11 11:51:16.923
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-10-11 11:51:16.924
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-10-11 11:51:16.925
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-10-11 11:51:16.925
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-10-11 11:51:16.926
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-10-11 11:51:16.927
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-10-11 11:51:16.927
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-10-11 11:51:16.928
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-10-11 11:51:16.929
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-10-11 11:51:16.930
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-10-11 11:51:16.930
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-10-11 11:51:16.931
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-10-11 11:51:16.932
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-10-11 11:51:16.932
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-10-11 11:51:16.933
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-10-11 11:51:16.936
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-10-11 11:51:16.937
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-10-11 11:51:16.938
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-10-11 11:51:16.939
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-10-11 11:51:16.940
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-10-11 11:51:16.941
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-10-11 11:51:16.941
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-10-11 11:51:16.942
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-10-11 11:51:16.943
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-10-11 11:51:16.944
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-10-11 11:51:16.945
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-10-11 11:51:16.945
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-10-11 11:51:16.946
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - WMS.Business.ABPVNextDomainSharedModule
+
+Date:2024-10-11 11:51:16.947
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-10-11 11:51:16.948
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - WMS.Business.ABPVNextApplicationContractsModule
+
+Date:2024-10-11 11:51:16.949
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-10-11 11:51:16.950
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-10-11 11:51:16.951
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-10-11 11:51:16.952
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-10-11 11:51:16.953
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-10-11 11:51:16.977
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-10-11 11:51:16.979
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-10-11 11:51:16.979
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-10-11 11:51:16.983
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - WMS.Business.EntityFrameworkCore.ABPVNextEntityFrameworkCoreModule
+
+Date:2024-10-11 11:51:16.983
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-10-11 11:51:16.984
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-10-11 11:51:16.985
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-10-11 11:51:16.986
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-10-11 11:51:16.987
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Dapper.AbpDapperModule
+
+Date:2024-10-11 11:51:16.988
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - WMS.Business.ABPVNextHttpApiModule
+
+Date:2024-10-11 11:51:16.989
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-10-11 11:51:16.990
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-10-11 11:51:16.991
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-10-11 11:51:16.992
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-10-11 11:51:16.993
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-10-11 11:51:16.994
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-10-11 11:51:16.995
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-10-11 11:51:16.996
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-10-11 11:51:16.998
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2024-10-11 11:51:16.999
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2024-10-11 11:51:17.000
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2024-10-11 11:51:17.001
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2024-10-11 11:51:17.001
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2024-10-11 11:51:17.002
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2024-10-11 11:51:17.003
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2024-10-11 11:51:17.004
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2024-10-11 11:51:17.005
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-10-11 11:51:17.006
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-10-11 11:51:17.007
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-10-11 11:51:17.007
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Caching.StackExchangeRedis.AbpCachingStackExchangeRedisModule
+
+Date:2024-10-11 11:51:17.008
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2024-10-11 11:51:17.009
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-10-11 11:51:17.010
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-10-11 11:51:17.011
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-10-11 11:51:17.015
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-10-11 11:51:17.016
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-10-11 11:51:17.023
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-10-11 11:51:17.024
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-10-11 11:51:17.025
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-10-11 11:51:17.025
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-10-11 11:51:17.026
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BlobStoring.AbpBlobStoringModule
+
+Date:2024-10-11 11:51:17.028
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BlobStoring.FileSystem.AbpBlobStoringFileSystemModule
+
+Date:2024-10-11 11:51:17.029
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-10-11 11:51:17.030
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Swashbuckle.AbpSwashbuckleModule
+
+Date:2024-10-11 11:51:17.644
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-10-11 11:51:17.761
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:44381"
+
+Date:2024-10-11 11:51:17.763
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-10-11 11:51:17.765
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-10-11 11:51:17.771
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "D:\ABPWMS\ABP8SmartFactorySuite\WMS.Business\host\WMS.Business.HttpApi.Host"
+
+Date:2024-10-11 11:51:22.683
+LogLevel:Warning
+Class:Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+Message:Failed to determine the https port for redirect.

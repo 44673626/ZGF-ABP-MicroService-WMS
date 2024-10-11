@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>HangFireJob</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Volo.Abp.BackgroundWorkers.Hangfire" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Authorization" Version="8.1.1" />
+    <ProjectReference Include="..\HangFireJob.Domain.Shared\HangFireJob.Domain.Shared.csproj" />
+    <ProjectReference Include="..\HangFireJob.Domain\HangFireJob.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Samples\IJobInterfaces\" />
+  </ItemGroup>
+
+</Project>

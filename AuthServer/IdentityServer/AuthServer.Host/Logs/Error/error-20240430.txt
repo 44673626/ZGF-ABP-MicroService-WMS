@@ -1,0 +1,15 @@
+
+Date:2024-04-30 09:17:54.379
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.UI.Bundling.TagHelpers.AbpTagHelperResourceService
+Message:Could not find the bundle file '/libs/bootstrap-daterangepicker/daterangepicker.css' for the bundle 'Basic.Global'!
+
+Date:2024-04-30 09:17:54.617
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.UI.Bundling.TagHelpers.AbpTagHelperResourceService
+Message:Could not find the bundle file '/libs/moment/moment.min.js' for the bundle 'Basic.Global'!
+
+Date:2024-04-30 09:17:54.620
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.UI.Bundling.TagHelpers.AbpTagHelperResourceService
+Message:Could not find the bundle file '/libs/bootstrap-daterangepicker/daterangepicker.js' for the bundle 'Basic.Global'!

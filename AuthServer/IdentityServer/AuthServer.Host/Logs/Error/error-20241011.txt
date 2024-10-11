@@ -1,0 +1,262 @@
+
+Date:2024-10-11 09:50:58.377
+LogLevel:Error
+Class:Microsoft.EntityFrameworkCore.Database.Command
+Message:Failed executing DbCommand ("511"ms) [Parameters=["@p0='?' (DbType = Guid), @p1='?' (Size = 2048), @p2='?' (Size = 512), @p3='?' (Size = 256), @p4='?' (Size = 4000), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = Boolean), @p8='?' (Size = 128), @p9='?' (Size = 1024), @p10='?' (DbType = Guid), @p11='?' (Size = 2048), @p12='?' (Size = 512), @p13='?' (Size = 256), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (DbType = Boolean), @p17='?' (DbType = Boolean), @p18='?' (Size = 128), @p19='?' (Size = 1024), @p20='?' (DbType = Guid), @p21='?' (Size = 2048), @p22='?' (Size = 512), @p23='?' (Size = 256), @p24='?' (Size = 4000), @p25='?' (DbType = Boolean), @p26='?' (DbType = Boolean), @p27='?' (DbType = Boolean), @p28='?' (Size = 128), @p29='?' (Size = 1024), @p30='?' (DbType = Guid), @p31='?' (Size = 2048), @p32='?' (Size = 512), @p33='?' (Size = 256), @p34='?' (Size = 4000), @p35='?' (DbType = Boolean), @p36='?' (DbType = Boolean), @p37='?' (DbType = Boolean), @p38='?' (Size = 128), @p39='?' (Size = 1024), @p40='?' (DbType = Guid), @p41='?' (Size = 2048), @p42='?' (Size = 512), @p43='?' (Size = 256), @p44='?' (Size = 4000), @p45='?' (DbType = Boolean), @p46='?' (DbType = Boolean), @p47='?' (DbType = Boolean), @p48='?' (Size = 128), @p49='?' (Size = 1024), @p50='?' (DbType = Guid), @p51='?' (Size = 2048), @p52='?' (Size = 512), @p53='?' (Size = 256), @p54='?' (Size = 4000), @p55='?' (DbType = Boolean), @p56='?' (DbType = Boolean), @p57='?' (DbType = Boolean), @p58='?' (Size = 128), @p59='?' (Size = 1024), @p60='?' (DbType = Guid), @p61='?' (Size = 2048), @p62='?' (Size = 512), @p63='?' (Size = 256), @p64='?' (Size = 4000), @p65='?' (DbType = Boolean), @p66='?' (DbType = Boolean), @p67='?' (DbType = Boolean), @p68='?' (Size = 128), @p69='?' (Size = 1024), @p70='?' (DbType = Guid), @p71='?' (Size = 2048), @p72='?' (Size = 512), @p73='?' (Size = 256), @p74='?' (Size = 4000), @p75='?' (DbType = Boolean), @p76='?' (DbType = Boolean), @p77='?' (DbType = Boolean), @p78='?' (Size = 128), @p79='?' (Size = 1024), @p80='?' (DbType = Guid), @p81='?' (Size = 2048), @p82='?' (Size = 512), @p83='?' (Size = 256), @p84='?' (Size = 4000), @p85='?' (DbType = Boolean), @p86='?' (DbType = Boolean), @p87='?' (DbType = Boolean), @p88='?' (Size = 128), @p89='?' (Size = 1024), @p90='?' (DbType = Guid), @p91='?' (Size = 2048), @p92='?' (Size = 512), @p93='?' (Size = 256), @p94='?' (Size = 4000), @p95='?' (DbType = Boolean), @p96='?' (DbType = Boolean), @p97='?' (DbType = Boolean), @p98='?' (Size = 128), @p99='?' (Size = 1024), @p100='?' (DbType = Guid), @p101='?' (Size = 2048), @p102='?' (Size = 512), @p103='?' (Size = 256), @p104='?' (Size = 4000), @p105='?' (DbType = Boolean), @p106='?' (DbType = Boolean), @p107='?' (DbType = Boolean), @p108='?' (Size = 128), @p109='?' (Size = 1024), @p110='?' (DbType = Guid), @p111='?' (Size = 2048), @p112='?' (Size = 512), @p113='?' (Size = 256), @p114='?' (Size = 4000), @p115='?' (DbType = Boolean), @p116='?' (DbType = Boolean), @p117='?' (DbType = Boolean), @p118='?' (Size = 128), @p119='?' (Size = 1024), @p120='?' (DbType = Guid), @p121='?' (Size = 2048), @p122='?' (Size = 512), @p123='?' (Size = 256), @p124='?' (Size = 4000), @p125='?' (DbType = Boolean), @p126='?' (DbType = Boolean), @p127='?' (DbType = Boolean), @p128='?' (Size = 128), @p129='?' (Size = 1024), @p130='?' (DbType = Guid), @p131='?' (Size = 2048), @p132='?' (Size = 512), @p133='?' (Size = 256), @p134='?' (Size = 4000), @p135='?' (DbType = Boolean), @p136='?' (DbType = Boolean), @p137='?' (DbType = Boolean), @p138='?' (Size = 128), @p139='?' (Size = 1024), @p140='?' (DbType = Guid), @p141='?' (Size = 2048), @p142='?' (Size = 512), @p143='?' (Size = 256), @p144='?' (Size = 4000), @p145='?' (DbType = Boolean), @p146='?' (DbType = Boolean), @p147='?' (DbType = Boolean), @p148='?' (Size = 128), @p149='?' (Size = 1024), @p150='?' (DbType = Guid), @p151='?' (Size = 2048), @p152='?' (Size = 512), @p153='?' (Size = 256), @p154='?' (Size = 4000), @p155='?' (DbType = Boolean), @p156='?' (DbType = Boolean), @p157='?' (DbType = Boolean), @p158='?' (Size = 128), @p159='?' (Size = 1024), @p160='?' (DbType = Guid), @p161='?' (Size = 2048), @p162='?' (Size = 512), @p163='?' (Size = 256), @p164='?' (Size = 4000), @p165='?' (DbType = Boolean), @p166='?' (DbType = Boolean), @p167='?' (DbType = Boolean), @p168='?' (Size = 128), @p169='?' (Size = 1024), @p170='?' (DbType = Guid), @p171='?' (Size = 2048), @p172='?' (Size = 512), @p173='?' (Size = 256), @p174='?' (Size = 4000), @p175='?' (DbType = Boolean), @p176='?' (DbType = Boolean), @p177='?' (DbType = Boolean), @p178='?' (Size = 128), @p179='?' (Size = 1024), @p180='?' (DbType = Guid), @p181='?' (Size = 2048), @p182='?' (Size = 512), @p183='?' (Size = 256), @p184='?' (Size = 4000), @p185='?' (DbType = Boolean), @p186='?' (DbType = Boolean), @p187='?' (DbType = Boolean), @p188='?' (Size = 128), @p189='?' (Size = 1024), @p190='?' (DbType = Guid), @p191='?' (Size = 2048), @p192='?' (Size = 512), @p193='?' (Size = 256), @p194='?' (Size = 4000), @p195='?' (DbType = Boolean), @p196='?' (DbType = Boolean), @p197='?' (DbType = Boolean), @p198='?' (Size = 128), @p199='?' (Size = 1024), @p200='?' (DbType = Guid), @p201='?' (Size = 2048), @p202='?' (Size = 512), @p203='?' (Size = 256), @p204='?' (Size = 4000), @p205='?' (DbType = Boolean), @p206='?' (DbType = Boolean), @p207='?' (DbType = Boolean), @p208='?' (Size = 128), @p209='?' (Size = 1024), @p210='?' (DbType = Guid), @p211='?' (Size = 2048), @p212='?' (Size = 512), @p213='?' (Size = 256), @p214='?' (Size = 4000), @p215='?' (DbType = Boolean), @p216='?' (DbType = Boolean), @p217='?' (DbType = Boolean), @p218='?' (Size = 128), @p219='?' (Size = 1024), @p220='?' (DbType = Guid), @p221='?' (Size = 2048), @p222='?' (Size = 512), @p223='?' (Size = 256), @p224='?' (Size = 4000), @p225='?' (DbType = Boolean), @p226='?' (DbType = Boolean), @p227='?' (DbType = Boolean), @p228='?' (Size = 128), @p229='?' (Size = 1024), @p230='?' (DbType = Guid), @p231='?' (Size = 2048), @p232='?' (Size = 512), @p233='?' (Size = 256), @p234='?' (Size = 4000), @p235='?' (DbType = Boolean), @p236='?' (DbType = Boolean), @p237='?' (DbType = Boolean), @p238='?' (Size = 128), @p239='?' (Size = 1024), @p240='?' (DbType = Guid), @p241='?' (Size = 2048), @p242='?' (Size = 512), @p243='?' (Size = 256), @p244='?' (Size = 4000), @p245='?' (DbType = Boolean), @p246='?' (DbType = Boolean), @p247='?' (DbType = Boolean), @p248='?' (Size = 128), @p249='?' (Size = 1024), @p250='?' (DbType = Guid), @p251='?' (Size = 2048), @p252='?' (Size = 512), @p253='?' (Size = 256), @p254='?' (Size = 4000), @p255='?' (DbType = Boolean), @p256='?' (DbType = Boolean), @p257='?' (DbType = Boolean), @p258='?' (Size = 128), @p259='?' (Size = 1024), @p260='?' (DbType = Guid), @p261='?' (Size = 2048), @p262='?' (Size = 512), @p263='?' (Size = 256), @p264='?' (Size = 4000), @p265='?' (DbType = Boolean), @p266='?' (DbType = Boolean), @p267='?' (DbType = Boolean), @p268='?' (Size = 128), @p269='?' (Size = 1024), @p270='?' (DbType = Guid), @p271='?' (Size = 2048), @p272='?' (Size = 512), @p273='?' (Size = 256), @p274='?' (Size = 4000), @p275='?' (DbType = Boolean), @p276='?' (DbType = Boolean), @p277='?' (DbType = Boolean), @p278='?' (Size = 128), @p279='?' (Size = 1024), @p280='?' (DbType = Guid), @p281='?' (Size = 2048), @p282='?' (Size = 512), @p283='?' (Size = 256), @p284='?' (Size = 4000), @p285='?' (DbType = Boolean), @p286='?' (DbType = Boolean), @p287='?' (DbType = Boolean), @p288='?' (Size = 128), @p289='?' (Size = 1024), @p290='?' (DbType = Guid), @p291='?' (Size = 2048), @p292='?' (Size = 512), @p293='?' (Size = 256), @p294='?' (Size = 4000), @p295='?' (DbType = Boolean), @p296='?' (DbType = Boolean), @p297='?' (DbType = Boolean), @p298='?' (Size = 128), @p299='?' (Size = 1024)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AbpSettingDefinitions] ([Id], [DefaultValue], [Description], [DisplayName], [ExtraProperties], [IsEncrypted], [IsInherited], [IsVisibleToClients], [Name], [Providers])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9),
+(@p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19),
+(@p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27, @p28, @p29),
+(@p30, @p31, @p32, @p33, @p34, @p35, @p36, @p37, @p38, @p39),
+(@p40, @p41, @p42, @p43, @p44, @p45, @p46, @p47, @p48, @p49),
+(@p50, @p51, @p52, @p53, @p54, @p55, @p56, @p57, @p58, @p59),
+(@p60, @p61, @p62, @p63, @p64, @p65, @p66, @p67, @p68, @p69),
+(@p70, @p71, @p72, @p73, @p74, @p75, @p76, @p77, @p78, @p79),
+(@p80, @p81, @p82, @p83, @p84, @p85, @p86, @p87, @p88, @p89),
+(@p90, @p91, @p92, @p93, @p94, @p95, @p96, @p97, @p98, @p99),
+(@p100, @p101, @p102, @p103, @p104, @p105, @p106, @p107, @p108, @p109),
+(@p110, @p111, @p112, @p113, @p114, @p115, @p116, @p117, @p118, @p119),
+(@p120, @p121, @p122, @p123, @p124, @p125, @p126, @p127, @p128, @p129),
+(@p130, @p131, @p132, @p133, @p134, @p135, @p136, @p137, @p138, @p139),
+(@p140, @p141, @p142, @p143, @p144, @p145, @p146, @p147, @p148, @p149),
+(@p150, @p151, @p152, @p153, @p154, @p155, @p156, @p157, @p158, @p159),
+(@p160, @p161, @p162, @p163, @p164, @p165, @p166, @p167, @p168, @p169),
+(@p170, @p171, @p172, @p173, @p174, @p175, @p176, @p177, @p178, @p179),
+(@p180, @p181, @p182, @p183, @p184, @p185, @p186, @p187, @p188, @p189),
+(@p190, @p191, @p192, @p193, @p194, @p195, @p196, @p197, @p198, @p199),
+(@p200, @p201, @p202, @p203, @p204, @p205, @p206, @p207, @p208, @p209),
+(@p210, @p211, @p212, @p213, @p214, @p215, @p216, @p217, @p218, @p219),
+(@p220, @p221, @p222, @p223, @p224, @p225, @p226, @p227, @p228, @p229),
+(@p230, @p231, @p232, @p233, @p234, @p235, @p236, @p237, @p238, @p239),
+(@p240, @p241, @p242, @p243, @p244, @p245, @p246, @p247, @p248, @p249),
+(@p250, @p251, @p252, @p253, @p254, @p255, @p256, @p257, @p258, @p259),
+(@p260, @p261, @p262, @p263, @p264, @p265, @p266, @p267, @p268, @p269),
+(@p270, @p271, @p272, @p273, @p274, @p275, @p276, @p277, @p278, @p279),
+(@p280, @p281, @p282, @p283, @p284, @p285, @p286, @p287, @p288, @p289),
+(@p290, @p291, @p292, @p293, @p294, @p295, @p296, @p297, @p298, @p299);"
+
+Date:2024-10-11 09:50:58.377
+LogLevel:Error
+Class:Microsoft.EntityFrameworkCore.Database.Command
+Message:Failed executing DbCommand ("432"ms) [Parameters=["@p0='?' (DbType = Guid), @p1='?' (Size = 256), @p2='?' (Size = 4000), @p3='?' (Size = 128), @p4='?' (DbType = Guid), @p5='?' (Size = 256), @p6='?' (Size = 4000), @p7='?' (Size = 128), @p8='?' (DbType = Guid), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 128), @p12='?' (DbType = Boolean), @p13='?' (Size = 1) (DbType = Byte), @p14='?' (Size = 128), @p15='?' (Size = 128), @p16='?' (Size = 128), @p17='?' (Size = 256), @p18='?' (DbType = Guid), @p19='?' (Size = 256), @p20='?' (Size = 4000), @p21='?' (Size = 128), @p22='?' (DbType = Boolean), @p23='?' (Size = 1) (DbType = Byte), @p24='?' (Size = 128), @p25='?' (Size = 128), @p26='?' (Size = 128), @p27='?' (Size = 256), @p28='?' (DbType = Guid), @p29='?' (Size = 256), @p30='?' (Size = 4000), @p31='?' (Size = 128), @p32='?' (DbType = Boolean), @p33='?' (Size = 1) (DbType = Byte), @p34='?' (Size = 128), @p35='?' (Size = 128), @p36='?' (Size = 128), @p37='?' (Size = 256), @p38='?' (DbType = Guid), @p39='?' (Size = 256), @p40='?' (Size = 4000), @p41='?' (Size = 128), @p42='?' (DbType = Boolean), @p43='?' (Size = 1) (DbType = Byte), @p44='?' (Size = 128), @p45='?' (Size = 128), @p46='?' (Size = 128), @p47='?' (Size = 256), @p48='?' (DbType = Guid), @p49='?' (Size = 256), @p50='?' (Size = 4000), @p51='?' (Size = 128), @p52='?' (DbType = Boolean), @p53='?' (Size = 1) (DbType = Byte), @p54='?' (Size = 128), @p55='?' (Size = 128), @p56='?' (Size = 128), @p57='?' (Size = 256), @p58='?' (DbType = Guid), @p59='?' (Size = 256), @p60='?' (Size = 4000), @p61='?' (Size = 128), @p62='?' (DbType = Boolean), @p63='?' (Size = 1) (DbType = Byte), @p64='?' (Size = 128), @p65='?' (Size = 128), @p66='?' (Size = 128), @p67='?' (Size = 256), @p68='?' (DbType = Guid), @p69='?' (Size = 256), @p70='?' (Size = 4000), @p71='?' (Size = 128), @p72='?' (DbType = Boolean), @p73='?' (Size = 1) (DbType = Byte), @p74='?' (Size = 128), @p75='?' (Size = 128), @p76='?' (Size = 128), @p77='?' (Size = 256), @p78='?' (DbType = Guid), @p79='?' (Size = 256), @p80='?' (Size = 4000), @p81='?' (Size = 128), @p82='?' (DbType = Boolean), @p83='?' (Size = 1) (DbType = Byte), @p84='?' (Size = 128), @p85='?' (Size = 128), @p86='?' (Size = 128), @p87='?' (Size = 256), @p88='?' (DbType = Guid), @p89='?' (Size = 256), @p90='?' (Size = 4000), @p91='?' (Size = 128), @p92='?' (DbType = Boolean), @p93='?' (Size = 1) (DbType = Byte), @p94='?' (Size = 128), @p95='?' (Size = 128), @p96='?' (Size = 128), @p97='?' (Size = 256), @p98='?' (DbType = Guid), @p99='?' (Size = 256), @p100='?' (Size = 4000), @p101='?' (Size = 128), @p102='?' (DbType = Boolean), @p103='?' (Size = 1) (DbType = Byte), @p104='?' (Size = 128), @p105='?' (Size = 128), @p106='?' (Size = 128), @p107='?' (Size = 256), @p108='?' (DbType = Guid), @p109='?' (Size = 256), @p110='?' (Size = 4000), @p111='?' (Size = 128), @p112='?' (DbType = Boolean), @p113='?' (Size = 1) (DbType = Byte), @p114='?' (Size = 128), @p115='?' (Size = 128), @p116='?' (Size = 128), @p117='?' (Size = 256), @p118='?' (DbType = Guid), @p119='?' (Size = 256), @p120='?' (Size = 4000), @p121='?' (Size = 128), @p122='?' (DbType = Boolean), @p123='?' (Size = 1) (DbType = Byte), @p124='?' (Size = 128), @p125='?' (Size = 128), @p126='?' (Size = 128), @p127='?' (Size = 256), @p128='?' (DbType = Guid), @p129='?' (Size = 256), @p130='?' (Size = 4000), @p131='?' (Size = 128), @p132='?' (DbType = Boolean), @p133='?' (Size = 1) (DbType = Byte), @p134='?' (Size = 128), @p135='?' (Size = 128), @p136='?' (Size = 128), @p137='?' (Size = 256), @p138='?' (DbType = Guid), @p139='?' (Size = 256), @p140='?' (Size = 4000), @p141='?' (Size = 128), @p142='?' (DbType = Boolean), @p143='?' (Size = 1) (DbType = Byte), @p144='?' (Size = 128), @p145='?' (Size = 128), @p146='?' (Size = 128), @p147='?' (Size = 256), @p148='?' (DbType = Guid), @p149='?' (Size = 256), @p150='?' (Size = 4000), @p151='?' (Size = 128), @p152='?' (DbType = Boolean), @p153='?' (Size = 1) (DbType = Byte), @p154='?' (Size = 128), @p155='?' (Size = 128), @p156='?' (Size = 128), @p157='?' (Size = 256), @p158='?' (DbType = Guid), @p159='?' (Size = 256), @p160='?' (Size = 4000), @p161='?' (Size = 128), @p162='?' (DbType = Boolean), @p163='?' (Size = 1) (DbType = Byte), @p164='?' (Size = 128), @p165='?' (Size = 128), @p166='?' (Size = 128), @p167='?' (Size = 256), @p168='?' (DbType = Guid), @p169='?' (Size = 256), @p170='?' (Size = 4000), @p171='?' (Size = 128), @p172='?' (DbType = Boolean), @p173='?' (Size = 1) (DbType = Byte), @p174='?' (Size = 128), @p175='?' (Size = 128), @p176='?' (Size = 128), @p177='?' (Size = 256), @p178='?' (DbType = Guid), @p179='?' (Size = 256), @p180='?' (Size = 4000), @p181='?' (Size = 128), @p182='?' (DbType = Boolean), @p183='?' (Size = 1) (DbType = Byte), @p184='?' (Size = 128), @p185='?' (Size = 128), @p186='?' (Size = 128), @p187='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [AbpPermissionGroups] ([Id], [DisplayName], [ExtraProperties], [Name])
+VALUES (@p0, @p1, @p2, @p3),
+(@p4, @p5, @p6, @p7);
+INSERT INTO [AbpPermissions] ([Id], [DisplayName], [ExtraProperties], [GroupName], [IsEnabled], [MultiTenancySide], [Name], [ParentName], [Providers], [StateCheckers])
+VALUES (@p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17),
+(@p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27),
+(@p28, @p29, @p30, @p31, @p32, @p33, @p34, @p35, @p36, @p37),
+(@p38, @p39, @p40, @p41, @p42, @p43, @p44, @p45, @p46, @p47),
+(@p48, @p49, @p50, @p51, @p52, @p53, @p54, @p55, @p56, @p57),
+(@p58, @p59, @p60, @p61, @p62, @p63, @p64, @p65, @p66, @p67),
+(@p68, @p69, @p70, @p71, @p72, @p73, @p74, @p75, @p76, @p77),
+(@p78, @p79, @p80, @p81, @p82, @p83, @p84, @p85, @p86, @p87),
+(@p88, @p89, @p90, @p91, @p92, @p93, @p94, @p95, @p96, @p97),
+(@p98, @p99, @p100, @p101, @p102, @p103, @p104, @p105, @p106, @p107),
+(@p108, @p109, @p110, @p111, @p112, @p113, @p114, @p115, @p116, @p117),
+(@p118, @p119, @p120, @p121, @p122, @p123, @p124, @p125, @p126, @p127),
+(@p128, @p129, @p130, @p131, @p132, @p133, @p134, @p135, @p136, @p137),
+(@p138, @p139, @p140, @p141, @p142, @p143, @p144, @p145, @p146, @p147),
+(@p148, @p149, @p150, @p151, @p152, @p153, @p154, @p155, @p156, @p157),
+(@p158, @p159, @p160, @p161, @p162, @p163, @p164, @p165, @p166, @p167),
+(@p168, @p169, @p170, @p171, @p172, @p173, @p174, @p175, @p176, @p177),
+(@p178, @p179, @p180, @p181, @p182, @p183, @p184, @p185, @p186, @p187);"
+
+Date:2024-10-11 09:50:59.281
+LogLevel:Error
+Class:Microsoft.EntityFrameworkCore.Update
+Message:An exception occurred in the database while saving changes for context type '"Volo.Abp.SettingManagement.EntityFrameworkCore.SettingManagementDbContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 不能在具有唯一索引“IX_AbpSettingDefinitions_Name”的对象“dbo.AbpSettingDefinitions”中插入重复键的行。重复键值为 (Abp.Mailing.DefaultFromAddress)。
+语句已终止。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__209_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:0d916598-2089-472d-adc7-274113a4c8eb
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)"
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 不能在具有唯一索引“IX_AbpSettingDefinitions_Name”的对象“dbo.AbpSettingDefinitions”中插入重复键的行。重复键值为 (Abp.Mailing.DefaultFromAddress)。
+语句已终止。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__209_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:0d916598-2089-472d-adc7-274113a4c8eb
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+
+Date:2024-10-11 09:50:59.281
+LogLevel:Error
+Class:Microsoft.EntityFrameworkCore.Update
+Message:An exception occurred in the database while saving changes for context type '"Volo.Abp.PermissionManagement.EntityFrameworkCore.PermissionManagementDbContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 不能在具有唯一索引“IX_AbpPermissionGroups_Name”的对象“dbo.AbpPermissionGroups”中插入重复键的行。重复键值为 (AbpIdentity)。
+不能在具有唯一索引“IX_AbpPermissions_Name”的对象“dbo.AbpPermissions”中插入重复键的行。重复键值为 (AbpTenantManagement.Tenants.ManageConnectionStrings)。
+语句已终止。
+语句已终止。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__209_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:a58e422e-8c17-41d5-b97e-c36d548bc7d2
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)"
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 不能在具有唯一索引“IX_AbpPermissionGroups_Name”的对象“dbo.AbpPermissionGroups”中插入重复键的行。重复键值为 (AbpIdentity)。
+不能在具有唯一索引“IX_AbpPermissions_Name”的对象“dbo.AbpPermissions”中插入重复键的行。重复键值为 (AbpTenantManagement.Tenants.ManageConnectionStrings)。
+语句已终止。
+语句已终止。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__209_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:a58e422e-8c17-41d5-b97e-c36d548bc7d2
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+
+Date:2024-10-11 09:51:00.316
+LogLevel:Error
+Class:Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+Message:An error occurred while saving the entity changes. See the inner exception for details.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 不能在具有唯一索引“IX_AbpPermissionGroups_Name”的对象“dbo.AbpPermissionGroups”中插入重复键的行。重复键值为 (AbpIdentity)。
+不能在具有唯一索引“IX_AbpPermissions_Name”的对象“dbo.AbpPermissions”中插入重复键的行。重复键值为 (AbpTenantManagement.Tenants.ManageConnectionStrings)。
+语句已终止。
+语句已终止。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__209_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:a58e422e-8c17-41d5-b97e-c36d548bc7d2
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Volo.Abp.EntityFrameworkCore.AbpDbContext`1.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Volo.Abp.Uow.UnitOfWork.SaveChangesAsync(CancellationToken cancellationToken)
+   at Volo.Abp.Uow.UnitOfWork.CompleteAsync(CancellationToken cancellationToken)
+   at Volo.Abp.PermissionManagement.StaticPermissionSaver.SaveAsync()
+   at Volo.Abp.PermissionManagement.StaticPermissionSaver.SaveAsync()
+   at Volo.Abp.PermissionManagement.StaticPermissionSaver.SaveAsync()
+   at Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule.<>c__DisplayClass8_0.<<SaveStaticPermissionsToDatabaseAsync>b__1>d.MoveNext()
+
+Date:2024-10-11 09:51:00.440
+LogLevel:Error
+Class:Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+Message:An error occurred while saving the entity changes. See the inner exception for details.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): 不能在具有唯一索引“IX_AbpSettingDefinitions_Name”的对象“dbo.AbpSettingDefinitions”中插入重复键的行。重复键值为 (Abp.Mailing.DefaultFromAddress)。
+语句已终止。
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__209_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:0d916598-2089-472d-adc7-274113a4c8eb
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Volo.Abp.EntityFrameworkCore.AbpDbContext`1.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Volo.Abp.Uow.UnitOfWork.SaveChangesAsync(CancellationToken cancellationToken)
+   at Volo.Abp.Uow.UnitOfWork.CompleteAsync(CancellationToken cancellationToken)
+   at Volo.Abp.SettingManagement.StaticSettingSaver.SaveAsync()
+   at Volo.Abp.SettingManagement.StaticSettingSaver.SaveAsync()
+   at Volo.Abp.SettingManagement.StaticSettingSaver.SaveAsync()
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous(IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapter.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync(IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Volo.Abp.SettingManagement.AbpSettingManagementDomainModule.<>c__DisplayClass8_0.<<SaveStaticSettingsToDatabaseAsync>b__1>d.MoveNext()

@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\InternalGateway.Host.csproj": {}
+  },
+  "projects": {
+    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\InternalGateway.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\InternalGateway.Host.csproj",
+        "projectName": "InternalGateway.Host",
+        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\InternalGateway.Host.csproj",
+        "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
+        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FileStorage.HttpApi": {
+              "target": "Package",
+              "version": "[1.0.15, )"
+            },
+            "Ocelot": {
+              "target": "Package",
+              "version": "[23.2.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Volo.Abp.AspNetCore.Serilog": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Volo.Abp.Identity.HttpApi": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

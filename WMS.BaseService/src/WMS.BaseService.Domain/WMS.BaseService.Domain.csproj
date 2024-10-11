@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>WMS.BaseService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EFCore.BulkExtensions" Version="8.0.3" />
+    <PackageReference Include="Magicodes.IE.Excel" Version="2.7.5.1" />
+    <PackageReference Include="Volo.Abp.BlobStoring" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Ddd.Domain" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Domain" Version="8.1.1" />
+    <ProjectReference Include="..\WMS.BaseService.Domain.Shared\WMS.BaseService.Domain.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CommonManagement\Tenants\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="Fody" Version="6.8.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

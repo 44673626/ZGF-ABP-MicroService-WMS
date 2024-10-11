@@ -1,0 +1,9 @@
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\bin\Debug\netstandard2.0\Win.Abp.Snowflakes.deps.json
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\bin\Debug\netstandard2.0\Win.Abp.Snowflakes.dll
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\bin\Debug\netstandard2.0\Win.Abp.Snowflakes.pdb
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Debug\netstandard2.0\Win.Abp.Snowflakes.csprojAssemblyReference.cache
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Debug\netstandard2.0\Win.Abp.Snowflakes.AssemblyInfoInputs.cache
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Debug\netstandard2.0\Win.Abp.Snowflakes.AssemblyInfo.cs
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Debug\netstandard2.0\Win.Abp.Snowflakes.csproj.CoreCompileInputs.cache
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Debug\netstandard2.0\Win.Abp.Snowflakes.dll
+H:\wms123\src\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Debug\netstandard2.0\Win.Abp.Snowflakes.pdb

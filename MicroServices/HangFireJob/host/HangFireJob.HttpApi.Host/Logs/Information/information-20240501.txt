@@ -1,0 +1,1580 @@
+
+Date:2024-05-01 18:54:38.337
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-05-01 18:54:38.351
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- HangFireJob.HangFireJobHttpApiHostModule
+
+Date:2024-05-01 18:54:38.352
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.HangFireJobApplicationModule
+
+Date:2024-05-01 18:54:38.353
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - HangFireJob.HangFireJobDomainModule
+
+Date:2024-05-01 18:54:38.354
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-05-01 18:54:38.355
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-05-01 18:54:38.356
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-05-01 18:54:38.357
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-05-01 18:54:38.358
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-05-01 18:54:38.359
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-05-01 18:54:38.359
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-05-01 18:54:38.360
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-05-01 18:54:38.361
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-05-01 18:54:38.362
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-05-01 18:54:38.363
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-05-01 18:54:38.364
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-05-01 18:54:38.365
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-05-01 18:54:38.366
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-05-01 18:54:38.367
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-05-01 18:54:38.368
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-05-01 18:54:38.369
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-05-01 18:54:38.370
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-05-01 18:54:38.371
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-05-01 18:54:38.372
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-05-01 18:54:38.373
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-05-01 18:54:38.374
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-05-01 18:54:38.375
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-05-01 18:54:38.376
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-05-01 18:54:38.377
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-05-01 18:54:38.378
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-05-01 18:54:38.379
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-05-01 18:54:38.380
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-05-01 18:54:38.381
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-05-01 18:54:38.381
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-05-01 18:54:38.382
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - HangFireJob.HangFireJobDomainSharedModule
+
+Date:2024-05-01 18:54:38.383
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-05-01 18:54:38.384
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - HangFireJob.HangFireJobApplicationContractsModule
+
+Date:2024-05-01 18:54:38.385
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-05-01 18:54:38.386
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-05-01 18:54:38.388
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-05-01 18:54:38.389
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-05-01 18:54:38.389
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-05-01 18:54:38.390
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-05-01 18:54:38.391
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-05-01 18:54:38.392
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-05-01 18:54:38.393
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.EntityFrameworkCore.HangFireJobEntityFrameworkCoreModule
+
+Date:2024-05-01 18:54:38.393
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-05-01 18:54:38.394
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Dapper.AbpDapperModule
+
+Date:2024-05-01 18:54:38.395
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.HangFireJobHttpApiModule
+
+Date:2024-05-01 18:54:38.396
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-05-01 18:54:38.398
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-05-01 18:54:38.399
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-05-01 18:54:38.400
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-05-01 18:54:38.401
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-05-01 18:54:38.401
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-05-01 18:54:38.402
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-05-01 18:54:38.403
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-05-01 18:54:38.404
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2024-05-01 18:54:38.405
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2024-05-01 18:54:38.406
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2024-05-01 18:54:38.406
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2024-05-01 18:54:38.407
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2024-05-01 18:54:38.408
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2024-05-01 18:54:38.409
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2024-05-01 18:54:38.409
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2024-05-01 18:54:38.410
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-05-01 18:54:38.411
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-05-01 18:54:38.412
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-05-01 18:54:38.413
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Caching.StackExchangeRedis.AbpCachingStackExchangeRedisModule
+
+Date:2024-05-01 18:54:38.414
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2024-05-01 18:54:38.415
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-05-01 18:54:38.416
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-05-01 18:54:38.417
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-05-01 18:54:38.418
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 18:54:38.426
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-05-01 18:54:38.427
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-05-01 18:54:38.428
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 18:54:38.429
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-05-01 18:54:38.430
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-05-01 18:54:38.431
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 18:54:38.432
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-05-01 18:54:38.433
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-05-01 18:54:38.436
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-05-01 18:54:38.436
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BackgroundJobs.Hangfire.AbpBackgroundJobsHangfireModule
+
+Date:2024-05-01 18:54:38.437
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2024-05-01 18:54:38.438
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Hangfire.AbpHangfireModule
+
+Date:2024-05-01 18:54:38.438
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BackgroundWorkers.Hangfire.AbpBackgroundWorkersHangfireModule
+
+Date:2024-05-01 18:54:38.442
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2024-05-01 18:54:38.443
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Swashbuckle.AbpSwashbuckleModule
+
+Date:2024-05-01 18:54:38.481
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Starting Hangfire Server using job storage: 'SQL Server: 10.8.1.22@HangFire_Module'
+
+Date:2024-05-01 18:54:38.483
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for SQL Server job storage: Queue poll interval: 00:00:15.
+
+Date:2024-05-01 18:54:38.484
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+Date:2024-05-01 18:54:38.653
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:40544:346944fc successfully announced in 149.4217 ms
+
+Date:2024-05-01 18:54:38.659
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:40544:346944fc is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+Date:2024-05-01 18:54:38.768
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:40544:346944fc all the dispatchers started
+
+Date:2024-05-01 18:54:39.330
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Starting Hangfire Server using job storage: 'SQL Server: 10.8.1.22@HangFire_Module'
+
+Date:2024-05-01 18:54:39.331
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for SQL Server job storage: Queue poll interval: 00:00:15.
+
+Date:2024-05-01 18:54:39.331
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+Date:2024-05-01 18:54:39.343
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-05-01 18:54:39.382
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:40544:9ac9c290 successfully announced in 44.1361 ms
+
+Date:2024-05-01 18:54:39.390
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:40544:9ac9c290 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+Date:2024-05-01 18:54:39.476
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:40544:9ac9c290 all the dispatchers started
+
+Date:2024-05-01 18:54:41.722
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:44320"
+
+Date:2024-05-01 18:54:41.724
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-05-01 18:54:41.725
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-05-01 18:54:41.725
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\MicroServices\HangFireJob\host\HangFireJob.HttpApi.Host"
+
+Date:2024-05-01 18:54:48.572
+LogLevel:Warning
+Class:Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+Message:Failed to determine the https port for redirect.
+
+Date:2024-05-01 21:08:45.325
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-05-01 21:08:45.338
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- HangFireJob.HangFireJobHttpApiHostModule
+
+Date:2024-05-01 21:08:45.339
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.HangFireJobApplicationModule
+
+Date:2024-05-01 21:08:45.340
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - HangFireJob.HangFireJobDomainModule
+
+Date:2024-05-01 21:08:45.341
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-05-01 21:08:45.342
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-05-01 21:08:45.343
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-05-01 21:08:45.343
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-05-01 21:08:45.344
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-05-01 21:08:45.345
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-05-01 21:08:45.346
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-05-01 21:08:45.346
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-05-01 21:08:45.347
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-05-01 21:08:45.347
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-05-01 21:08:45.348
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-05-01 21:08:45.349
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-05-01 21:08:45.349
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-05-01 21:08:45.350
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-05-01 21:08:45.351
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-05-01 21:08:45.351
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-05-01 21:08:45.352
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-05-01 21:08:45.353
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-05-01 21:08:45.353
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-05-01 21:08:45.354
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-05-01 21:08:45.355
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-05-01 21:08:45.356
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-05-01 21:08:45.356
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-05-01 21:08:45.357
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-05-01 21:08:45.357
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-05-01 21:08:45.358
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-05-01 21:08:45.359
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-05-01 21:08:45.360
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-05-01 21:08:45.360
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-05-01 21:08:45.361
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-05-01 21:08:45.362
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - HangFireJob.HangFireJobDomainSharedModule
+
+Date:2024-05-01 21:08:45.362
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-05-01 21:08:45.363
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - HangFireJob.HangFireJobApplicationContractsModule
+
+Date:2024-05-01 21:08:45.364
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-05-01 21:08:45.365
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-05-01 21:08:45.366
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-05-01 21:08:45.366
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-05-01 21:08:45.367
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-05-01 21:08:45.368
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-05-01 21:08:45.369
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-05-01 21:08:45.369
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-05-01 21:08:45.370
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.EntityFrameworkCore.HangFireJobEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:45.371
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:45.372
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Dapper.AbpDapperModule
+
+Date:2024-05-01 21:08:45.372
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.HangFireJobHttpApiModule
+
+Date:2024-05-01 21:08:45.373
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-05-01 21:08:45.374
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-05-01 21:08:45.374
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-05-01 21:08:45.375
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-05-01 21:08:45.376
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-05-01 21:08:45.377
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-05-01 21:08:45.378
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-05-01 21:08:45.378
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-05-01 21:08:45.379
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2024-05-01 21:08:45.380
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2024-05-01 21:08:45.381
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2024-05-01 21:08:45.382
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2024-05-01 21:08:45.382
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2024-05-01 21:08:45.383
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2024-05-01 21:08:45.384
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2024-05-01 21:08:45.384
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2024-05-01 21:08:45.385
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-05-01 21:08:45.386
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-05-01 21:08:45.386
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-05-01 21:08:45.387
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Caching.StackExchangeRedis.AbpCachingStackExchangeRedisModule
+
+Date:2024-05-01 21:08:45.388
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2024-05-01 21:08:45.388
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:45.389
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-05-01 21:08:45.390
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-05-01 21:08:45.391
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:45.391
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-05-01 21:08:45.392
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-05-01 21:08:45.393
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:45.393
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-05-01 21:08:45.394
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-05-01 21:08:45.395
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:45.396
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-05-01 21:08:45.396
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-05-01 21:08:45.397
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-05-01 21:08:45.398
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BackgroundJobs.Hangfire.AbpBackgroundJobsHangfireModule
+
+Date:2024-05-01 21:08:45.399
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2024-05-01 21:08:45.399
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Hangfire.AbpHangfireModule
+
+Date:2024-05-01 21:08:45.400
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BackgroundWorkers.Hangfire.AbpBackgroundWorkersHangfireModule
+
+Date:2024-05-01 21:08:45.401
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2024-05-01 21:08:45.402
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Swashbuckle.AbpSwashbuckleModule
+
+Date:2024-05-01 21:08:45.437
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Starting Hangfire Server using job storage: 'SQL Server: 10.8.1.22@HangFire_Module'
+
+Date:2024-05-01 21:08:45.437
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for SQL Server job storage: Queue poll interval: 00:00:15.
+
+Date:2024-05-01 21:08:45.438
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+Date:2024-05-01 21:08:45.536
+LogLevel:Error
+Class:Hangfire.Processing.BackgroundExecution
+Message:Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+Microsoft.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开与 SQL Server 的连接)
+ ---> System.ComponentModel.Win32Exception (53): 找不到网络路径。
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerStorage.UseConnection[T](DbConnection dedicatedConnection, Func`2 func)
+   at Hangfire.SqlServer.SqlServerStorage.UseConnection(DbConnection dedicatedConnection, Action`1 action)
+   at Hangfire.SqlServer.SqlServerConnection.AnnounceServer(String serverId, ServerContext context)
+   at Hangfire.Server.BackgroundServerProcess.CreateServer(BackgroundServerContext context)
+   at Hangfire.Server.BackgroundServerProcess.Execute(Guid executionId, BackgroundExecution execution, CancellationToken stoppingToken, CancellationToken stoppedToken, CancellationToken shutdownToken)
+   at Hangfire.Server.BackgroundProcessingServer.RunServer(Guid executionId, Object state)
+   at Hangfire.Processing.BackgroundExecution.Run(Action`2 callback, Object state)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+
+Date:2024-05-01 21:08:53.912
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-05-01 21:08:53.928
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- HangFireJob.HangFireJobHttpApiHostModule
+
+Date:2024-05-01 21:08:53.929
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.HangFireJobApplicationModule
+
+Date:2024-05-01 21:08:53.930
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - HangFireJob.HangFireJobDomainModule
+
+Date:2024-05-01 21:08:53.931
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-05-01 21:08:53.932
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-05-01 21:08:53.932
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-05-01 21:08:53.933
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-05-01 21:08:53.933
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-05-01 21:08:53.934
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-05-01 21:08:53.935
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-05-01 21:08:53.936
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-05-01 21:08:53.937
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-05-01 21:08:53.938
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-05-01 21:08:53.938
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-05-01 21:08:53.939
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-05-01 21:08:53.940
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-05-01 21:08:53.941
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-05-01 21:08:53.941
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-05-01 21:08:53.942
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-05-01 21:08:53.943
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-05-01 21:08:53.944
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-05-01 21:08:53.945
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-05-01 21:08:53.946
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-05-01 21:08:53.946
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-05-01 21:08:53.947
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-05-01 21:08:53.948
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-05-01 21:08:53.948
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-05-01 21:08:53.949
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-05-01 21:08:53.950
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-05-01 21:08:53.951
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-05-01 21:08:53.952
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-05-01 21:08:53.953
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-05-01 21:08:53.954
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-05-01 21:08:53.954
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - HangFireJob.HangFireJobDomainSharedModule
+
+Date:2024-05-01 21:08:53.955
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-05-01 21:08:53.956
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - HangFireJob.HangFireJobApplicationContractsModule
+
+Date:2024-05-01 21:08:53.957
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-05-01 21:08:53.957
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-05-01 21:08:53.958
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-05-01 21:08:53.959
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-05-01 21:08:53.959
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-05-01 21:08:53.960
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-05-01 21:08:53.961
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-05-01 21:08:53.962
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-05-01 21:08:53.963
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.EntityFrameworkCore.HangFireJobEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:53.963
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:53.964
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Dapper.AbpDapperModule
+
+Date:2024-05-01 21:08:53.965
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - HangFireJob.HangFireJobHttpApiModule
+
+Date:2024-05-01 21:08:53.966
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-05-01 21:08:53.966
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-05-01 21:08:53.967
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-05-01 21:08:53.968
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-05-01 21:08:53.969
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-05-01 21:08:53.969
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-05-01 21:08:53.970
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-05-01 21:08:53.971
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-05-01 21:08:53.971
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2024-05-01 21:08:53.972
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2024-05-01 21:08:53.973
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2024-05-01 21:08:53.974
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2024-05-01 21:08:53.975
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2024-05-01 21:08:53.976
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2024-05-01 21:08:53.977
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2024-05-01 21:08:53.978
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2024-05-01 21:08:53.979
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-05-01 21:08:53.979
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-05-01 21:08:53.980
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-05-01 21:08:53.981
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Caching.StackExchangeRedis.AbpCachingStackExchangeRedisModule
+
+Date:2024-05-01 21:08:53.982
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2024-05-01 21:08:53.983
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:53.984
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-05-01 21:08:53.985
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-05-01 21:08:53.985
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:53.986
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-05-01 21:08:53.986
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-05-01 21:08:53.987
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:53.988
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-05-01 21:08:53.989
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-05-01 21:08:53.989
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-05-01 21:08:53.990
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-05-01 21:08:53.991
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-05-01 21:08:53.992
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-05-01 21:08:53.993
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BackgroundJobs.Hangfire.AbpBackgroundJobsHangfireModule
+
+Date:2024-05-01 21:08:53.994
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2024-05-01 21:08:53.994
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Hangfire.AbpHangfireModule
+
+Date:2024-05-01 21:08:53.995
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.BackgroundWorkers.Hangfire.AbpBackgroundWorkersHangfireModule
+
+Date:2024-05-01 21:08:53.996
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2024-05-01 21:08:53.997
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Swashbuckle.AbpSwashbuckleModule
+
+Date:2024-05-01 21:08:54.034
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Starting Hangfire Server using job storage: 'SQL Server: 10.8.1.22@HangFire_Module'
+
+Date:2024-05-01 21:08:54.035
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for SQL Server job storage: Queue poll interval: 00:00:15.
+
+Date:2024-05-01 21:08:54.036
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+Date:2024-05-01 21:08:54.205
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:39156:60fd9a38 successfully announced in 151.5695 ms
+
+Date:2024-05-01 21:08:54.210
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:39156:60fd9a38 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+Date:2024-05-01 21:08:54.250
+LogLevel:Information
+Class:Hangfire.Server.ServerWatchdog
+Message:4 servers were removed due to timeout
+
+Date:2024-05-01 21:08:54.287
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:39156:60fd9a38 all the dispatchers started
+
+Date:2024-05-01 21:08:54.895
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Starting Hangfire Server using job storage: 'SQL Server: 10.8.1.22@HangFire_Module'
+
+Date:2024-05-01 21:08:54.896
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for SQL Server job storage: Queue poll interval: 00:00:15.
+
+Date:2024-05-01 21:08:54.896
+LogLevel:Information
+Class:Hangfire.BackgroundJobServer
+Message:Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+Date:2024-05-01 21:08:54.908
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-05-01 21:08:54.920
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:39156:5f25baed successfully announced in 17.709 ms
+
+Date:2024-05-01 21:08:54.923
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:39156:5f25baed is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+Date:2024-05-01 21:08:55.058
+LogLevel:Information
+Class:Hangfire.Server.BackgroundServerProcess
+Message:Server hexin:39156:5f25baed all the dispatchers started
+
+Date:2024-05-01 21:08:57.413
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:44320"
+
+Date:2024-05-01 21:08:57.416
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-05-01 21:08:57.417
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-05-01 21:08:57.418
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\MicroServices\HangFireJob\host\HangFireJob.HttpApi.Host"
+
+Date:2024-05-01 21:09:07.596
+LogLevel:Warning
+Class:Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+Message:Failed to determine the https port for redirect.

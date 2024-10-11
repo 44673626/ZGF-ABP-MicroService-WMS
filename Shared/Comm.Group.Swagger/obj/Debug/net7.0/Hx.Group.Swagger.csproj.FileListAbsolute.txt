@@ -1,0 +1,12 @@
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\bin\Debug\net7.0\Hx.Group.Swagger.deps.json
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\bin\Debug\net7.0\Hx.Group.Swagger.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\bin\Debug\net7.0\Hx.Group.Swagger.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\Hx.Group.Swagger.csproj.AssemblyReference.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\Hx.Group.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\Hx.Group.Swagger.AssemblyInfoInputs.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\Hx.Group.Swagger.AssemblyInfo.cs
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\Hx.Group.Swagger.csproj.CoreCompileInputs.cache
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\Hx.Group.Swagger.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\refint\Hx.Group.Swagger.dll
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\Hx.Group.Swagger.pdb
+E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Hx.Group.Swagger\obj\Debug\net7.0\ref\Hx.Group.Swagger.dll

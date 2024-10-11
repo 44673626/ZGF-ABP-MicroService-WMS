@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Win.Utils</id>
+    <version>2.0.0</version>
+    <authors>Win.Utils</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="NPOI" version="2.5.2" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.SwaggerGen" version="5.6.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\Shared\Win.Utils\bin\Debug\net7.0\Win.Utils.dll" target="lib\net7.0\Win.Utils.dll" />
+  </files>
+</package>

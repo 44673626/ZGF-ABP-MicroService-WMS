@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Win.Sfs.FileStorage</RootNamespace>
+    <AssemblyName>FileStorage.HttpApi</AssemblyName>
+    <Version>1.0.15</Version>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FileStorage.Application.Contracts\FileStorage.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

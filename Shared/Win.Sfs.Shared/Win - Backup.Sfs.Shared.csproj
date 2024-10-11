@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5</TargetFramework>
+    <RootNamespace>Win.Sfs.Shared</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="RepositoryBase\BaseDataEfCoreRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="4.0.0" />
+    <PackageReference Include="Volo.Abp.Ddd.Domain" Version="4.0.0" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="4.0.0" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Modules\BusinessService\BusinessService.Domain.Shared\BusinessService.Domain.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

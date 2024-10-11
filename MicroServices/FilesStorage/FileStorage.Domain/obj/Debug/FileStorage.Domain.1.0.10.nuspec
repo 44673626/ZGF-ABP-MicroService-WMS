@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileStorage.Domain</id>
+    <version>1.0.10</version>
+    <authors>FileStorage.Domain</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.BlobStoring" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Ddd.Domain" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.EntityFrameworkCore" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Localization" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.PermissionManagement.Domain.Identity" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Validation" version="8.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\MicroServices\FilesStorage\FileStorage.Domain\bin\Debug\net8.0\FileStorage.Domain.dll" target="lib\net8.0\FileStorage.Domain.dll" />
+  </files>
+</package>

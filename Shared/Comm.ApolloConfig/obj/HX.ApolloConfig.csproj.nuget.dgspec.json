@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ABPVNext\\源码及环境安装\\示例源码\\SmartFactorySuiteABP8\\ABP8SmartFactorySuite\\Shared\\HX.ApolloConfig\\HX.ApolloConfig.csproj": {}
+  },
+  "projects": {
+    "D:\\ABPVNext\\源码及环境安装\\示例源码\\SmartFactorySuiteABP8\\ABP8SmartFactorySuite\\Shared\\HX.ApolloConfig\\HX.ApolloConfig.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ABPVNext\\源码及环境安装\\示例源码\\SmartFactorySuiteABP8\\ABP8SmartFactorySuite\\Shared\\HX.ApolloConfig\\HX.ApolloConfig.csproj",
+        "projectName": "HX.ApolloConfig",
+        "projectPath": "D:\\ABPVNext\\源码及环境安装\\示例源码\\SmartFactorySuiteABP8\\ABP8SmartFactorySuite\\Shared\\HX.ApolloConfig\\HX.ApolloConfig.csproj",
+        "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
+        "outputPath": "D:\\ABPVNext\\源码及环境安装\\示例源码\\SmartFactorySuiteABP8\\ABP8SmartFactorySuite\\Shared\\HX.ApolloConfig\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Com.Ctrip.Framework.Apollo.Configuration": {
+              "target": "Package",
+              "version": "[2.10.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

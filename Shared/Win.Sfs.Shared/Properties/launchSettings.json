@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Win.Sfs.Shared": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:26945;http://localhost:26963"
+    }
+  }
+}

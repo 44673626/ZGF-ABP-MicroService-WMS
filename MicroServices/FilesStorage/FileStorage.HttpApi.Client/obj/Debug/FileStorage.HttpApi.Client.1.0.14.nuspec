@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileStorage.HttpApi.Client</id>
+    <version>1.0.14</version>
+    <title>文件服务</title>
+    <authors>FileStorage.HttpApi.Client</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="FileStorage.Application.Contracts" version="1.0.11" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Http.Client" version="7.2.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\2024合心工作\源码\SmartFactorySuite2024113\SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi.Client\bin\Debug\net7.0\FileStorage.HttpApi.Client.dll" target="lib\net7.0\FileStorage.HttpApi.Client.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vxJJQXvnO5DKWnUd8cYPxoJ7fmnGxKmz95tksfvmVyo=",
+  "Source": "WebAppGateway.Host",
+  "BasePath": "_content/WebAppGateway.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

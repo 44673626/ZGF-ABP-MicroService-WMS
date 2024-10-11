@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "WMS.Business": {
+      "path": "WMS.Business.abpmdl.json"
+    }
+  }
+}

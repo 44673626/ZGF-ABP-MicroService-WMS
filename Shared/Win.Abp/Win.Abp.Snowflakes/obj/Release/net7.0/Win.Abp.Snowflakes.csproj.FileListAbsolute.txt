@@ -1,0 +1,12 @@
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\bin\Release\net7.0\Win.Abp.Snowflakes.deps.json
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\bin\Release\net7.0\Win.Abp.Snowflakes.dll
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\bin\Release\net7.0\Win.Abp.Snowflakes.pdb
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\Win.Abp.Snowflakes.csproj.AssemblyReference.cache
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\Win.Abp.Snowflakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\Win.Abp.Snowflakes.AssemblyInfoInputs.cache
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\Win.Abp.Snowflakes.AssemblyInfo.cs
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\Win.Abp.Snowflakes.csproj.CoreCompileInputs.cache
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\Win.Abp.Snowflakes.dll
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\refint\Win.Abp.Snowflakes.dll
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\Win.Abp.Snowflakes.pdb
+D:\长春项目\北京北汽结算项目\SmartFactorySuite\Shared\Win.Abp\Win.Abp.Snowflakes\obj\Release\net7.0\ref\Win.Abp.Snowflakes.dll

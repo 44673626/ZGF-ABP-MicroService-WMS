@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppGateway.Host.props" />
+</Project>

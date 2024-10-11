@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EKAgwJOQXRaoC6D5n08yMIrC6DXP/+D11wxC/vDrNq4=",
+  "Source": "FileStorage.Host",
+  "BasePath": "_content/FileStorage.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\bin\Debug\netcoreapp5\FileStorage.Application.Contracts.deps.json
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\bin\Debug\netcoreapp5\FileStorage.Application.Contracts.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\bin\Debug\netcoreapp5\FileStorage.Application.Contracts.pdb
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\bin\Debug\netcoreapp5\FileStorage.Domain.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\bin\Debug\netcoreapp5\FileStorage.Domain.pdb
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\FileStorage.Application.Contracts.csproj.AssemblyReference.cache
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\FileStorage.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\FileStorage.Application.Contracts.AssemblyInfoInputs.cache
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\FileStorage.Application.Contracts.AssemblyInfo.cs
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\FileStorage.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\FileStorage.Application.Contracts.csproj.CopyComplete
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\FileStorage.Application.Contracts.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\refint\FileStorage.Application.Contracts.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\FileStorage.Application.Contracts.pdb
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application.Contracts\obj\Debug\netcoreapp5\ref\FileStorage.Application.Contracts.dll

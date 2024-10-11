@@ -1,0 +1,12 @@
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\bin\Debug\net6.0\Com.ApolloConfig.deps.json
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\bin\Debug\net6.0\Com.ApolloConfig.dll
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\bin\Debug\net6.0\Com.ApolloConfig.pdb
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\Com.ApolloConfig.csproj.AssemblyReference.cache
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\Com.ApolloConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\Com.ApolloConfig.AssemblyInfoInputs.cache
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\Com.ApolloConfig.AssemblyInfo.cs
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\Com.ApolloConfig.csproj.CoreCompileInputs.cache
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\Com.ApolloConfig.dll
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\refint\Com.ApolloConfig.dll
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\Com.ApolloConfig.pdb
+D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\Shared\HX.ApolloConfig\obj\Debug\net6.0\ref\Com.ApolloConfig.dll

@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>WMS.Business</RootNamespace>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DistributedLock.Redis" Version="1.0.2" />
+    <PackageReference Include="DotNetCore.CAP" Version="8.0.0" />
+    <PackageReference Include="EFCore.BulkExtensions" Version="8.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="MiniProfiler.AspNetCore.Mvc" Version="4.3.8" />
+    <PackageReference Include="Shouldly" Version="4.2.1" />
+    <PackageReference Include="Thinktecture.EntityFrameworkCore.SqlServer" Version="4.5.1" />
+    <PackageReference Include="Volo.Abp.AspNetCore" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.BlobStoring" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.BlobStoring.FileSystem" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Dapper" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Ddd.Application" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Application" Version="8.1.1" />
+    <ProjectReference Include="..\WMS.Business.Application.Contracts\WMS.Business.Application.Contracts.csproj" />
+    <ProjectReference Include="..\WMS.Business.Domain\WMS.Business.Domain.csproj" />
+    <ProjectReference Include="..\WMS.Business.EntityFrameworkCore\WMS.Business.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>

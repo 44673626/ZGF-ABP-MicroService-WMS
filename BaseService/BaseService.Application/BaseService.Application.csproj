@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>BaseService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetCore.CAP" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Account.Application" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.PermissionManagement.Application" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Application" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Identity.Application" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Comm.CAP.EtoShare\Comm.CAP.EtoShare.csproj" />
+    <ProjectReference Include="..\BaseService.Application.Contracts\BaseService.Application.Contracts.csproj" />
+    <ProjectReference Include="..\BaseService.Domain\BaseService.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Systems\MessageManagement\" />
+  </ItemGroup>
+
+</Project>

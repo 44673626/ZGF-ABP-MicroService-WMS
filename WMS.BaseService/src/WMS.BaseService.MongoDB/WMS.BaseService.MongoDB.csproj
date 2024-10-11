@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>WMS.BaseService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.MongoDB" Version="6.0.0" />
+    <ProjectReference Include="..\WMS.BaseService.Domain\WMS.BaseService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

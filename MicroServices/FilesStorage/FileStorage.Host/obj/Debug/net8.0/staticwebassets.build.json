@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5k3FNrk2ZuzxPY4iccv8uEh3nCJTnnmBZNt6pvGWz0g=",
+  "Source": "FileStorage.Host",
+  "BasePath": "_content/FileStorage.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileStorage.Host\\wwwroot",
+      "Source": "FileStorage.Host",
+      "ContentRoot": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\wwwroot\\",
+      "BasePath": "_content/FileStorage.Host",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>BaseService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetCore.CAP" Version="8.1.1" />
+    <PackageReference Include="DotNetCore.CAP.Dashboard" Version="8.1.1" />
+    <PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="8.1.1" />
+    <PackageReference Include="DotNetCore.CAP.SqlServer" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection.StackExchangeRedis" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="8.0.4" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
+    <PackageReference Include="Serilog.Sinks.Async" Version="1.5.0" />
+    <PackageReference Include="Serilog.Sinks.Elasticsearch" Version="10.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.8.1" />
+    <PackageReference Include="Volo.Abp.AspNetCore.MultiTenancy" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Serilog" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore.SqlServer" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Swashbuckle" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Comm.ConsulConfig\Com.ConsulConfig.csproj" />
+    <ProjectReference Include="..\BaseService.Application\BaseService.Application.csproj" />
+    <ProjectReference Include="..\BaseService.EntityFrameworkCore\BaseService.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\BaseService.HttpApi\BaseService.HttpApi.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Logs\" />
+  </ItemGroup>
+
+</Project>

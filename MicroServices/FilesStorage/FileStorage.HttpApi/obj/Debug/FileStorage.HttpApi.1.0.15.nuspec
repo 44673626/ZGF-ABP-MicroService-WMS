@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileStorage.HttpApi</id>
+    <version>1.0.15</version>
+    <authors>FileStorage.HttpApi</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="FileStorage.Application.Contracts" version="1.0.15" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.AspNetCore.Mvc" version="8.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ABPVNext\源码及环境安装\示例源码\SmartFactorySuiteABP8\ABP8SmartFactorySuite\MicroServices\FilesStorage\FileStorage.HttpApi\bin\Debug\net8.0\FileStorage.HttpApi.dll" target="lib\net8.0\FileStorage.HttpApi.dll" />
+  </files>
+</package>

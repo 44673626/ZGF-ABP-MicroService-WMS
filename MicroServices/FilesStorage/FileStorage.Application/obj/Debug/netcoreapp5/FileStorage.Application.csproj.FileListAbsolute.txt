@@ -1,0 +1,17 @@
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\bin\Debug\netcoreapp5\FileStorage.Application.deps.json
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\bin\Debug\netcoreapp5\FileStorage.Application.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\bin\Debug\netcoreapp5\FileStorage.Application.pdb
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\bin\Debug\netcoreapp5\FileStorage.Application.Contracts.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\bin\Debug\netcoreapp5\FileStorage.Domain.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\bin\Debug\netcoreapp5\FileStorage.Application.Contracts.pdb
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\bin\Debug\netcoreapp5\FileStorage.Domain.pdb
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\FileStorage.Application.csproj.AssemblyReference.cache
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\FileStorage.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\FileStorage.Application.AssemblyInfoInputs.cache
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\FileStorage.Application.AssemblyInfo.cs
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\FileStorage.Application.csproj.CoreCompileInputs.cache
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\FileStorage.Application.csproj.CopyComplete
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\FileStorage.Application.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\refint\FileStorage.Application.dll
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\FileStorage.Application.pdb
+D:\长春项目\结算\SmartFactorySuite\src\Modules\FileStorage\FileStorage.Application\obj\Debug\netcoreapp5\ref\FileStorage.Application.dll

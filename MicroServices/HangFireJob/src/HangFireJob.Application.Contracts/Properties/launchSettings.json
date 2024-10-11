@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "HangFireJob.Application.Contracts": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53126;http://localhost:53127"
+    }
+  }
+}

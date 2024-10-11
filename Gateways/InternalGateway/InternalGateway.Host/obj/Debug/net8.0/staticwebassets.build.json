@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3R3xL88xt8ZUHsDz6vPBjAO8oQw5y21pS4PwAHLFbrs=",
+  "Source": "InternalGateway.Host",
+  "BasePath": "_content/InternalGateway.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

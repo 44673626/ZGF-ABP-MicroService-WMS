@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ApolloConfig\\Com.ApolloConfig.csproj": {}
+  },
+  "projects": {
+    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ApolloConfig\\Com.ApolloConfig.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ApolloConfig\\Com.ApolloConfig.csproj",
+        "projectName": "Com.ApolloConfig",
+        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ApolloConfig\\Com.ApolloConfig.csproj",
+        "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
+        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ApolloConfig\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Com.Ctrip.Framework.Apollo.Configuration": {
+              "target": "Package",
+              "version": "[2.10.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

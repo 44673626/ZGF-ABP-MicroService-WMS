@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>XCZ.BaseService.HttpApi.Client</id>
+    <version>2.0.0</version>
+    <title>BaseService远程服务client</title>
+    <authors>XCZ</authors>
+    <projectUrl>https://github.com/WilliamXu96/ABP-MicroService</projectUrl>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="XCZ.BaseService.Application.Contracts" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Http.Client.IdentityModel" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Http.Client.IdentityModel.Web" version="8.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi.Client\bin\Debug\net8.0\BaseService.HttpApi.Client.dll" target="lib\net8.0\BaseService.HttpApi.Client.dll" />
+  </files>
+</package>
