@@ -25,7 +25,7 @@ ABP框架提供了基础设施使基于领域驱动设计的开发更易实现�
 
 简单总结：ABPVNext框架使用DDD的思想，将业务逻辑和数据持久化分离，使系统更易于维护和扩展。
 
-![image](https://github.com/user-attachments/assets/5560d6be-9b5b-4a93-a60a-e119fdd94fc0)
+  --- ![image](https://github.com/user-attachments/assets/5560d6be-9b5b-4a93-a60a-e119fdd94fc0)---
 
 ### 系统使用的技术栈（最新）
 > 分布式日志Serilog
@@ -265,6 +265,14 @@ abp new XX.BaseService -t module --no-ui --version 8.0.0
  - 定时任务：HangFireJob.HttpApi.Host   定时与业务完全分离（完成）
  - WMS基础服务：WMS.BaseService.HttpApi.Host（例如：基础档案等一维表的基础服务）（准备开发中）
  - WMS主业务：WMS.Business.HttpApi.Host（主业务） 与基础服务通过 内部网关进行 服务间通信（准备开发中）
+
+### 项目启动初始条件（必须）  
+
+- 启动Consul服务
+  启动consul服务发现，安装consul后，执行consul.exe后，在该目录下执行cmd，输入启动命令：consul agent -dev，运行地址：http://localhost:8500/
+  说明：因为所有服务都走服务发现，这个是必须先启动，才能运行整个微服务。
+- 启动Redis
+  执行redis安装文件，本地启动即可
 
 ### 开发进度
 WMS相关业务准备开发中，目前进度：架起了ABP微服务架构。
