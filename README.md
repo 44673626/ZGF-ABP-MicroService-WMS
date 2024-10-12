@@ -25,7 +25,7 @@ ABP框架提供了基础设施使基于领域驱动设计的开发更易实现�
 
 简单总结：ABPVNext框架使用DDD的思想，将业务逻辑和数据持久化分离，使系统更易于维护和扩展。
 
-  --- ![image](https://github.com/user-attachments/assets/5560d6be-9b5b-4a93-a60a-e119fdd94fc0)---
+  --- ![image](https://github.com/user-attachments/assets/0473364f-76e5-4648-a2ef-2ab3b489ea85)---
 
 ### 系统使用的技术栈（最新）
 > 分布式日志Serilog
