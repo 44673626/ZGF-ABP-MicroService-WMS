@@ -274,8 +274,17 @@ abp new XX.BaseService -t module --no-ui --version 8.0.0
 - 启动Redis
   执行redis安装文件，本地启动即可
 
+### 前端运行效果
+前端使用Vue2.0，使用经典易上手的vue-admin-element框架，前后端分离开发，支持多租户等功能。
+> 首页,公司输入框内可输入租户信息
+![image](https://github.com/user-attachments/assets/7f1dcc45-0c68-4cd8-9e9b-aa7f6613934a)
+> 用户名admin 密码：1q2w3E*
+![image](https://github.com/user-attachments/assets/a7b97e61-4236-4aaf-a50c-8bd2cd004e19)
+
+
 ### 开发进度
-WMS相关业务准备开发中，目前进度：架起了ABP微服务架构。
+1，WMS相关业务准备开发中，目前进度：架起了ABP微服务架构。
+2，加入了前端vue-admin-element框架。
 
 ### 注意事项
 开源项目，大家一学习应用！
