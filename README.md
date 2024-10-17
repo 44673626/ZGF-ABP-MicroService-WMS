@@ -14,6 +14,14 @@
   
   持续关注和分享：团队致力于开发一套完整的WMS系统，使用微服务架构，欢迎有识之士加入我们的团队！
 
+
+### 前端运行效果
+前端使用Vue2.0，使用经典易上手的vue-admin-element框架，前后端分离开发，支持多租户等功能。
+> 首页,公司输入框内可输入租户信息
+![image](https://github.com/user-attachments/assets/7f1dcc45-0c68-4cd8-9e9b-aa7f6613934a)
+> 用户名:admin 密码：1q2w3E*
+![image](https://github.com/user-attachments/assets/a7b97e61-4236-4aaf-a50c-8bd2cd004e19)
+
 #### ABPVNext微服务架构:  
 ABP vNext 框架是一个基于ASP.NET核心的完整基础设施，通过遵循软件开发最佳实践和最新技术来创建现代web应用程序和API，它完全基于 ASP.NET Core，设计更加合理，更加细粒度的模块化设计。
 ABP框架提供了基础设施使基于领域驱动设计的开发更易实现。
@@ -273,14 +281,6 @@ abp new XX.BaseService -t module --no-ui --version 8.0.0
   说明：因为所有服务都走服务发现，这个是必须先启动，才能运行整个微服务。
 - 启动Redis
   执行redis安装文件，本地启动即可
-
-### 前端运行效果
-前端使用Vue2.0，使用经典易上手的vue-admin-element框架，前后端分离开发，支持多租户等功能。
-> 首页,公司输入框内可输入租户信息
-![image](https://github.com/user-attachments/assets/7f1dcc45-0c68-4cd8-9e9b-aa7f6613934a)
-> 用户名admin 密码：1q2w3E*
-![image](https://github.com/user-attachments/assets/a7b97e61-4236-4aaf-a50c-8bd2cd004e19)
-
 
 ### 开发进度
 1，WMS相关业务准备开发中，目前进度：架起了ABP微服务架构。
