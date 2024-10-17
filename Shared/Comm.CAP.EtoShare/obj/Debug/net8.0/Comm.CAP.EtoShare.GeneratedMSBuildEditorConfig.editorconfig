@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Comm.CAP.EtoShare
-build_property.ProjectDir = D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\
+build_property.ProjectDir = E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

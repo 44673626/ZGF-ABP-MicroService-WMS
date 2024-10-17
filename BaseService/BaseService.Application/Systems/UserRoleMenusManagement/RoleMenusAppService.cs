@@ -53,6 +53,14 @@ namespace BaseService.Systems.UserMenusManagement
             return new ListResultDto<MenusListDto>(dtos.OrderBy(_ => _.Sort).ToList());
         }
 
+        public async Task<ListResultDto<MenusTreeDto>> GetMenusTree()
+        {
+            var menus = await _menuRepository.GetListAsync();
+            var root = menus.Where(_ => _.Pid == null).OrderBy(_ => _.Sort).ToList();
+            var dtos = ObjectMapper.Map<List<Menu>, List<MenusTreeDto>>(menus);
+            return new ListResultDto<MenusTreeDto>(dtos.OrderBy(_ => _.Sort).ToList());
+        }
+
         /// <summary>
         /// 获取当前角色菜单
         /// </summary>

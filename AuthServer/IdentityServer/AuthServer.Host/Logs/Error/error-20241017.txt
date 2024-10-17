@@ -1,0 +1,55 @@
+
+Date:2024-10-17 09:33:41.865
+LogLevel:Error
+Class:IdentityServer4.Validation.DefaultResourceValidator
+Message:Scope "BaseData" not found in store.
+
+Date:2024-10-17 09:33:41.884
+LogLevel:Error
+Class:IdentityServer4.Validation.DefaultResourceValidator
+Message:Scope "SalesManagement" not found in store.
+
+Date:2024-10-17 09:33:41.895
+LogLevel:Error
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Invalid scopes requested, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: null, AuthorizationCode: "********", RefreshToken: "********", UserName: null, AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService BaseData SalesManagement")] }
+
+Date:2024-10-17 09:33:48.454
+LogLevel:Error
+Class:IdentityServer4.Validation.DefaultResourceValidator
+Message:Scope "BaseData" not found in store.
+
+Date:2024-10-17 09:33:48.455
+LogLevel:Error
+Class:IdentityServer4.Validation.DefaultResourceValidator
+Message:Scope "SalesManagement" not found in store.
+
+Date:2024-10-17 09:33:48.457
+LogLevel:Error
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Invalid scopes requested, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: null, AuthorizationCode: "********", RefreshToken: "********", UserName: null, AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService BaseData SalesManagement")] }
+
+Date:2024-10-17 09:33:51.699
+LogLevel:Error
+Class:IdentityServer4.Validation.DefaultResourceValidator
+Message:Scope "BaseData" not found in store.
+
+Date:2024-10-17 09:33:51.700
+LogLevel:Error
+Class:IdentityServer4.Validation.DefaultResourceValidator
+Message:Scope "SalesManagement" not found in store.
+
+Date:2024-10-17 09:33:51.702
+LogLevel:Error
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Invalid scopes requested, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: null, AuthorizationCode: "********", RefreshToken: "********", UserName: null, AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService BaseData SalesManagement")] }
+
+Date:2024-10-17 09:38:49.357
+LogLevel:Error
+Class:IdentityServer4.Validation.DefaultResourceValidator
+Message:Scope "BaseData" not found in store.
+
+Date:2024-10-17 09:38:49.360
+LogLevel:Error
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Invalid scopes requested, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: null, AuthorizationCode: "********", RefreshToken: "********", UserName: null, AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService BaseData")] }

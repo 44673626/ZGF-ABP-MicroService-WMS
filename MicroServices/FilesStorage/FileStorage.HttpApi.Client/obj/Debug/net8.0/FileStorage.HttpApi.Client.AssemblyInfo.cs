@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileStorage.HttpApi.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.15.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.15+99e391c5c9d22cf3bd20d6fa76c35c2bdecccc79")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileStorage.HttpApi.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileStorage.HttpApi.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.15.0")]

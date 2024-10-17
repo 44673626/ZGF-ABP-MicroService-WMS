@@ -34,3 +34,16 @@ D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\refint\Comm.CAP.EtoShare.dll
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.pdb
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\ref\Comm.CAP.EtoShare.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\bin\Debug\net8.0\Comm.CAP.EtoShare.deps.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\bin\Debug\net8.0\Comm.CAP.EtoShare.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\bin\Debug\net8.0\Comm.CAP.EtoShare.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.csproj.AssemblyReference.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.GeneratedMSBuildEditorConfig.editorconfig
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.AssemblyInfoInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.AssemblyInfo.cs
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.csproj.CoreCompileInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.sourcelink.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\refint\Comm.CAP.EtoShare.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\Comm.CAP.EtoShare.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.CAP.EtoShare\obj\Debug\net8.0\ref\Comm.CAP.EtoShare.dll

@@ -39,6 +39,7 @@ namespace BaseService
             CreateMap<Job, JobDto>();
 
             CreateMap<Menu, MenuDto>();
+            CreateMap<Menu, MenusTreeDto>();
             CreateMap<Menu, MenusListDto>();
         }
     }

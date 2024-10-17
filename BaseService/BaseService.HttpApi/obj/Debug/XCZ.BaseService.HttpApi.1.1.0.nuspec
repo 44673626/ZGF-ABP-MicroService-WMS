@@ -7,7 +7,7 @@
     <authors>XCZ</authors>
     <projectUrl>https://github.com/WilliamXu96/ABP-MicroService</projectUrl>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" />
+    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" commit="99e391c5c9d22cf3bd20d6fa76c35c2bdecccc79" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="XCZ.BaseService.Application.Contracts" version="2.0.0" exclude="Build,Analyzers" />
@@ -22,6 +22,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\BaseService.HttpApi.dll" target="lib\net8.0\BaseService.HttpApi.dll" />
+    <file src="E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\BaseService.HttpApi.dll" target="lib\net8.0\BaseService.HttpApi.dll" />
   </files>
 </package>

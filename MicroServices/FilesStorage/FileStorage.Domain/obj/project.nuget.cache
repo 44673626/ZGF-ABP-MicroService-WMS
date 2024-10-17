@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H5CrLcEOBeLv7VNUhlIwi8MBM4ob2fBa4c50X4GJ6Xmxi8wW6SQutmOo1Hfia0vOFYN9MMFhaXKO7uTnPomcIQ==",
+  "dgSpecHash": "iME6tQ2rL8uPCvFQJPb5AsVuSAVgyt609XeudU3ZUrHFaOJryLVTNsErvKVQPtS7qQKieUvPu3f0HGhVhaHaEg==",
   "success": true,
-  "projectFilePath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj",
+  "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\合心凯达\\.nuget\\packages\\asynckeyedlock\\6.3.4\\asynckeyedlock.6.3.4.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\jetbrains.annotations\\2023.3.0\\jetbrains.annotations.2023.3.0.nupkg.sha512",
@@ -238,5 +238,12 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.validation.abstractions\\8.1.1\\volo.abp.validation.abstractions.8.1.1.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.virtualfilesystem\\8.1.1\\volo.abp.virtualfilesystem.8.1.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

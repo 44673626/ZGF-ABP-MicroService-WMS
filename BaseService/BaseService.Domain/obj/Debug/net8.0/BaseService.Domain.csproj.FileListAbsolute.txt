@@ -58,3 +58,16 @@ D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\refint\BaseService.Domain.dll
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.pdb
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\ref\BaseService.Domain.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\bin\Debug\net8.0\BaseService.Domain.deps.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\bin\Debug\net8.0\BaseService.Domain.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\bin\Debug\net8.0\BaseService.Domain.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.csproj.AssemblyReference.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.AssemblyInfoInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.AssemblyInfo.cs
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.csproj.CoreCompileInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.sourcelink.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\refint\BaseService.Domain.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\BaseService.Domain.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Domain\obj\Debug\net8.0\ref\BaseService.Domain.dll

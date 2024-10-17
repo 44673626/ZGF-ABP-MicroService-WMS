@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZUuMpvrHPe5NCRgt+jyGX1t6raLO95t4oNw23b4+HPMmEhi9MOEgqJ1dBaZv6nAj4dX5HJFpx48SikpewNBQQ==",
+  "dgSpecHash": "EcGfLAx9JUHeBUb4PSS8cGz3T0t1mm+ukS0zg8RWi0yvDzzgY7JdqRrhU3SBvXAKEcjN3c11aXCK4X0dIJDvkw==",
   "success": true,
-  "projectFilePath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.EntityFrameworkCore\\BaseService.EntityFrameworkCore.csproj",
+  "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.EntityFrameworkCore\\BaseService.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\合心凯达\\.nuget\\packages\\asynckeyedlock\\6.3.4\\asynckeyedlock.6.3.4.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
@@ -170,5 +170,12 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.validation.abstractions\\8.1.1\\volo.abp.validation.abstractions.8.1.1.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.virtualfilesystem\\8.1.1\\volo.abp.virtualfilesystem.8.1.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

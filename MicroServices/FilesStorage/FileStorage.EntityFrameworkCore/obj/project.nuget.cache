@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZJsZ0pxgTV+Bs1N3XcUln6/BD0e8yYOerpVqyrwxc8bZBo+EPHy1Cj1TrRheXImnloD3lws/4z4kjo+iOaIfBw==",
+  "dgSpecHash": "i1CQF158QRxIVcLXLCmpjoy5bCJgkrmJe3Mm2pjl4rknseuvMDmGA2c8vlRINn9e7zobTpRuzzi015s5xVNxSA==",
   "success": true,
-  "projectFilePath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj",
+  "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\合心凯达\\.nuget\\packages\\asynckeyedlock\\6.3.4\\asynckeyedlock.6.3.4.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
@@ -271,5 +271,12 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.virtualfilesystem\\8.1.1\\volo.abp.virtualfilesystem.8.1.1.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\filestorage.domain\\1.0.10\\filestorage.domain.1.0.10.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

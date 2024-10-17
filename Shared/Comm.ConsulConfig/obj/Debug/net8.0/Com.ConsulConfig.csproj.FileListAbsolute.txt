@@ -46,3 +46,16 @@ D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\refint\Com.ConsulConfig.dll
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.pdb
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\ref\Com.ConsulConfig.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\bin\Debug\net8.0\Com.ConsulConfig.deps.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\bin\Debug\net8.0\Com.ConsulConfig.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\bin\Debug\net8.0\Com.ConsulConfig.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.csproj.AssemblyReference.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.GeneratedMSBuildEditorConfig.editorconfig
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.AssemblyInfoInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.AssemblyInfo.cs
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.csproj.CoreCompileInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.sourcelink.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\refint\Com.ConsulConfig.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\Com.ConsulConfig.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ConsulConfig\obj\Debug\net8.0\ref\Com.ConsulConfig.dll

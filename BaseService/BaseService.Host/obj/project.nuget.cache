@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UmtpQwkCQxzjuqhmcy3qI0U8qac3KN6BKmJ0qbc5jwirO+SS1/jpsiOnKcuJkQYMldY7YJXN/N9S2adOUtxtbw==",
+  "dgSpecHash": "8f54R9Laxht7UqQ5QazSzrvD+0ATE87RxePfPjErA8xQiFCYsYdew3CVS62hpqE4KkGFNngg4IVmbCb6w3UT6Q==",
   "success": true,
-  "projectFilePath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Host\\BaseService.Host.csproj",
+  "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Host\\BaseService.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\合心凯达\\.nuget\\packages\\asp.versioning.abstractions\\7.0.0\\asp.versioning.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\asp.versioning.http\\7.1.0\\asp.versioning.http.7.1.0.nupkg.sha512",
@@ -319,5 +319,12 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\webapiclientcore\\2.0.4\\webapiclientcore.2.0.4.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\webapiclientcore.abstractions\\2.0.4\\webapiclientcore.abstractions.2.0.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

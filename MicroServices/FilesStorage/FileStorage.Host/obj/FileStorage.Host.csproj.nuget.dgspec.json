@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\FileStorage.Host.csproj": {}
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\FileStorage.Host.csproj": {}
   },
   "projects": {
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj": {
       "version": "1.0.15",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj",
         "projectName": "FileStorage.Application.Contracts",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj"
               }
             }
           }
@@ -77,14 +78,14 @@
         }
       }
     },
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj": {
       "version": "1.0.2",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj",
         "projectName": "FileStorage.Application",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,17 +96,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj"
               },
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj"
               }
             }
           }
@@ -169,14 +171,14 @@
         }
       }
     },
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj": {
       "version": "1.0.10",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj",
         "projectName": "FileStorage.Domain",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -187,6 +189,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -254,14 +257,14 @@
         }
       }
     },
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj",
         "projectName": "FileStorage.EntityFrameworkCore",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -272,14 +275,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Domain\\FileStorage.Domain.csproj"
               }
             }
           }
@@ -329,14 +333,14 @@
         }
       }
     },
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\FileStorage.Host.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\FileStorage.Host.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\FileStorage.Host.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\FileStorage.Host.csproj",
         "projectName": "FileStorage.Host",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\FileStorage.Host.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\FileStorage.Host.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Host\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -347,20 +351,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj"
               },
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.EntityFrameworkCore\\FileStorage.EntityFrameworkCore.csproj"
               },
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj"
               }
             }
           }
@@ -461,14 +466,14 @@
         }
       }
     },
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj": {
       "version": "1.0.15",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj",
         "projectName": "FileStorage.HttpApi",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\FileStorage.HttpApi.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.HttpApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -479,14 +484,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application.Contracts\\FileStorage.Application.Contracts.csproj"
               }
             }
           }

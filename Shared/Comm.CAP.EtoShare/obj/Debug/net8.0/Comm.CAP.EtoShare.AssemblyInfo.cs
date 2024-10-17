@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Comm.CAP.EtoShare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.2.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2.0+99e391c5c9d22cf3bd20d6fa76c35c2bdecccc79")]
 [assembly: System.Reflection.AssemblyProductAttribute("Comm.CAP.EtoShare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Comm.CAP.EtoShare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.2.0.0")]

@@ -1,0 +1,3365 @@
+
+Date:2024-10-17 09:26:15.797
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-10-17 09:26:15.812
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- BaseService.BaseServiceHostModule
+
+Date:2024-10-17 09:26:15.813
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-10-17 09:26:15.814
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-10-17 09:26:15.815
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceApplicationModule
+
+Date:2024-10-17 09:26:15.815
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceDomainModule
+
+Date:2024-10-17 09:26:15.816
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-10-17 09:26:15.817
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-10-17 09:26:15.818
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-10-17 09:26:15.819
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-10-17 09:26:15.819
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-10-17 09:26:15.820
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-10-17 09:26:15.821
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-10-17 09:26:15.822
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-10-17 09:26:15.822
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-10-17 09:26:15.824
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-10-17 09:26:15.824
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-10-17 09:26:15.825
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-10-17 09:26:15.826
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-10-17 09:26:15.826
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-10-17 09:26:15.827
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-10-17 09:26:15.827
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-10-17 09:26:15.828
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-10-17 09:26:15.829
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-10-17 09:26:15.829
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-10-17 09:26:15.830
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-10-17 09:26:15.831
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-10-17 09:26:15.832
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-10-17 09:26:15.833
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-10-17 09:26:15.833
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-10-17 09:26:15.834
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-10-17 09:26:15.835
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-10-17 09:26:15.836
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-10-17 09:26:15.837
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-10-17 09:26:15.838
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-10-17 09:26:15.839
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-10-17 09:26:15.840
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-10-17 09:26:15.841
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-10-17 09:26:15.841
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-10-17 09:26:15.842
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.Identity.AbpPermissionManagementDomainIdentityModule
+
+Date:2024-10-17 09:26:15.843
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2024-10-17 09:26:15.843
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2024-10-17 09:26:15.844
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-10-17 09:26:15.845
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-10-17 09:26:15.845
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-10-17 09:26:15.846
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-10-17 09:26:15.847
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-10-17 09:26:15.848
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2024-10-17 09:26:15.849
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceApplicationContractsModule
+
+Date:2024-10-17 09:26:15.849
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-10-17 09:26:15.850
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-10-17 09:26:15.851
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-10-17 09:26:15.852
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-10-17 09:26:15.853
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2024-10-17 09:26:15.853
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2024-10-17 09:26:15.855
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2024-10-17 09:26:15.855
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2024-10-17 09:26:15.856
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2024-10-17 09:26:15.857
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2024-10-17 09:26:15.858
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2024-10-17 09:26:15.859
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-10-17 09:26:15.859
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2024-10-17 09:26:15.860
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-10-17 09:26:15.861
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-10-17 09:26:15.862
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2024-10-17 09:26:15.862
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2024-10-17 09:26:15.863
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2024-10-17 09:26:15.864
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2024-10-17 09:26:15.865
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2024-10-17 09:26:15.866
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementApplicationModule
+
+Date:2024-10-17 09:26:15.867
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-10-17 09:26:15.868
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-10-17 09:26:15.868
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2024-10-17 09:26:15.870
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.EntityFrameworkCore.BaseServiceEntityFrameworkCoreModule
+
+Date:2024-10-17 09:26:15.870
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-10-17 09:26:15.871
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-10-17 09:26:15.872
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 09:26:15.873
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 09:26:15.873
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-10-17 09:26:15.874
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-10-17 09:26:15.874
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 09:26:15.875
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2024-10-17 09:26:15.875
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2024-10-17 09:26:15.876
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceHttpApiModule
+
+Date:2024-10-17 09:26:15.876
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountHttpApiModule
+
+Date:2024-10-17 09:26:15.877
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityHttpApiModule
+
+Date:2024-10-17 09:26:15.878
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-10-17 09:26:15.878
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-10-17 09:26:15.879
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-10-17 09:26:15.879
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-10-17 09:26:15.880
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-10-17 09:26:15.880
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-10-17 09:26:15.881
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.HttpApi.AbpPermissionManagementHttpApiModule
+
+Date:2024-10-17 09:26:15.881
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiModule
+
+Date:2024-10-17 09:26:15.882
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.FeatureManagement.AbpFeatureManagementHttpApiModule
+
+Date:2024-10-17 09:26:15.882
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.FeatureManagement.AbpFeatureManagementApplicationContractsModule
+
+Date:2024-10-17 09:26:15.882
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.FeatureManagement.AbpFeatureManagementDomainSharedModule
+
+Date:2024-10-17 09:26:15.883
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-10-17 09:26:15.883
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2024-10-17 09:26:15.884
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule
+
+Date:2024-10-17 09:26:15.885
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-10-17 09:26:20.023
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-10-17 09:26:20.064
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:55389"
+
+Date:2024-10-17 09:26:20.068
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-10-17 09:26:20.070
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-10-17 09:26:20.071
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Host"
+
+Date:2024-10-17 09:51:11.643
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 09:51:49.970
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 09:53:08.572
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 09:57:58.822
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 09:58:04.187
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 09:59:34.230
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:00:51.898
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:00:54.568
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:01:02.721
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:01:28.602
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:01:59.956
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:02:17.942
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:02:23.541
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:02:47.713
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:03:17.925
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:03:41.697
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:04:39.276
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:06:03.956
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "您的请求无效！",
+  "details": "验证过程中检测到以下错误。\r\n - The value 'tree' is not valid.\r\n",
+  "data": {},
+  "validationErrors": [
+    {
+      "message": "The value 'tree' is not valid.",
+      "members": [
+        "id"
+      ]
+    }
+  ]
+}
+
+
+Date:2024-10-17 10:06:03.959
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:ModelState is not valid! See ValidationErrors for details.
+Volo.Abp.Validation.AbpValidationException: ModelState is not valid! See ValidationErrors for details.
+   at Volo.Abp.AspNetCore.Mvc.Validation.ModelStateValidator.Validate(ModelStateDictionary modelState)
+   at Volo.Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 10:06:03.976
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:There are 1 validation errors:
+The value 'tree' is not valid. (id)
+
+
+Date:2024-10-17 10:06:16.647
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:06:17.478
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "您的请求无效！",
+  "details": "验证过程中检测到以下错误。\r\n - The value 'tree' is not valid.\r\n",
+  "data": {},
+  "validationErrors": [
+    {
+      "message": "The value 'tree' is not valid.",
+      "members": [
+        "id"
+      ]
+    }
+  ]
+}
+
+
+Date:2024-10-17 10:06:17.481
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:ModelState is not valid! See ValidationErrors for details.
+Volo.Abp.Validation.AbpValidationException: ModelState is not valid! See ValidationErrors for details.
+   at Volo.Abp.AspNetCore.Mvc.Validation.ModelStateValidator.Validate(ModelStateDictionary modelState)
+   at Volo.Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 10:06:17.486
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:There are 1 validation errors:
+The value 'tree' is not valid. (id)
+
+
+Date:2024-10-17 10:07:01.663
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:07:02.547
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "您的请求无效！",
+  "details": "验证过程中检测到以下错误。\r\n - The value 'tree' is not valid.\r\n",
+  "data": {},
+  "validationErrors": [
+    {
+      "message": "The value 'tree' is not valid.",
+      "members": [
+        "id"
+      ]
+    }
+  ]
+}
+
+
+Date:2024-10-17 10:07:02.555
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:ModelState is not valid! See ValidationErrors for details.
+Volo.Abp.Validation.AbpValidationException: ModelState is not valid! See ValidationErrors for details.
+   at Volo.Abp.AspNetCore.Mvc.Validation.ModelStateValidator.Validate(ModelStateDictionary modelState)
+   at Volo.Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 10:07:02.594
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:There are 1 validation errors:
+The value 'tree' is not valid. (id)
+
+
+Date:2024-10-17 10:07:31.152
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "您的请求无效！",
+  "details": "验证过程中检测到以下错误。\r\n - The value 'tree' is not valid.\r\n",
+  "data": {},
+  "validationErrors": [
+    {
+      "message": "The value 'tree' is not valid.",
+      "members": [
+        "id"
+      ]
+    }
+  ]
+}
+
+
+Date:2024-10-17 10:07:31.173
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:ModelState is not valid! See ValidationErrors for details.
+Volo.Abp.Validation.AbpValidationException: ModelState is not valid! See ValidationErrors for details.
+   at Volo.Abp.AspNetCore.Mvc.Validation.ModelStateValidator.Validate(ModelStateDictionary modelState)
+   at Volo.Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 10:07:31.185
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:There are 1 validation errors:
+The value 'tree' is not valid. (id)
+
+
+Date:2024-10-17 10:08:06.201
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:08:07.366
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "您的请求无效！",
+  "details": "验证过程中检测到以下错误。\r\n - The value 'tree' is not valid.\r\n",
+  "data": {},
+  "validationErrors": [
+    {
+      "message": "The value 'tree' is not valid.",
+      "members": [
+        "id"
+      ]
+    }
+  ]
+}
+
+
+Date:2024-10-17 10:08:07.369
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:ModelState is not valid! See ValidationErrors for details.
+Volo.Abp.Validation.AbpValidationException: ModelState is not valid! See ValidationErrors for details.
+   at Volo.Abp.AspNetCore.Mvc.Validation.ModelStateValidator.Validate(ModelStateDictionary modelState)
+   at Volo.Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 10:08:07.377
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:There are 1 validation errors:
+The value 'tree' is not valid. (id)
+
+
+Date:2024-10-17 10:11:59.638
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "您的请求无效！",
+  "details": "验证过程中检测到以下错误。\r\n - The value 'tree' is not valid.\r\n",
+  "data": {},
+  "validationErrors": [
+    {
+      "message": "The value 'tree' is not valid.",
+      "members": [
+        "id"
+      ]
+    }
+  ]
+}
+
+
+Date:2024-10-17 10:11:59.641
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:ModelState is not valid! See ValidationErrors for details.
+Volo.Abp.Validation.AbpValidationException: ModelState is not valid! See ValidationErrors for details.
+   at Volo.Abp.AspNetCore.Mvc.Validation.ModelStateValidator.Validate(ModelStateDictionary modelState)
+   at Volo.Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 10:11:59.647
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:There are 1 validation errors:
+The value 'tree' is not valid. (id)
+
+
+Date:2024-10-17 10:16:21.897
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:51:27.721
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 10:51:37.087
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "您的请求无效！",
+  "details": "验证过程中检测到以下错误。\r\n - The value 'tree' is not valid.\r\n",
+  "data": {},
+  "validationErrors": [
+    {
+      "message": "The value 'tree' is not valid.",
+      "members": [
+        "id"
+      ]
+    }
+  ]
+}
+
+
+Date:2024-10-17 10:51:37.090
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:ModelState is not valid! See ValidationErrors for details.
+Volo.Abp.Validation.AbpValidationException: ModelState is not valid! See ValidationErrors for details.
+   at Volo.Abp.AspNetCore.Mvc.Validation.ModelStateValidator.Validate(ModelStateDictionary modelState)
+   at Volo.Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 10:51:37.098
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:There are 1 validation errors:
+The value 'tree' is not valid. (id)
+
+
+Date:2024-10-17 10:53:47.959
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "您的请求无效！",
+  "details": "验证过程中检测到以下错误。\r\n - The value 'tree' is not valid.\r\n",
+  "data": {},
+  "validationErrors": [
+    {
+      "message": "The value 'tree' is not valid.",
+      "members": [
+        "id"
+      ]
+    }
+  ]
+}
+
+
+Date:2024-10-17 10:53:47.961
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:ModelState is not valid! See ValidationErrors for details.
+Volo.Abp.Validation.AbpValidationException: ModelState is not valid! See ValidationErrors for details.
+   at Volo.Abp.AspNetCore.Mvc.Validation.ModelStateValidator.Validate(ModelStateDictionary modelState)
+   at Volo.Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 10:53:47.964
+LogLevel:Warning
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:There are 1 validation errors:
+The value 'tree' is not valid. (id)
+
+
+Date:2024-10-17 11:12:36.551
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-10-17 11:12:36.564
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- BaseService.BaseServiceHostModule
+
+Date:2024-10-17 11:12:36.566
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-10-17 11:12:36.567
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-10-17 11:12:36.568
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceApplicationModule
+
+Date:2024-10-17 11:12:36.569
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceDomainModule
+
+Date:2024-10-17 11:12:36.569
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-10-17 11:12:36.570
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-10-17 11:12:36.571
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-10-17 11:12:36.571
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-10-17 11:12:36.572
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-10-17 11:12:36.573
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-10-17 11:12:36.574
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-10-17 11:12:36.575
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-10-17 11:12:36.575
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-10-17 11:12:36.576
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-10-17 11:12:36.577
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-10-17 11:12:36.578
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-10-17 11:12:36.579
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-10-17 11:12:36.579
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-10-17 11:12:36.580
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-10-17 11:12:36.581
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-10-17 11:12:36.582
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-10-17 11:12:36.582
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-10-17 11:12:36.583
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-10-17 11:12:36.584
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-10-17 11:12:36.584
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-10-17 11:12:36.585
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-10-17 11:12:36.585
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-10-17 11:12:36.586
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-10-17 11:12:36.586
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-10-17 11:12:36.587
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-10-17 11:12:36.587
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-10-17 11:12:36.587
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-10-17 11:12:36.588
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-10-17 11:12:36.589
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-10-17 11:12:36.590
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-10-17 11:12:36.590
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-10-17 11:12:36.591
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-10-17 11:12:36.591
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.Identity.AbpPermissionManagementDomainIdentityModule
+
+Date:2024-10-17 11:12:36.592
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2024-10-17 11:12:36.592
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2024-10-17 11:12:36.593
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-10-17 11:12:36.594
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-10-17 11:12:36.594
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-10-17 11:12:36.595
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-10-17 11:12:36.596
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-10-17 11:12:36.597
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2024-10-17 11:12:36.597
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceApplicationContractsModule
+
+Date:2024-10-17 11:12:36.598
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-10-17 11:12:36.599
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-10-17 11:12:36.600
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-10-17 11:12:36.601
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-10-17 11:12:36.602
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2024-10-17 11:12:36.602
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2024-10-17 11:12:36.603
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2024-10-17 11:12:36.604
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2024-10-17 11:12:36.604
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2024-10-17 11:12:36.605
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2024-10-17 11:12:36.606
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2024-10-17 11:12:36.606
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-10-17 11:12:36.606
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2024-10-17 11:12:36.607
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-10-17 11:12:36.608
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-10-17 11:12:36.608
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2024-10-17 11:12:36.609
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2024-10-17 11:12:36.610
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2024-10-17 11:12:36.610
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2024-10-17 11:12:36.611
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2024-10-17 11:12:36.612
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementApplicationModule
+
+Date:2024-10-17 11:12:36.612
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-10-17 11:12:36.613
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-10-17 11:12:36.613
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2024-10-17 11:12:36.614
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.EntityFrameworkCore.BaseServiceEntityFrameworkCoreModule
+
+Date:2024-10-17 11:12:36.615
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-10-17 11:12:36.616
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-10-17 11:12:36.616
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 11:12:36.617
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 11:12:36.617
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-10-17 11:12:36.617
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-10-17 11:12:36.618
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 11:12:36.618
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2024-10-17 11:12:36.619
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2024-10-17 11:12:36.619
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceHttpApiModule
+
+Date:2024-10-17 11:12:36.620
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountHttpApiModule
+
+Date:2024-10-17 11:12:36.620
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityHttpApiModule
+
+Date:2024-10-17 11:12:36.621
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-10-17 11:12:36.621
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-10-17 11:12:36.621
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-10-17 11:12:36.622
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-10-17 11:12:36.622
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-10-17 11:12:36.623
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-10-17 11:12:36.623
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.HttpApi.AbpPermissionManagementHttpApiModule
+
+Date:2024-10-17 11:12:36.624
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiModule
+
+Date:2024-10-17 11:12:36.625
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.FeatureManagement.AbpFeatureManagementHttpApiModule
+
+Date:2024-10-17 11:12:36.625
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.FeatureManagement.AbpFeatureManagementApplicationContractsModule
+
+Date:2024-10-17 11:12:36.626
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.FeatureManagement.AbpFeatureManagementDomainSharedModule
+
+Date:2024-10-17 11:12:36.626
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-10-17 11:12:36.626
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2024-10-17 11:12:36.627
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule
+
+Date:2024-10-17 11:12:36.627
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-10-17 11:12:40.593
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-10-17 11:12:40.634
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:55389"
+
+Date:2024-10-17 11:12:40.638
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-10-17 11:12:40.640
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-10-17 11:12:40.641
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Host"
+
+Date:2024-10-17 11:13:43.505
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 11:13:49.184
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "对不起，在处理您的请求期间产生了一个服务器内部错误！！",
+  "details": null,
+  "data": {},
+  "validationErrors": null
+}
+
+
+Date:2024-10-17 11:13:49.201
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[BaseService.Systems.Menu, BaseService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto, BaseService.Application.Contracts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null]]
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[BaseService.Systems.Menu, BaseService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto, BaseService.Application.Contracts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Menu -> MenusTreeDto
+BaseService.Systems.Menu -> BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto
+   at lambda_method3052(Closure, Menu, MenusTreeDto, ResolutionContext)
+   at lambda_method3051(Closure, Object, List`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method3051(Closure, Object, List`1, ResolutionContext)
+   at Volo.Abp.AutoMapper.AutoMapperAutoObjectMappingProvider.Map[TSource,TDestination](Object source)
+   at Volo.Abp.ObjectMapping.DefaultObjectMapper.AutoMap[TSource,TDestination](Object source)
+   at Volo.Abp.ObjectMapping.DefaultObjectMapper.Map[TSource,TDestination](TSource source)
+   at BaseService.Systems.UserMenusManagement.RoleMenusAppService.GetMenusTree() in E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Application\Systems\UserRoleMenusManagement\RoleMenusAppService.cs:line 60
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.GlobalFeatures.GlobalFeatureInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Authorization.AuthorizationInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Validation.ValidationInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Auditing.AuditingInterceptor.ProceedByLoggingAsync(IAbpMethodInvocation invocation, AbpAuditingOptions options, IAuditingHelper auditingHelper, IAuditLogScope auditLogScope)
+   at Volo.Abp.Auditing.AuditingInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at lambda_method3020(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 11:15:31.250
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "对不起，在处理您的请求期间产生了一个服务器内部错误！！",
+  "details": null,
+  "data": {},
+  "validationErrors": null
+}
+
+
+Date:2024-10-17 11:15:31.257
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[BaseService.Systems.Menu, BaseService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto, BaseService.Application.Contracts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null]]
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[BaseService.Systems.Menu, BaseService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto, BaseService.Application.Contracts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Menu -> MenusTreeDto
+BaseService.Systems.Menu -> BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto
+   at lambda_method3052(Closure, Menu, MenusTreeDto, ResolutionContext)
+   at lambda_method3051(Closure, Object, List`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method3051(Closure, Object, List`1, ResolutionContext)
+   at Volo.Abp.AutoMapper.AutoMapperAutoObjectMappingProvider.Map[TSource,TDestination](Object source)
+   at Volo.Abp.ObjectMapping.DefaultObjectMapper.AutoMap[TSource,TDestination](Object source)
+   at Volo.Abp.ObjectMapping.DefaultObjectMapper.Map[TSource,TDestination](TSource source)
+   at BaseService.Systems.UserMenusManagement.RoleMenusAppService.GetMenusTree() in E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Application\Systems\UserRoleMenusManagement\RoleMenusAppService.cs:line 60
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.GlobalFeatures.GlobalFeatureInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Authorization.AuthorizationInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Validation.ValidationInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Auditing.AuditingInterceptor.ProceedByLoggingAsync(IAbpMethodInvocation invocation, AbpAuditingOptions options, IAuditingHelper auditingHelper, IAuditLogScope auditLogScope)
+   at Volo.Abp.Auditing.AuditingInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at lambda_method3020(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 11:15:47.511
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:---------- RemoteServiceErrorInfo ----------
+{
+  "code": null,
+  "message": "对不起，在处理您的请求期间产生了一个服务器内部错误！！",
+  "details": null,
+  "data": {},
+  "validationErrors": null
+}
+
+
+Date:2024-10-17 11:15:47.513
+LogLevel:Error
+Class:Volo.Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter
+Message:Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[BaseService.Systems.Menu, BaseService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto, BaseService.Application.Contracts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null]]
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[BaseService.Systems.Menu, BaseService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto, BaseService.Application.Contracts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Menu -> MenusTreeDto
+BaseService.Systems.Menu -> BaseService.Systems.UserRoleMenusManagement.Dto.MenusTreeDto
+   at lambda_method3052(Closure, Menu, MenusTreeDto, ResolutionContext)
+   at lambda_method3051(Closure, Object, List`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method3051(Closure, Object, List`1, ResolutionContext)
+   at Volo.Abp.AutoMapper.AutoMapperAutoObjectMappingProvider.Map[TSource,TDestination](Object source)
+   at Volo.Abp.ObjectMapping.DefaultObjectMapper.AutoMap[TSource,TDestination](Object source)
+   at Volo.Abp.ObjectMapping.DefaultObjectMapper.Map[TSource,TDestination](TSource source)
+   at BaseService.Systems.UserMenusManagement.RoleMenusAppService.GetMenusTree() in E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Application\Systems\UserRoleMenusManagement\RoleMenusAppService.cs:line 60
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.GlobalFeatures.GlobalFeatureInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Authorization.AuthorizationInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Validation.ValidationInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Auditing.AuditingInterceptor.ProceedByLoggingAsync(IAbpMethodInvocation invocation, AbpAuditingOptions options, IAuditingHelper auditingHelper, IAuditLogScope auditLogScope)
+   at Volo.Abp.Auditing.AuditingInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at Castle.DynamicProxy.AsyncInterceptorBase.ProceedAsynchronous[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo)
+   at Volo.Abp.Castle.DynamicProxy.CastleAbpMethodInvocationAdapterWithReturnValue`1.ProceedAsync()
+   at Volo.Abp.Uow.UnitOfWorkInterceptor.InterceptAsync(IAbpMethodInvocation invocation)
+   at Volo.Abp.Castle.DynamicProxy.CastleAsyncAbpInterceptorAdapter`1.InterceptAsync[TResult](IInvocation invocation, IInvocationProceedInfo proceedInfo, Func`3 proceed)
+   at lambda_method3020(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+Date:2024-10-17 13:13:29.790
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-10-17 13:13:29.809
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- BaseService.BaseServiceHostModule
+
+Date:2024-10-17 13:13:29.811
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-10-17 13:13:29.812
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-10-17 13:13:29.813
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceApplicationModule
+
+Date:2024-10-17 13:13:29.814
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceDomainModule
+
+Date:2024-10-17 13:13:29.815
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-10-17 13:13:29.816
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-10-17 13:13:29.817
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-10-17 13:13:29.818
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-10-17 13:13:29.819
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-10-17 13:13:29.821
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-10-17 13:13:29.822
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-10-17 13:13:29.822
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-10-17 13:13:29.823
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-10-17 13:13:29.824
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-10-17 13:13:29.825
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-10-17 13:13:29.826
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-10-17 13:13:29.827
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-10-17 13:13:29.827
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-10-17 13:13:29.828
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-10-17 13:13:29.829
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-10-17 13:13:29.829
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-10-17 13:13:29.830
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-10-17 13:13:29.831
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-10-17 13:13:29.831
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-10-17 13:13:29.832
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-10-17 13:13:29.833
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-10-17 13:13:29.834
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-10-17 13:13:29.835
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-10-17 13:13:29.837
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-10-17 13:13:29.837
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-10-17 13:13:29.838
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-10-17 13:13:29.839
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-10-17 13:13:29.840
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-10-17 13:13:29.840
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-10-17 13:13:29.841
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-10-17 13:13:29.842
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-10-17 13:13:29.843
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-10-17 13:13:29.843
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.Identity.AbpPermissionManagementDomainIdentityModule
+
+Date:2024-10-17 13:13:29.844
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2024-10-17 13:13:29.845
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2024-10-17 13:13:29.846
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-10-17 13:13:29.847
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-10-17 13:13:29.847
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-10-17 13:13:29.848
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-10-17 13:13:29.849
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-10-17 13:13:29.850
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2024-10-17 13:13:29.851
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceApplicationContractsModule
+
+Date:2024-10-17 13:13:29.853
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-10-17 13:13:29.853
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-10-17 13:13:29.854
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-10-17 13:13:29.855
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-10-17 13:13:29.855
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2024-10-17 13:13:29.856
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2024-10-17 13:13:29.857
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2024-10-17 13:13:29.857
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2024-10-17 13:13:29.858
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2024-10-17 13:13:29.859
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2024-10-17 13:13:29.859
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2024-10-17 13:13:29.860
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-10-17 13:13:29.861
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2024-10-17 13:13:29.862
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-10-17 13:13:29.862
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-10-17 13:13:29.863
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2024-10-17 13:13:29.864
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2024-10-17 13:13:29.865
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2024-10-17 13:13:29.865
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2024-10-17 13:13:29.866
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2024-10-17 13:13:29.867
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementApplicationModule
+
+Date:2024-10-17 13:13:29.869
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-10-17 13:13:29.869
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-10-17 13:13:29.870
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2024-10-17 13:13:29.871
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.EntityFrameworkCore.BaseServiceEntityFrameworkCoreModule
+
+Date:2024-10-17 13:13:29.871
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-10-17 13:13:29.872
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-10-17 13:13:29.873
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 13:13:29.873
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 13:13:29.874
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-10-17 13:13:29.875
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-10-17 13:13:29.876
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 13:13:29.877
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2024-10-17 13:13:29.878
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2024-10-17 13:13:29.879
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceHttpApiModule
+
+Date:2024-10-17 13:13:29.880
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountHttpApiModule
+
+Date:2024-10-17 13:13:29.881
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityHttpApiModule
+
+Date:2024-10-17 13:13:29.882
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-10-17 13:13:29.883
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-10-17 13:13:29.884
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-10-17 13:13:29.885
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-10-17 13:13:29.885
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-10-17 13:13:29.886
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-10-17 13:13:29.887
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.HttpApi.AbpPermissionManagementHttpApiModule
+
+Date:2024-10-17 13:13:29.888
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiModule
+
+Date:2024-10-17 13:13:29.889
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.FeatureManagement.AbpFeatureManagementHttpApiModule
+
+Date:2024-10-17 13:13:29.890
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.FeatureManagement.AbpFeatureManagementApplicationContractsModule
+
+Date:2024-10-17 13:13:29.891
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.FeatureManagement.AbpFeatureManagementDomainSharedModule
+
+Date:2024-10-17 13:13:29.892
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-10-17 13:13:29.893
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2024-10-17 13:13:29.894
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule
+
+Date:2024-10-17 13:13:29.895
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-10-17 13:13:33.904
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-10-17 13:13:33.941
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:55389"
+
+Date:2024-10-17 13:13:33.946
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-10-17 13:13:33.948
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-10-17 13:13:33.948
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Host"
+
+Date:2024-10-17 13:15:39.644
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:16:39.882
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:26:48.931
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:29:05.290
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:33:39.335
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:33:43.501
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:40:29.489
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:41:40.986
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:43:00.554
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 13:59:17.044
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 14:10:44.231
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 15:10:49.726
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.
+
+Date:2024-10-17 19:45:49.322
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-10-17 19:45:49.351
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- BaseService.BaseServiceHostModule
+
+Date:2024-10-17 19:45:49.356
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-10-17 19:45:49.359
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-10-17 19:45:49.363
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceApplicationModule
+
+Date:2024-10-17 19:45:49.364
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceDomainModule
+
+Date:2024-10-17 19:45:49.364
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-10-17 19:45:49.365
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-10-17 19:45:49.365
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-10-17 19:45:49.366
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-10-17 19:45:49.367
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-10-17 19:45:49.367
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-10-17 19:45:49.369
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-10-17 19:45:49.370
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-10-17 19:45:49.371
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-10-17 19:45:49.372
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-10-17 19:45:49.373
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-10-17 19:45:49.374
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-10-17 19:45:49.374
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-10-17 19:45:49.375
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-10-17 19:45:49.375
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-10-17 19:45:49.377
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-10-17 19:45:49.379
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-10-17 19:45:49.380
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-10-17 19:45:49.380
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-10-17 19:45:49.381
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-10-17 19:45:49.383
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-10-17 19:45:49.384
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-10-17 19:45:49.385
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-10-17 19:45:49.386
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-10-17 19:45:49.386
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-10-17 19:45:49.387
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-10-17 19:45:49.388
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-10-17 19:45:49.389
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-10-17 19:45:49.389
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-10-17 19:45:49.390
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-10-17 19:45:49.390
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-10-17 19:45:49.391
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-10-17 19:45:49.396
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-10-17 19:45:49.397
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.Identity.AbpPermissionManagementDomainIdentityModule
+
+Date:2024-10-17 19:45:49.397
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2024-10-17 19:45:49.398
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2024-10-17 19:45:49.399
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-10-17 19:45:49.400
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-10-17 19:45:49.400
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-10-17 19:45:49.401
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-10-17 19:45:49.402
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-10-17 19:45:49.403
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2024-10-17 19:45:49.404
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceApplicationContractsModule
+
+Date:2024-10-17 19:45:49.404
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-10-17 19:45:49.405
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-10-17 19:45:49.406
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-10-17 19:45:49.406
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-10-17 19:45:49.407
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2024-10-17 19:45:49.408
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2024-10-17 19:45:49.409
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2024-10-17 19:45:49.409
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2024-10-17 19:45:49.410
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2024-10-17 19:45:49.410
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2024-10-17 19:45:49.411
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2024-10-17 19:45:49.412
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-10-17 19:45:49.413
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2024-10-17 19:45:49.415
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-10-17 19:45:49.416
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-10-17 19:45:49.417
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2024-10-17 19:45:49.417
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2024-10-17 19:45:49.418
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2024-10-17 19:45:49.419
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2024-10-17 19:45:49.419
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2024-10-17 19:45:49.420
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementApplicationModule
+
+Date:2024-10-17 19:45:49.421
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-10-17 19:45:49.422
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-10-17 19:45:49.422
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2024-10-17 19:45:49.423
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.EntityFrameworkCore.BaseServiceEntityFrameworkCoreModule
+
+Date:2024-10-17 19:45:49.424
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-10-17 19:45:49.425
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-10-17 19:45:49.425
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 19:45:49.426
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 19:45:49.427
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-10-17 19:45:49.427
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-10-17 19:45:49.428
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 19:45:49.429
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2024-10-17 19:45:49.430
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2024-10-17 19:45:49.432
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceHttpApiModule
+
+Date:2024-10-17 19:45:49.433
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountHttpApiModule
+
+Date:2024-10-17 19:45:49.434
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityHttpApiModule
+
+Date:2024-10-17 19:45:49.435
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-10-17 19:45:49.435
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-10-17 19:45:49.436
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-10-17 19:45:49.437
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-10-17 19:45:49.437
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-10-17 19:45:49.438
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-10-17 19:45:49.438
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.HttpApi.AbpPermissionManagementHttpApiModule
+
+Date:2024-10-17 19:45:49.438
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiModule
+
+Date:2024-10-17 19:45:49.470
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.FeatureManagement.AbpFeatureManagementHttpApiModule
+
+Date:2024-10-17 19:45:49.603
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.FeatureManagement.AbpFeatureManagementApplicationContractsModule
+
+Date:2024-10-17 19:45:49.604
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.FeatureManagement.AbpFeatureManagementDomainSharedModule
+
+Date:2024-10-17 19:45:49.605
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-10-17 19:45:49.606
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2024-10-17 19:45:49.607
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule
+
+Date:2024-10-17 19:45:49.608
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-10-17 19:45:57.180
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-10-17 19:45:57.243
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:55389"
+
+Date:2024-10-17 19:45:57.249
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-10-17 19:45:57.251
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-10-17 19:45:57.252
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Host"
+
+Date:2024-10-17 20:11:46.409
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2024-10-17 20:11:46.430
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- BaseService.BaseServiceHostModule
+
+Date:2024-10-17 20:11:46.431
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2024-10-17 20:11:46.432
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2024-10-17 20:11:46.433
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceApplicationModule
+
+Date:2024-10-17 20:11:46.433
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceDomainModule
+
+Date:2024-10-17 20:11:46.434
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2024-10-17 20:11:46.434
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2024-10-17 20:11:46.435
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Data.AbpDataModule
+
+Date:2024-10-17 20:11:46.435
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2024-10-17 20:11:46.436
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2024-10-17 20:11:46.436
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2024-10-17 20:11:46.437
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2024-10-17 20:11:46.437
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2024-10-17 20:11:46.438
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2024-10-17 20:11:46.438
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2024-10-17 20:11:46.439
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2024-10-17 20:11:46.440
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2024-10-17 20:11:46.440
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2024-10-17 20:11:46.441
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2024-10-17 20:11:46.442
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2024-10-17 20:11:46.442
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Security.AbpSecurityModule
+
+Date:2024-10-17 20:11:46.442
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2024-10-17 20:11:46.443
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2024-10-17 20:11:46.443
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2024-10-17 20:11:46.444
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2024-10-17 20:11:46.444
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2024-10-17 20:11:46.445
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2024-10-17 20:11:46.445
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2024-10-17 20:11:46.446
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2024-10-17 20:11:46.446
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2024-10-17 20:11:46.447
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2024-10-17 20:11:46.447
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2024-10-17 20:11:46.448
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2024-10-17 20:11:46.449
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Caching.AbpCachingModule
+
+Date:2024-10-17 20:11:46.450
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2024-10-17 20:11:46.450
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2024-10-17 20:11:46.451
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2024-10-17 20:11:46.451
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Validation.AbpValidationModule
+
+Date:2024-10-17 20:11:46.451
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.Identity.AbpPermissionManagementDomainIdentityModule
+
+Date:2024-10-17 20:11:46.452
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2024-10-17 20:11:46.452
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2024-10-17 20:11:46.453
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2024-10-17 20:11:46.453
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2024-10-17 20:11:46.454
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2024-10-17 20:11:46.455
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2024-10-17 20:11:46.456
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2024-10-17 20:11:46.456
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2024-10-17 20:11:46.457
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - BaseService.BaseServiceApplicationContractsModule
+
+Date:2024-10-17 20:11:46.458
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2024-10-17 20:11:46.458
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2024-10-17 20:11:46.459
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2024-10-17 20:11:46.460
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2024-10-17 20:11:46.461
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2024-10-17 20:11:46.461
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2024-10-17 20:11:46.462
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2024-10-17 20:11:46.462
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2024-10-17 20:11:46.463
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2024-10-17 20:11:46.464
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2024-10-17 20:11:46.464
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2024-10-17 20:11:46.465
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2024-10-17 20:11:46.466
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2024-10-17 20:11:46.466
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2024-10-17 20:11:46.467
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.UI.AbpUiModule
+
+Date:2024-10-17 20:11:46.468
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2024-10-17 20:11:46.468
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2024-10-17 20:11:46.470
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2024-10-17 20:11:46.473
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2024-10-17 20:11:46.475
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2024-10-17 20:11:46.477
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementApplicationModule
+
+Date:2024-10-17 20:11:46.478
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2024-10-17 20:11:46.479
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2024-10-17 20:11:46.481
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2024-10-17 20:11:46.482
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.EntityFrameworkCore.BaseServiceEntityFrameworkCoreModule
+
+Date:2024-10-17 20:11:46.483
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2024-10-17 20:11:46.484
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2024-10-17 20:11:46.485
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 20:11:46.486
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 20:11:46.487
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2024-10-17 20:11:46.487
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2024-10-17 20:11:46.489
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2024-10-17 20:11:46.490
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2024-10-17 20:11:46.491
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2024-10-17 20:11:46.492
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - BaseService.BaseServiceHttpApiModule
+
+Date:2024-10-17 20:11:46.494
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountHttpApiModule
+
+Date:2024-10-17 20:11:46.495
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityHttpApiModule
+
+Date:2024-10-17 20:11:46.495
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2024-10-17 20:11:46.496
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2024-10-17 20:11:46.497
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Http.AbpHttpModule
+
+Date:2024-10-17 20:11:46.498
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2024-10-17 20:11:46.499
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2024-10-17 20:11:46.499
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2024-10-17 20:11:46.502
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.HttpApi.AbpPermissionManagementHttpApiModule
+
+Date:2024-10-17 20:11:46.503
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiModule
+
+Date:2024-10-17 20:11:46.504
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.FeatureManagement.AbpFeatureManagementHttpApiModule
+
+Date:2024-10-17 20:11:46.505
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.FeatureManagement.AbpFeatureManagementApplicationContractsModule
+
+Date:2024-10-17 20:11:46.505
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.FeatureManagement.AbpFeatureManagementDomainSharedModule
+
+Date:2024-10-17 20:11:46.507
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2024-10-17 20:11:46.507
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2024-10-17 20:11:46.508
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule
+
+Date:2024-10-17 20:11:46.508
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+
+Date:2024-10-17 20:11:52.509
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2024-10-17 20:11:52.577
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:55389"
+
+Date:2024-10-17 20:11:52.600
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2024-10-17 20:11:52.605
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2024-10-17 20:11:52.836
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.Host"
+
+Date:2024-10-17 20:12:18.113
+LogLevel:Warning
+Class:Microsoft.AspNetCore.Http.ResponseCookies
+Message:The cookie '"XSRF-TOKEN"' has set 'SameSite=None' and must also set 'Secure'.

@@ -15356,11 +15356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Host\\BaseService.Host.csproj",
+      "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Host\\BaseService.Host.csproj",
       "projectName": "BaseService.Host",
-      "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Host\\BaseService.Host.csproj",
+      "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Host\\BaseService.Host.csproj",
       "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-      "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Host\\obj\\",
+      "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -15371,23 +15371,24 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://10.8.1.24:5000/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj": {
-              "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj"
+            "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj": {
+              "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj"
             },
-            "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.EntityFrameworkCore\\BaseService.EntityFrameworkCore.csproj": {
-              "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.EntityFrameworkCore\\BaseService.EntityFrameworkCore.csproj"
+            "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.EntityFrameworkCore\\BaseService.EntityFrameworkCore.csproj": {
+              "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.EntityFrameworkCore\\BaseService.EntityFrameworkCore.csproj"
             },
-            "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.HttpApi\\BaseService.HttpApi.csproj": {
-              "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.HttpApi\\BaseService.HttpApi.csproj"
+            "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.HttpApi\\BaseService.HttpApi.csproj": {
+              "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.HttpApi\\BaseService.HttpApi.csproj"
             },
-            "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj": {
-              "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj"
+            "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj": {
+              "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj"
             }
           }
         }
@@ -15495,5 +15496,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

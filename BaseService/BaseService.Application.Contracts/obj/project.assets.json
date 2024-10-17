@@ -8090,11 +8090,11 @@
   "project": {
     "version": "2.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
+      "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
       "projectName": "XCZ.BaseService.Application.Contracts",
-      "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
+      "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
       "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-      "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\obj\\",
+      "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8105,14 +8105,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://10.8.1.24:5000/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj": {
-              "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj"
+            "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj": {
+              "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj"
             }
           }
         }
@@ -8163,5 +8164,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

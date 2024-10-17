@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qgHZOgHcmXG45x1hBl3eWklHKUJ74WE9Q50MpjlOHHrJxHizsW09Anc3xrESwK0Guiga3BCZBbjvNxOpdgRcbA==",
+  "dgSpecHash": "jZq9Q0TzO5Hj/BK+DIvjw7M2cps6YCxf9KHyePcG/KSDo64hbK7vpXF+2W+WuJ4M4Jv6vImcsZwOZPXeZCeqpw==",
   "success": true,
-  "projectFilePath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
+  "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\合心凯达\\.nuget\\packages\\asynckeyedlock\\6.3.4\\asynckeyedlock.6.3.4.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512",
@@ -165,5 +165,12 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\webapiclientcore\\2.0.4\\webapiclientcore.2.0.4.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\webapiclientcore.abstractions\\2.0.4\\webapiclientcore.abstractions.2.0.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

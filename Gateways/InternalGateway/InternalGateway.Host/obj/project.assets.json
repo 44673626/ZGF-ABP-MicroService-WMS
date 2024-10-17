@@ -11072,11 +11072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\InternalGateway.Host.csproj",
+      "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\InternalGateway.Host.csproj",
       "projectName": "InternalGateway.Host",
-      "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\InternalGateway.Host.csproj",
+      "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\InternalGateway.Host.csproj",
       "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-      "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\obj\\",
+      "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Gateways\\InternalGateway\\InternalGateway.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11087,6 +11087,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://10.8.1.24:5000/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11164,5 +11165,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

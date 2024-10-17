@@ -30,6 +30,13 @@ namespace BaseService.HttpApi.Systems
         }
 
         [HttpGet]
+        [Route("tree")]
+        public Task<ListResultDto<MenusTreeDto>> GetMenusTree()
+        {
+            return _roleMenusAppService.GetMenusTree();
+        }
+
+        [HttpGet]
         [Route("list")]
         public Task<ListResultDto<MenusListDto>> GetMenusList()
         {

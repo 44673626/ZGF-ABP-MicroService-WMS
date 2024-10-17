@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj": {}
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj": {}
   },
   "projects": {
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
         "projectName": "XCZ.BaseService.Application.Contracts",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj"
               }
             }
           }
@@ -81,14 +82,14 @@
         }
       }
     },
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj",
         "projectName": "BaseService.Application",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\BaseService.Application.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,20 +100,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Application.Contracts\\BaseService.Application.Contracts.csproj"
               },
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj"
               },
-              "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj": {
-                "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj"
+              "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj": {
+                "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj"
               }
             }
           }
@@ -172,14 +174,14 @@
         }
       }
     },
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj",
         "projectName": "BaseService.Domain",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\BaseService.Domain.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\BaseService\\BaseService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,6 +192,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -245,14 +248,14 @@
         }
       }
     },
-    "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj": {
+    "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj": {
       "version": "1.2.0",
       "restore": {
-        "projectUniqueName": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj",
+        "projectUniqueName": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj",
         "projectName": "Comm.CAP.EtoShare",
-        "projectPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj",
+        "projectPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\Comm.CAP.EtoShare.csproj",
         "packagesPath": "C:\\Users\\合心凯达\\.nuget\\packages\\",
-        "outputPath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\obj\\",
+        "outputPath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.CAP.EtoShare\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\合心凯达\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -263,6 +266,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.8.1.24:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

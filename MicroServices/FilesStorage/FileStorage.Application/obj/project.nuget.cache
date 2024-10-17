@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+iou36cHQ0T/URqLbdIGT1LF0tA3/sraNEap1TyMsKmu3vcIKj6PYGDrCGa/xhAyxnT1Ht6HEe+cOpYch1f+WA==",
+  "dgSpecHash": "SCIwdA8tAgJpxrqfNcPsaw4eE9nIG2/aTt9ke+NMrTd4nkthW7qMkFSAANdKYPH3MHt2/ORn1HsZyiu5iI1fZQ==",
   "success": true,
-  "projectFilePath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj",
+  "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\MicroServices\\FilesStorage\\FileStorage.Application\\FileStorage.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\合心凯达\\.nuget\\packages\\asynckeyedlock\\6.3.4\\asynckeyedlock.6.3.4.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
@@ -327,5 +327,12 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\filestorage.application.contracts\\1.0.15\\filestorage.application.contracts.1.0.15.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\filestorage.domain\\1.0.10\\filestorage.domain.1.0.10.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

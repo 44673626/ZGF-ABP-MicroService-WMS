@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gYA3cTLqKLabiAGSVAIywfa4EMn8BLkanGbWxvXZX84j80duij7wHlUQqgjL6JH0boAJyfrHLIsaZEdWFfa5Uw==",
+  "dgSpecHash": "yIha+kDb6A/IrhYmxpj7gjHsQ80XE/ydTQiNbNe8uH6+9122QmrfpW7T0RxeUGQDypE8x8Ao9kptYBE3bhNrzQ==",
   "success": true,
-  "projectFilePath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Gateways\\WebAppGateway\\WebAppGateway.Host\\WebAppGateway.Host.csproj",
+  "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Gateways\\WebAppGateway\\WebAppGateway.Host\\WebAppGateway.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\合心凯达\\.nuget\\packages\\asp.versioning.abstractions\\7.0.0\\asp.versioning.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\asp.versioning.http\\7.1.0\\asp.versioning.http.7.1.0.nupkg.sha512",
@@ -267,5 +267,12 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\xcz.formmanagement.application.contracts\\3.1.1\\xcz.formmanagement.application.contracts.3.1.1.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\xcz.formmanagement.httpapi\\3.1.1\\xcz.formmanagement.httpapi.3.1.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }
