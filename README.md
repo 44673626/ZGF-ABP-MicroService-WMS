@@ -15,6 +15,14 @@
   持续关注和分享：团队致力于开发一套完整的WMS系统，使用微服务架构(前后端分离开发)，欢迎有识之士加入我们的团队！
 
 
+### 项目启动初始条件（必须）  
+
+- 启动Consul服务
+  启动consul服务发现，安装consul后，执行consul.exe后(找不到可以加QQ支持群里要)，在该目录下执行cmd，输入启动命令：consul agent -dev，运行地址：http://localhost:8500/
+  说明：因为所有服务都走服务发现，这个是必须先启动，才能运行整个微服务。
+- 启动Redis
+  执行redis安装文件，本地启动即可
+
 ### 前端运行效果
 前端使用Vue2.0，使用经典易上手的vue-admin-element框架，前后端分离开发，支持多租户等功能。
 > 首页,公司输入框内可输入租户信息
@@ -273,14 +281,6 @@ abp new XX.BaseService -t module --no-ui --version 8.0.0
  - 定时任务：HangFireJob.HttpApi.Host   定时与业务完全分离（完成）
  - WMS基础服务：WMS.BaseService.HttpApi.Host（例如：基础档案等一维表的基础服务）（准备开发中）
  - WMS主业务：WMS.Business.HttpApi.Host（主业务） 与基础服务通过 内部网关进行 服务间通信（准备开发中）
-
-### 项目启动初始条件（必须）  
-
-- 启动Consul服务
-  启动consul服务发现，安装consul后，执行consul.exe后，在该目录下执行cmd，输入启动命令：consul agent -dev，运行地址：http://localhost:8500/
-  说明：因为所有服务都走服务发现，这个是必须先启动，才能运行整个微服务。
-- 启动Redis
-  执行redis安装文件，本地启动即可
 
 ### 开发进度
 1，WMS相关业务准备开发中，目前进度：架起了ABP微服务架构。
