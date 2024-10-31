@@ -15,5 +15,7 @@ namespace BaseService.Systems.UserMenusManagement
         Task<ListResultDto<MenusListDto>> GetMenusList();
 
         Task Update(UpdateRoleMenuDto input);
+
+        Task<ListResultDto<MenusTreeDto>> GetMenusTree();
     }
 }

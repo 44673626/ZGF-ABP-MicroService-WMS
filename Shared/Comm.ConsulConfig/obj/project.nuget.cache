@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3vPE6K96g8q1oAieySQ8ClcOHIsr0/PQP3cV5qVwDX7IJ3bszK4j/9PROhphpQ3yl6Y+y579GzxGMicaidsGuQ==",
+  "dgSpecHash": "Q96bKFUBX0FXbUXQJpNVfM5Cacs0OoDoWkO3lF/2pyFmxo9viI9wKU1/BMexo4ijmq7d3MaocSTLM1FKNfl4Cw==",
   "success": true,
-  "projectFilePath": "D:\\ABPWMS\\WMS\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj",
+  "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\合心凯达\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
@@ -73,5 +73,12 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.castle.core\\8.1.1\\volo.abp.castle.core.8.1.1.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.core\\8.1.1\\volo.abp.core.8.1.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.8.1.24:5000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
 }

@@ -6432,3 +6432,110 @@
 2024-10-17 20:12:31.777 +08:00 [DBG] requestId: 0HN7EKJEBNTJT:0000000A, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline finished'
 2024-10-17 20:12:31.778 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:62162/api/base/menu/all?Filter=&Sorting=&SkipCount=0&MaxResultCount=10 - 200 null application/json; charset=utf-8 223.0424ms
 2024-10-17 20:12:31.781 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:62162/api/base/menu/all, Response status code: 200
+2024-10-17 20:37:18.952 +08:00 [INF] Starting WebAppGateway.Host
+2024-10-17 20:37:23.969 +08:00 [INF] User profile is available. Using 'C:\Users\合心凯达\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-17 20:37:24.145 +08:00 [INF] Loaded ABP modules:
+2024-10-17 20:37:24.146 +08:00 [INF] - WebAppGateway.WebAppGatewayHostModule
+2024-10-17 20:37:24.147 +08:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2024-10-17 20:37:24.147 +08:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2024-10-17 20:37:24.148 +08:00 [INF]   - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+2024-10-17 20:37:24.148 +08:00 [INF]     - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2024-10-17 20:37:24.149 +08:00 [INF]       - Volo.Abp.Data.AbpDataModule
+2024-10-17 20:37:24.150 +08:00 [INF]         - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2024-10-17 20:37:24.150 +08:00 [INF]           - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2024-10-17 20:37:24.151 +08:00 [INF]           - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2024-10-17 20:37:24.151 +08:00 [INF]         - Volo.Abp.Uow.AbpUnitOfWorkModule
+2024-10-17 20:37:24.152 +08:00 [INF]         - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+2024-10-17 20:37:24.152 +08:00 [INF]       - Volo.Abp.Security.AbpSecurityModule
+2024-10-17 20:37:24.153 +08:00 [INF]       - Volo.Abp.Settings.AbpSettingsModule
+2024-10-17 20:37:24.154 +08:00 [INF]       - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+2024-10-17 20:37:24.154 +08:00 [INF]         - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2024-10-17 20:37:24.155 +08:00 [INF]         - Volo.Abp.Localization.AbpLocalizationModule
+2024-10-17 20:37:24.155 +08:00 [INF]           - Volo.Abp.Threading.AbpThreadingModule
+2024-10-17 20:37:24.156 +08:00 [INF]     - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2024-10-17 20:37:24.157 +08:00 [INF]       - Volo.Abp.Auditing.AbpAuditingModule
+2024-10-17 20:37:24.158 +08:00 [INF]         - Volo.Abp.Json.AbpJsonModule
+2024-10-17 20:37:24.159 +08:00 [INF]           - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+2024-10-17 20:37:24.160 +08:00 [INF]             - Volo.Abp.Json.AbpJsonAbstractionsModule
+2024-10-17 20:37:24.161 +08:00 [INF]             - Volo.Abp.Timing.AbpTimingModule
+2024-10-17 20:37:24.162 +08:00 [INF]         - Volo.Abp.Auditing.AbpAuditingContractsModule
+2024-10-17 20:37:24.162 +08:00 [INF]       - Volo.Abp.Http.AbpHttpModule
+2024-10-17 20:37:24.163 +08:00 [INF]         - Volo.Abp.Http.AbpHttpAbstractionsModule
+2024-10-17 20:37:24.163 +08:00 [INF]         - Volo.Abp.Minify.AbpMinifyModule
+2024-10-17 20:37:24.164 +08:00 [INF]       - Volo.Abp.Authorization.AbpAuthorizationModule
+2024-10-17 20:37:24.165 +08:00 [INF]         - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+2024-10-17 20:37:24.165 +08:00 [INF]       - Volo.Abp.Validation.AbpValidationModule
+2024-10-17 20:37:24.166 +08:00 [INF]       - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+2024-10-17 20:37:24.553 +08:00 [INF] Initialized all ABP modules.
+2024-10-17 20:37:24.651 +08:00 [INF] Now listening on: http://localhost:62162
+2024-10-17 20:37:24.652 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-17 20:37:24.653 +08:00 [INF] Hosting environment: Development
+2024-10-17 20:37:24.654 +08:00 [INF] Content root path: E:\hxgitcode\ZGF-ABP-MicroService-WMS\Gateways\WebAppGateway\WebAppGateway.Host
+2024-10-17 20:37:38.330 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:62162/ - null null
+2024-10-17 20:37:38.908 +08:00 [DBG] requestId: 0HN7EL1Q2ICMB:00000001, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline started'
+2024-10-17 20:37:38.913 +08:00 [DBG] requestId: 0HN7EL1Q2ICMB:00000001, previousRequestId: No PreviousRequestId, message: 'Upstream url path is /'
+2024-10-17 20:37:38.920 +08:00 [WRN] requestId: 0HN7EL1Q2ICMB:00000001, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2024-10-17 20:37:38.924 +08:00 [WRN] requestId: 0HN7EL1Q2ICMB:00000001, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2024-10-17 20:37:38.929 +08:00 [DBG] requestId: 0HN7EL1Q2ICMB:00000001, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline finished'
+2024-10-17 20:37:38.955 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:62162/ - 404 0 null 629.3895ms
+2024-10-17 20:43:07.962 +08:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:62162/api/abp/application-configuration - null null
+2024-10-17 20:43:08.027 +08:00 [INF] CORS policy execution successful.
+2024-10-17 20:43:08.039 +08:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:62162/api/abp/application-configuration - 204 null null 87.5994ms
+2024-10-17 20:43:08.072 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:62162/api/abp/application-configuration - null null
+2024-10-17 20:43:08.082 +08:00 [INF] CORS policy execution successful.
+2024-10-17 20:43:09.089 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline started'
+2024-10-17 20:43:09.091 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'Upstream url path is /api/abp/application-configuration'
+2024-10-17 20:43:09.111 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'downstream templates are /api/abp/{everything}'
+2024-10-17 20:43:09.131 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'EndpointRateLimiting is not enabled for /api/abp/{everything}'
+2024-10-17 20:43:09.134 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'The path '/api/abp/application-configuration' is an authenticated route! AuthenticationMiddleware checking if client is authenticated...'
+2024-10-17 20:43:09.137 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'Client has been authenticated for path '/api/abp/application-configuration' by 'AuthenticationTypes.Federation' scheme.'
+2024-10-17 20:43:09.139 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'route is authenticated scopes must be checked'
+2024-10-17 20:43:09.142 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'user scopes is authorized calling next authorization checks'
+2024-10-17 20:43:09.143 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: '/api/abp/{everything} route does not require user to be authorized'
+2024-10-17 20:43:09.148 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'The UseServiceDiscovery mode of the route '^(?i)/api/abp(?:|/.*)$' is enabled.'
+2024-10-17 20:43:09.149 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'Getting service discovery provider of Type 'Consul'...'
+2024-10-17 20:43:11.662 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'Downstream url is http://localhost:55389/api/abp/application-configuration'
+2024-10-17 20:43:14.598 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: '200 (OK) status code of request URI: http://localhost:55389/api/abp/application-configuration.'
+2024-10-17 20:43:14.599 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'setting http response message'
+2024-10-17 20:43:14.631 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'no pipeline errors, setting and returning completed response'
+2024-10-17 20:43:15.042 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000002, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline finished'
+2024-10-17 20:43:15.047 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:62162/api/abp/application-configuration - 200 null application/json; charset=utf-8 6974.7107ms
+2024-10-17 20:43:15.055 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:62162/api/abp/application-configuration, Response status code: 200
+2024-10-17 20:43:15.085 +08:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:62162/api/base/role-menus - null null
+2024-10-17 20:43:15.087 +08:00 [INF] CORS policy execution successful.
+2024-10-17 20:43:15.088 +08:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:62162/api/base/role-menus - 204 null null 2.9835ms
+2024-10-17 20:43:15.090 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:62162/api/base/role-menus - null null
+2024-10-17 20:43:15.092 +08:00 [INF] CORS policy execution successful.
+2024-10-17 20:43:15.094 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline started'
+2024-10-17 20:43:15.095 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'Upstream url path is /api/base/role-menus'
+2024-10-17 20:43:15.096 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'downstream templates are /api/base/{everything}'
+2024-10-17 20:43:15.097 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'EndpointRateLimiting is not enabled for /api/base/{everything}'
+2024-10-17 20:43:15.098 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'No authentication needed for path '/api/base/role-menus'.'
+2024-10-17 20:43:15.099 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: '/api/base/{everything} route does not require user to be authorized'
+2024-10-17 20:43:15.100 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'The UseServiceDiscovery mode of the route '^(?i)/api/base(?:|/.*)$' is enabled.'
+2024-10-17 20:43:15.101 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'Getting service discovery provider of Type 'Consul'...'
+2024-10-17 20:43:17.289 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'Downstream url is http://localhost:55389/api/base/role-menus'
+2024-10-17 20:43:17.666 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: '200 (OK) status code of request URI: http://localhost:55389/api/base/role-menus.'
+2024-10-17 20:43:17.669 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'setting http response message'
+2024-10-17 20:43:17.673 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'no pipeline errors, setting and returning completed response'
+2024-10-17 20:43:17.681 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000004, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline finished'
+2024-10-17 20:43:17.682 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:62162/api/base/role-menus - 200 null application/json; charset=utf-8 2591.8963ms
+2024-10-17 20:43:17.685 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:62162/api/base/role-menus, Response status code: 200
+2024-10-17 20:43:17.999 +08:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:62162/api/base/menu/all?Filter=&Sorting=&SkipCount=0&MaxResultCount=10 - null null
+2024-10-17 20:43:18.002 +08:00 [INF] CORS policy execution successful.
+2024-10-17 20:43:18.002 +08:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:62162/api/base/menu/all?Filter=&Sorting=&SkipCount=0&MaxResultCount=10 - 204 null null 3.8665ms
+2024-10-17 20:43:18.009 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:62162/api/base/menu/all?Filter=&Sorting=&SkipCount=0&MaxResultCount=10 - null null
+2024-10-17 20:43:18.012 +08:00 [INF] CORS policy execution successful.
+2024-10-17 20:43:18.013 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline started'
+2024-10-17 20:43:18.014 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'Upstream url path is /api/base/menu/all'
+2024-10-17 20:43:18.015 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'downstream templates are /api/base/{everything}'
+2024-10-17 20:43:18.016 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'EndpointRateLimiting is not enabled for /api/base/{everything}'
+2024-10-17 20:43:18.017 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'No authentication needed for path '/api/base/menu/all'.'
+2024-10-17 20:43:18.017 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: '/api/base/{everything} route does not require user to be authorized'
+2024-10-17 20:43:18.117 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'Downstream url is http://localhost:55389/api/base/menu/all?Filter=&Sorting=&SkipCount=0&MaxResultCount=10'
+2024-10-17 20:43:21.301 +08:00 [INF] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: '200 (OK) status code of request URI: http://localhost:55389/api/base/menu/all?Filter=&Sorting=&SkipCount=0&MaxResultCount=10.'
+2024-10-17 20:43:21.302 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'setting http response message'
+2024-10-17 20:43:21.304 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'no pipeline errors, setting and returning completed response'
+2024-10-17 20:43:21.326 +08:00 [DBG] requestId: 0HN7EL1Q2ICMD:00000006, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline finished'
+2024-10-17 20:43:21.327 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:62162/api/base/menu/all?Filter=&Sorting=&SkipCount=0&MaxResultCount=10 - 200 null application/json; charset=utf-8 3318.3703ms
+2024-10-17 20:43:21.331 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:62162/api/base/menu/all, Response status code: 200
