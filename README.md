@@ -12,7 +12,23 @@
 > 
   博客：[梦想代码][(https://www.cnblogs.com/netcore-vue)](https://www.cnblogs.com/netcore-vue)  
   
-  持续关注和分享：团队致力于开发一套完整的WMS系统，使用微服务架构，欢迎有识之士加入我们的团队！
+  持续关注和分享：团队致力于开发一套完整的WMS系统，使用微服务架构(前后端分离开发)，欢迎有识之士加入我们的团队！
+
+
+### 项目启动初始条件（必须）  
+
+- 启动Consul服务
+  启动consul服务发现，安装consul后，执行consul.exe后(找不到可以加QQ支持群里要)，在该目录下执行cmd，输入启动命令：consul agent -dev，运行地址：http://localhost:8500/
+  说明：因为所有服务都走服务发现，这个是必须先启动，才能运行整个微服务。
+- 启动Redis
+  执行redis安装文件，本地启动即可
+
+### 前端运行效果
+前端使用Vue2.0，使用经典易上手的vue-admin-element框架，前后端分离开发，支持多租户等功能。
+> 首页,公司输入框内可输入租户信息
+![image](https://github.com/user-attachments/assets/7f1dcc45-0c68-4cd8-9e9b-aa7f6613934a)
+> 用户名:admin 密码：1q2w3E*
+![image](https://github.com/user-attachments/assets/a7b97e61-4236-4aaf-a50c-8bd2cd004e19)
 
 #### ABPVNext微服务架构:  
 ABP vNext 框架是一个基于ASP.NET核心的完整基础设施，通过遵循软件开发最佳实践和最新技术来创建现代web应用程序和API，它完全基于 ASP.NET Core，设计更加合理，更加细粒度的模块化设计。
@@ -266,16 +282,9 @@ abp new XX.BaseService -t module --no-ui --version 8.0.0
  - WMS基础服务：WMS.BaseService.HttpApi.Host（例如：基础档案等一维表的基础服务）（准备开发中）
  - WMS主业务：WMS.Business.HttpApi.Host（主业务） 与基础服务通过 内部网关进行 服务间通信（准备开发中）
 
-### 项目启动初始条件（必须）  
-
-- 启动Consul服务
-  启动consul服务发现，安装consul后，执行consul.exe后，在该目录下执行cmd，输入启动命令：consul agent -dev，运行地址：http://localhost:8500/
-  说明：因为所有服务都走服务发现，这个是必须先启动，才能运行整个微服务。
-- 启动Redis
-  执行redis安装文件，本地启动即可
-
 ### 开发进度
-WMS相关业务准备开发中，目前进度：架起了ABP微服务架构。
+1，WMS相关业务准备开发中，目前进度：架起了ABP微服务架构。
+2，加入了前端vue-admin-element框架。
 
 ### 注意事项
 开源项目，大家一学习应用！
