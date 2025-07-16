@@ -55,7 +55,7 @@
             },
             "Volo.Abp.Core": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [

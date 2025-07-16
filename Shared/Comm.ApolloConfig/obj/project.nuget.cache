@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CTMSpZHBNqqxxgdIhKij21zYKIAqPTC4Wgyj3n7YFsyITz/Z08zCY5q4VuABljpUXohyBEInTbGsA69Zf0o21Q==",
+  "dgSpecHash": "lPgM6ONizQ3+1MLsv9ZSavTfYyd76xwf2u03dleKLESwPNO73aXBtPD3V8EvDkspjoCpKBorQAaeZTYoNPpkvQ==",
   "success": true,
   "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ApolloConfig\\Com.ApolloConfig.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.logging.debug\\8.0.0\\microsoft.extensions.logging.debug.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\8.0.0\\microsoft.extensions.logging.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\8.0.0\\microsoft.extensions.logging.eventsource.8.0.0.nupkg.sha512",
-    "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -70,7 +70,7 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.core\\8.1.1\\volo.abp.core.8.1.1.nupkg.sha512"
+    "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.core\\8.3.4\\volo.abp.core.8.3.4.nupkg.sha512"
   ],
   "logs": [
     {

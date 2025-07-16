@@ -1594,7 +1594,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
@@ -1632,7 +1631,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
@@ -1687,7 +1685,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
@@ -1696,7 +1693,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
@@ -1706,7 +1702,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
@@ -1859,7 +1854,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\System.Text.Encoding.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\System.Text.Json.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\System.Threading.Channels.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\BaseService\BaseService.HttpApi\bin\Debug\net8.0\refs\System.Threading.dll

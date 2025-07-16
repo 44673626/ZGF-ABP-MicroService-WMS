@@ -139,7 +139,7 @@ namespace AuthServer.Host
                 options.ServiceAddress = Environment.GetEnvironmentVariable("ASPNETCORE_URLS") != null ?
                 Environment.GetEnvironmentVariable("ASPNETCORE_URLS") : configuration["ConsulRegistry:ServiceAddress"];
                 options.HealthCheckAddress = configuration["ConsulRegistry:HealthCheckAddress"];
-                options.RegistryAddress = configuration["ConsulRegistry:RegistryAddress"];//"http://localhost:8500";
+                options.RegistryAddress = configuration["ConsulRegistry:RegistryAddress"];
                 options.ServiceTags = new string[] { "IdentityServer认证服务", "生成Token、服务作用域Scope、Client客户端认证、微服务间调用配置等" };//标签
             });
             //心跳检测

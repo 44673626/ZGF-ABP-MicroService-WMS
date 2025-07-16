@@ -5,14 +5,14 @@
     <version>2.0.0</version>
     <authors>XCZ</authors>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" commit="99e391c5c9d22cf3bd20d6fa76c35c2bdecccc79" />
+    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" commit="4c0aebeec7a218bb13d4662f789612a8a9976af4" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Comm.CAP.EtoShare" version="1.2.0" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.AspNetCore.SignalR" version="8.1.1" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.Ddd.Application" version="8.1.1" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.Identity.Application.Contracts" version="8.1.1" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.PermissionManagement.Application.Contracts" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.AspNetCore.SignalR" version="8.3.4" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Ddd.Application" version="8.3.4" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Identity.Application.Contracts" version="8.3.4" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.PermissionManagement.Application.Contracts" version="8.3.4" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>

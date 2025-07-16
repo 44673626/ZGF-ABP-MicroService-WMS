@@ -46,3 +46,16 @@ D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\refint\Com.ApolloConfig.dll
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.pdb
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\ref\Com.ApolloConfig.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\bin\Debug\net8.0\Com.ApolloConfig.deps.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\bin\Debug\net8.0\Com.ApolloConfig.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\bin\Debug\net8.0\Com.ApolloConfig.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.csproj.AssemblyReference.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.GeneratedMSBuildEditorConfig.editorconfig
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.AssemblyInfoInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.AssemblyInfo.cs
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.csproj.CoreCompileInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.sourcelink.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\refint\Com.ApolloConfig.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\Com.ApolloConfig.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Shared\Comm.ApolloConfig\obj\Debug\net8.0\ref\Com.ApolloConfig.dll

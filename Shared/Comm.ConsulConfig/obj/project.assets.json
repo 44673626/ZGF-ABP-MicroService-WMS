@@ -506,7 +506,7 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0": {
+      "Microsoft.Extensions.Options/8.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
@@ -1102,7 +1102,7 @@
           }
         }
       },
-      "Volo.Abp.Autofac/8.1.1": {
+      "Volo.Abp.Autofac/8.3.4": {
         "type": "package",
         "dependencies": {
           "Autofac": "8.0.0",
@@ -1110,7 +1110,7 @@
           "Autofac.Extras.DynamicProxy": "7.1.0",
           "Microsoft.Bcl.AsyncInterfaces": "8.0.0",
           "Microsoft.Extensions.Hosting.Abstractions": "8.0.0",
-          "Volo.Abp.Castle.Core": "8.1.1"
+          "Volo.Abp.Castle.Core": "8.3.4"
         },
         "compile": {
           "lib/net8.0/Volo.Abp.Autofac.dll": {
@@ -1123,12 +1123,12 @@
           }
         }
       },
-      "Volo.Abp.Castle.Core/8.1.1": {
+      "Volo.Abp.Castle.Core/8.3.4": {
         "type": "package",
         "dependencies": {
           "Castle.Core": "5.1.1",
           "Castle.Core.AsyncInterceptor": "2.1.0",
-          "Volo.Abp.Core": "8.1.1"
+          "Volo.Abp.Core": "8.3.4"
         },
         "compile": {
           "lib/net8.0/Volo.Abp.Castle.Core.dll": {
@@ -1141,7 +1141,7 @@
           }
         }
       },
-      "Volo.Abp.Core/8.1.1": {
+      "Volo.Abp.Core/8.3.4": {
         "type": "package",
         "dependencies": {
           "JetBrains.Annotations": "2023.3.0",
@@ -1152,7 +1152,7 @@
           "Microsoft.Extensions.Hosting.Abstractions": "8.0.0",
           "Microsoft.Extensions.Localization": "8.0.0",
           "Microsoft.Extensions.Logging": "8.0.0",
-          "Microsoft.Extensions.Options": "8.0.0",
+          "Microsoft.Extensions.Options": "8.0.2",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "8.0.0",
           "Nito.AsyncEx.Context": "5.1.2",
           "System.Collections.Immutable": "8.0.0",
@@ -2025,10 +2025,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Options/8.0.0": {
-      "sha512": "JOVOfqpnqlVLUzINQ2fox8evY2SKLYJ3BV8QDe/Jyp21u1T7r45x/R/5QdteURMR5r01GxeJSBBUOCOyaNXA3g==",
+    "Microsoft.Extensions.Options/8.0.2": {
+      "sha512": "dWGKvhFybsaZpGmzkGCbNNwBD1rVlWzrZKANLW/CcbFJpCEceMCGzT7zZwHOGBCbwM0SzBuceMj5HN1LKV1QqA==",
       "type": "package",
-      "path": "microsoft.extensions.options/8.0.0",
+      "path": "microsoft.extensions.options/8.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2067,7 +2067,7 @@
         "lib/netstandard2.0/Microsoft.Extensions.Options.xml",
         "lib/netstandard2.1/Microsoft.Extensions.Options.dll",
         "lib/netstandard2.1/Microsoft.Extensions.Options.xml",
-        "microsoft.extensions.options.8.0.0.nupkg.sha512",
+        "microsoft.extensions.options.8.0.2.nupkg.sha512",
         "microsoft.extensions.options.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -3913,10 +3913,10 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Volo.Abp.Autofac/8.1.1": {
-      "sha512": "B326MyX1e9dKPl3nfHswc7iqRgkhLH3u9WeUrc7pnAmMQwZXvnXsk3BF8xy+f/500ab+iJMrsuLXwv8NhMg9hA==",
+    "Volo.Abp.Autofac/8.3.4": {
+      "sha512": "YmAH0h6e602Lt6zaVR4GooLIS2FuOZWr9BhNqjnZfEHrO6s4v+YStrfReTWh1YgeZ8p+l+9Wqa2+6mM962NFOQ==",
       "type": "package",
-      "path": "volo.abp.autofac/8.1.1",
+      "path": "volo.abp.autofac/8.3.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3931,14 +3931,14 @@
         "lib/netstandard2.1/Volo.Abp.Autofac.dll",
         "lib/netstandard2.1/Volo.Abp.Autofac.pdb",
         "lib/netstandard2.1/Volo.Abp.Autofac.xml",
-        "volo.abp.autofac.8.1.1.nupkg.sha512",
+        "volo.abp.autofac.8.3.4.nupkg.sha512",
         "volo.abp.autofac.nuspec"
       ]
     },
-    "Volo.Abp.Castle.Core/8.1.1": {
-      "sha512": "0IRz2H9bWTfl5vNzVxnzUx0tx2q9/YpAgKfX7L5cm5YZSY/S2Cwx5VMjNpVxG9uFf6CtPMMTWWqTF5JyW83YVg==",
+    "Volo.Abp.Castle.Core/8.3.4": {
+      "sha512": "0F96Bmt7F0YVy11YmODvEiqzVzvBzUMRD1zDyWPuYOyO2nEIlkA4Un6F3WKBAEJfvrQZoCVWXLHD1aPhgbX1Pg==",
       "type": "package",
-      "path": "volo.abp.castle.core/8.1.1",
+      "path": "volo.abp.castle.core/8.3.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3954,14 +3954,14 @@
         "lib/netstandard2.1/Volo.Abp.Castle.Core.dll",
         "lib/netstandard2.1/Volo.Abp.Castle.Core.pdb",
         "lib/netstandard2.1/Volo.Abp.Castle.Core.xml",
-        "volo.abp.castle.core.8.1.1.nupkg.sha512",
+        "volo.abp.castle.core.8.3.4.nupkg.sha512",
         "volo.abp.castle.core.nuspec"
       ]
     },
-    "Volo.Abp.Core/8.1.1": {
-      "sha512": "sNtdDe2/EWSz5tyHHWTJv8s2znVHVEP3019F6vXkoPYeL3kNYjSMX1W+ibH/TP5jmowaRZc9AZbfjHUb2bnHkQ==",
+    "Volo.Abp.Core/8.3.4": {
+      "sha512": "PhjE9M4df1x0wczDftMH5vgTFOSVixBOPNoRX5dsJFagAIn2Z/xxf4XI6gpvnS77tUNvWoVQZHyiy9cnPCsT2A==",
       "type": "package",
-      "path": "volo.abp.core/8.1.1",
+      "path": "volo.abp.core/8.3.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3977,7 +3977,7 @@
         "lib/netstandard2.1/Volo.Abp.Core.dll",
         "lib/netstandard2.1/Volo.Abp.Core.pdb",
         "lib/netstandard2.1/Volo.Abp.Core.xml",
-        "volo.abp.core.8.1.1.nupkg.sha512",
+        "volo.abp.core.8.3.4.nupkg.sha512",
         "volo.abp.core.nuspec"
       ]
     }
@@ -3985,7 +3985,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Consul >= 1.7.14.1",
-      "Volo.Abp.Autofac >= 8.1.1"
+      "Volo.Abp.Autofac >= 8.3.4"
     ]
   },
   "packageFolders": {
@@ -4034,7 +4034,7 @@
           },
           "Volo.Abp.Autofac": {
             "target": "Package",
-            "version": "[8.1.1, )"
+            "version": "[8.3.4, )"
           }
         },
         "imports": [

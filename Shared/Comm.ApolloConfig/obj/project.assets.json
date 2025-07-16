@@ -602,7 +602,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0": {
+      "Microsoft.Extensions.Options/8.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
@@ -1204,7 +1204,7 @@
           }
         }
       },
-      "Volo.Abp.Core/8.1.1": {
+      "Volo.Abp.Core/8.3.4": {
         "type": "package",
         "dependencies": {
           "JetBrains.Annotations": "2023.3.0",
@@ -1215,7 +1215,7 @@
           "Microsoft.Extensions.Hosting.Abstractions": "8.0.0",
           "Microsoft.Extensions.Localization": "8.0.0",
           "Microsoft.Extensions.Logging": "8.0.0",
-          "Microsoft.Extensions.Options": "8.0.0",
+          "Microsoft.Extensions.Options": "8.0.2",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "8.0.0",
           "Nito.AsyncEx.Context": "5.1.2",
           "System.Collections.Immutable": "8.0.0",
@@ -2123,10 +2123,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Options/8.0.0": {
-      "sha512": "JOVOfqpnqlVLUzINQ2fox8evY2SKLYJ3BV8QDe/Jyp21u1T7r45x/R/5QdteURMR5r01GxeJSBBUOCOyaNXA3g==",
+    "Microsoft.Extensions.Options/8.0.2": {
+      "sha512": "dWGKvhFybsaZpGmzkGCbNNwBD1rVlWzrZKANLW/CcbFJpCEceMCGzT7zZwHOGBCbwM0SzBuceMj5HN1LKV1QqA==",
       "type": "package",
-      "path": "microsoft.extensions.options/8.0.0",
+      "path": "microsoft.extensions.options/8.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2165,7 +2165,7 @@
         "lib/netstandard2.0/Microsoft.Extensions.Options.xml",
         "lib/netstandard2.1/Microsoft.Extensions.Options.dll",
         "lib/netstandard2.1/Microsoft.Extensions.Options.xml",
-        "microsoft.extensions.options.8.0.0.nupkg.sha512",
+        "microsoft.extensions.options.8.0.2.nupkg.sha512",
         "microsoft.extensions.options.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4017,10 +4017,10 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Volo.Abp.Core/8.1.1": {
-      "sha512": "sNtdDe2/EWSz5tyHHWTJv8s2znVHVEP3019F6vXkoPYeL3kNYjSMX1W+ibH/TP5jmowaRZc9AZbfjHUb2bnHkQ==",
+    "Volo.Abp.Core/8.3.4": {
+      "sha512": "PhjE9M4df1x0wczDftMH5vgTFOSVixBOPNoRX5dsJFagAIn2Z/xxf4XI6gpvnS77tUNvWoVQZHyiy9cnPCsT2A==",
       "type": "package",
-      "path": "volo.abp.core/8.1.1",
+      "path": "volo.abp.core/8.3.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4036,7 +4036,7 @@
         "lib/netstandard2.1/Volo.Abp.Core.dll",
         "lib/netstandard2.1/Volo.Abp.Core.pdb",
         "lib/netstandard2.1/Volo.Abp.Core.xml",
-        "volo.abp.core.8.1.1.nupkg.sha512",
+        "volo.abp.core.8.3.4.nupkg.sha512",
         "volo.abp.core.nuspec"
       ]
     }
@@ -4046,7 +4046,7 @@
       "Com.Ctrip.Framework.Apollo.Configuration >= 2.10.2",
       "Microsoft.Extensions.Configuration.Abstractions >= 8.0.0",
       "Microsoft.Extensions.Hosting >= 8.0.0",
-      "Volo.Abp.Core >= 8.1.1"
+      "Volo.Abp.Core >= 8.3.4"
     ]
   },
   "packageFolders": {
@@ -4103,7 +4103,7 @@
           },
           "Volo.Abp.Core": {
             "target": "Package",
-            "version": "[8.1.1, )"
+            "version": "[8.3.4, )"
           }
         },
         "imports": [

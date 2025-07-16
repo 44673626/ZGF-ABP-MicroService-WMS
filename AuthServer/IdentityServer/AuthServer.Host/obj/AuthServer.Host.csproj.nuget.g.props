@@ -13,9 +13,9 @@
     <SourceRoot Include="C:\Users\合心凯达\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.basic\8.1.1\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.basic\8.1.1\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.abppkg.analyze.json')">
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.basic\8.3.4\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.basic\8.3.4\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.abppkg.analyze.json')">
       <NuGetPackageId>Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic</NuGetPackageId>
-      <NuGetPackageVersion>8.1.1</NuGetPackageVersion>
+      <NuGetPackageVersion>8.3.4</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
@@ -23,9 +23,9 @@
     </Content>
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)volo.abp.account.web.identityserver\8.1.1\contentFiles\any\net8.0\Volo.Abp.Account.Web.IdentityServer.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.account.web.identityserver\8.1.1\contentFiles\any\net8.0\Volo.Abp.Account.Web.IdentityServer.abppkg.analyze.json')">
+    <Content Include="$(NuGetPackageRoot)volo.abp.account.web.identityserver\8.3.4\contentFiles\any\net8.0\Volo.Abp.Account.Web.IdentityServer.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.account.web.identityserver\8.3.4\contentFiles\any\net8.0\Volo.Abp.Account.Web.IdentityServer.abppkg.analyze.json')">
       <NuGetPackageId>Volo.Abp.Account.Web.IdentityServer</NuGetPackageId>
-      <NuGetPackageVersion>8.1.1</NuGetPackageVersion>
+      <NuGetPackageVersion>8.3.4</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>

@@ -2993,7 +2993,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
@@ -3028,7 +3027,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
@@ -3091,7 +3089,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
@@ -3253,7 +3250,6 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\System.Text.Encoding.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
-E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\System.Text.Json.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\System.Threading.Channels.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\refs\System.Threading.dll
@@ -3285,6 +3281,7 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Asp.Versioning.Http.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\AsyncKeyedLock.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Autofac.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
@@ -3296,6 +3293,7 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Castle.Core.AsyncInterceptor.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Consul.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Dapper.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\DeviceDetector.NET.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Elasticsearch.Net.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Humanizer.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\IdentityModel.dll
@@ -3303,11 +3301,14 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\IdentityServer4.AspNetIdentity.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\IdentityServer4.Storage.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\JetBrains.Annotations.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\LiteDB.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.StackExchangeRedis.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -3326,6 +3327,7 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Microsoft.Identity.Client.dll
@@ -3376,6 +3378,7 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\System.Runtime.Caching.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\System.Text.Json.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\System.Windows.Extensions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\TimeZoneConverter.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.Account.Application.dll
@@ -3384,6 +3387,7 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.Account.Web.IdentityServer.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.ApiVersioning.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.AspNetCore.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.AspNetCore.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.AspNetCore.MultiTenancy.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.AspNetCore.Mvc.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.AspNetCore.Mvc.Contracts.dll
@@ -3483,6 +3487,7 @@ E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.Validation.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.Validation.Abstractions.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\Volo.Abp.VirtualFileSystem.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\YamlDotNet.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll

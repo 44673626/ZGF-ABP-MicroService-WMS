@@ -32,7 +32,7 @@ namespace WMS.BaseService.Tenants
     [Area(ABPVNextRemoteServiceConsts.ModuleName)]
     [RemoteService(Name = ABPVNextRemoteServiceConsts.RemoteServiceName)]
     [Route($"{ApiConsts.RootPath}TenantsManager")]
-    [ApiExplorerSettings(GroupName = "Infra", IgnoreApi = false)]
+    [ApiExplorerSettings(GroupName = "Infra")] //, IgnoreApi = false
     public class TenantsController : ABPVNextController
     {
         private readonly ITenantManagerAppService _iTenantManager;

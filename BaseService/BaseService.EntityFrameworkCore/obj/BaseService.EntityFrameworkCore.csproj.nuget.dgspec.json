@@ -43,19 +43,19 @@
           "dependencies": {
             "Volo.Abp.AuditLogging.Domain": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Ddd.Domain": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.PermissionManagement.Domain.Identity": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [
@@ -121,27 +121,27 @@
           "dependencies": {
             "Volo.Abp.AuditLogging.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.PermissionManagement.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.SettingManagement.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.TenantManagement.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [

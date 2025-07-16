@@ -34,3 +34,16 @@ D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Do
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\refint\FileStorage.Domain.dll
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.pdb
 D:\ABPWMS\WMS\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\ref\FileStorage.Domain.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\bin\Debug\net8.0\FileStorage.Domain.deps.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\bin\Debug\net8.0\FileStorage.Domain.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\bin\Debug\net8.0\FileStorage.Domain.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.csproj.AssemblyReference.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.AssemblyInfoInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.AssemblyInfo.cs
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.csproj.CoreCompileInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.sourcelink.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\refint\FileStorage.Domain.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\FileStorage.Domain.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\MicroServices\FilesStorage\FileStorage.Domain\obj\Debug\net8.0\ref\FileStorage.Domain.dll

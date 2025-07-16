@@ -7,17 +7,17 @@
     <authors>XCZ</authors>
     <projectUrl>https://github.com/WilliamXu96/ABP-MicroService</projectUrl>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" commit="99e391c5c9d22cf3bd20d6fa76c35c2bdecccc79" />
+    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" commit="4c0aebeec7a218bb13d4662f789612a8a9976af4" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="XCZ.BaseService.Application.Contracts" version="2.0.0" exclude="Build,Analyzers" />
         <dependency id="Comm.CAP.EtoShare" version="1.2.0" exclude="Build,Analyzers" />
-        <dependency id="DotNetCore.CAP" version="8.1.1" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.Account.HttpApi" version="8.1.1" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.AspNetCore.Mvc" version="8.1.1" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.Identity.HttpApi" version="8.1.1" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.PermissionManagement.HttpApi" version="8.1.1" exclude="Build,Analyzers" />
-        <dependency id="Volo.Abp.TenantManagement.HttpApi" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="DotNetCore.CAP" version="8.3.4" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Account.HttpApi" version="8.3.4" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.AspNetCore.Mvc" version="8.3.4" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Identity.HttpApi" version="8.3.4" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.PermissionManagement.HttpApi" version="8.3.4" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.TenantManagement.HttpApi" version="8.3.4" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>

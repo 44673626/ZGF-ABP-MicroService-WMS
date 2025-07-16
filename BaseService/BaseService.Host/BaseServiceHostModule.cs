@@ -245,7 +245,7 @@ namespace BaseService
                 options.ServiceName = configuration["ConsulRegistry:ServiceName"];
                 options.ServiceAddress = Environment.GetEnvironmentVariable("ASPNETCORE_URLS") != null ? Environment.GetEnvironmentVariable("ASPNETCORE_URLS") : configuration["ConsulRegistry:ServiceAddress"];
                 options.HealthCheckAddress = configuration["ConsulRegistry:HealthCheckAddress"];
-                options.RegistryAddress = configuration["ConsulRegistry:RegistryAddress"];//"http://localhost:8500";
+                options.RegistryAddress = configuration["ConsulRegistry:RegistryAddress"];
                 options.ServiceTags = new string[] { "基础服务项目", "用户管理、角色、权限、租户和菜单等" };//标签
             });
             //心跳检测

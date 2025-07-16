@@ -51,11 +51,11 @@
             },
             "Volo.Abp.Authorization": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Ddd.Application": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [
@@ -136,19 +136,19 @@
             },
             "Volo.Abp.AutoMapper": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.BlobStoring": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.BlobStoring.FileSystem": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Http.Client.IdentityModel.Web": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [
@@ -214,27 +214,27 @@
             },
             "Volo.Abp.BlobStoring": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Ddd.Domain": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Localization": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.PermissionManagement.Domain.Identity": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Validation": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [
@@ -306,11 +306,11 @@
             },
             "Volo.Abp.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.PermissionManagement.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [
@@ -392,15 +392,15 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.18, )"
             },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.18, )"
             },
             "Serilog.AspNetCore": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[8.0.3, )"
             },
             "Serilog.Sinks.Async": {
               "target": "Package",
@@ -416,31 +416,31 @@
             },
             "Volo.Abp.AspNetCore.MultiTenancy": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.AspNetCore.Mvc": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.AspNetCore.Serilog": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Autofac": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.BlobStoring": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.BlobStoring.FileSystem": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Caching": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [
@@ -509,7 +509,7 @@
           "dependencies": {
             "Volo.Abp.AspNetCore.Mvc": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [

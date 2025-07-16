@@ -47,27 +47,27 @@
             },
             "Volo.Abp.BlobStoring": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Ddd.Domain": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Localization": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.PermissionManagement.Domain.Identity": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Validation": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [

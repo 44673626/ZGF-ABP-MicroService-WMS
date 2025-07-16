@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Volo.Abp.Http.Client" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Http.Client" Version="8.3.4" />
     <ProjectReference Include="..\FileStorage.Application.Contracts\FileStorage.Application.Contracts.csproj" />
   </ItemGroup>
 

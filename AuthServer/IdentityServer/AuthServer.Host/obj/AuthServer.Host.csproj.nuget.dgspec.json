@@ -73,67 +73,67 @@
             },
             "Volo.Abp.Account.Application": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Account.Web.IdentityServer": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.AuditLogging.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Autofac": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Dapper": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.EventBus.RabbitMQ": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.FeatureManagement.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Identity.Application.Contracts": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.IdentityServer.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.PermissionManagement.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.SettingManagement.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.TenantManagement.Application.Contracts": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             },
             "Volo.Abp.TenantManagement.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [
@@ -203,7 +203,7 @@
             },
             "Volo.Abp.Autofac": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.3.4, )"
             }
           },
           "imports": [

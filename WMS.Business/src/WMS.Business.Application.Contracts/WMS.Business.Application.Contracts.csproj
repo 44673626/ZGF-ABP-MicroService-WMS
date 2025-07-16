@@ -10,10 +10,10 @@
 
   <ItemGroup>
     <PackageReference Include="Magicodes.IE.Excel" Version="2.7.5.1" />
-    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.Authorization" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.TenantManagement.Application.Contracts" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.Authorization" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Application.Contracts" Version="8.3.4" />
     <ProjectReference Include="..\WMS.Business.Domain.Shared\WMS.Business.Domain.Shared.csproj" />
     <ProjectReference Include="..\WMS.Business.Domain\WMS.Business.Domain.csproj" />
   </ItemGroup>

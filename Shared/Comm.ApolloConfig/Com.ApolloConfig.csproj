@@ -10,7 +10,7 @@
     <PackageReference Include="Com.Ctrip.Framework.Apollo.Configuration" Version="2.10.2" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
-    <PackageReference Include="Volo.Abp.Core" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.Core" Version="8.3.4" />
   </ItemGroup>
 
 </Project>

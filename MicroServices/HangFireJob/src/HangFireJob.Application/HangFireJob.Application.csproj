@@ -11,11 +11,11 @@
   <ItemGroup>
     <PackageReference Include="Cronos" Version="0.8.4" />
     <PackageReference Include="RestSharp" Version="110.2.0" />
-    <PackageReference Include="Volo.Abp.AutoMapper" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.BackgroundJobs.HangFire" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.Dapper" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.Ddd.Application" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.Emailing" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.BackgroundJobs.HangFire" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.Dapper" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.Ddd.Application" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.Emailing" Version="8.3.4" />
     <ProjectReference Include="..\HangFireJob.Application.Contracts\HangFireJob.Application.Contracts.csproj" />
     <ProjectReference Include="..\HangFireJob.Domain\HangFireJob.Domain.csproj" />
     <ProjectReference Include="..\HangFireJob.EntityFrameworkCore\HangFireJob.EntityFrameworkCore.csproj" />

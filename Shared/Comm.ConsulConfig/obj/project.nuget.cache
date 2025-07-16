@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q96bKFUBX0FXbUXQJpNVfM5Cacs0OoDoWkO3lF/2pyFmxo9viI9wKU1/BMexo4ijmq7d3MaocSTLM1FKNfl4Cw==",
+  "dgSpecHash": "q6048gw9JGMC1HyHaIZoAcNimEikDwuSgxSCGauf+N78LbI0rsMHsPFzdjycWh/874hif4ZX3G0eWcFkQcVDsA==",
   "success": true,
   "projectFilePath": "E:\\hxgitcode\\ZGF-ABP-MicroService-WMS\\Shared\\Comm.ConsulConfig\\Com.ConsulConfig.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,7 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\8.0.0\\microsoft.extensions.localization.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -69,9 +69,9 @@
     "C:\\Users\\合心凯达\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\合心凯达\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.autofac\\8.1.1\\volo.abp.autofac.8.1.1.nupkg.sha512",
-    "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.castle.core\\8.1.1\\volo.abp.castle.core.8.1.1.nupkg.sha512",
-    "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.core\\8.1.1\\volo.abp.core.8.1.1.nupkg.sha512"
+    "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.autofac\\8.3.4\\volo.abp.autofac.8.3.4.nupkg.sha512",
+    "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.castle.core\\8.3.4\\volo.abp.castle.core.8.3.4.nupkg.sha512",
+    "C:\\Users\\合心凯达\\.nuget\\packages\\volo.abp.core\\8.3.4\\volo.abp.core.8.3.4.nupkg.sha512"
   ],
   "logs": [
     {

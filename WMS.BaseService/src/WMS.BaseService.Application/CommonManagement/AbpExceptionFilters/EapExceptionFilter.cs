@@ -170,9 +170,18 @@ namespace WMS.BaseService.CommonManagement.AbpExceptionFilters
                 case AbpAuthorizationException e:
                     context.HttpContext.Response.StatusCode = 401;
                     return message = "授权失败！";
-                case AbpValidationException e:
-                    context.HttpContext.Response.StatusCode = 200;
-                    return message = "请求参数验证失败！";
+                   case AbpValidationException e:
+				   context.HttpContext.Response.StatusCode = 200;
+				   if (e.ValidationErrors.Any())
+				   {
+					   message = "你的请求无效："+ string.Join(",", e.ValidationErrors);
+				   }
+				   else
+				   {
+					   message = e.ValidationErrors[0].ErrorMessage;
+
+				   }
+				   return message;
                 case EntityNotFoundException e:
                     return message = "未找到对应实体！";
                 case BusinessException e:
