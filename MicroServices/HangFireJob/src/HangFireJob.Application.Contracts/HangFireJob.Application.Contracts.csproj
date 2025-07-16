@@ -10,9 +10,9 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
-    <PackageReference Include="Volo.Abp.BackgroundWorkers.Hangfire" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="8.1.1" />
-    <PackageReference Include="Volo.Abp.Authorization" Version="8.1.1" />
+    <PackageReference Include="Volo.Abp.BackgroundWorkers.Hangfire" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="8.3.4" />
+    <PackageReference Include="Volo.Abp.Authorization" Version="8.3.4" />
     <ProjectReference Include="..\HangFireJob.Domain.Shared\HangFireJob.Domain.Shared.csproj" />
     <ProjectReference Include="..\HangFireJob.Domain\HangFireJob.Domain.csproj" />
   </ItemGroup>
