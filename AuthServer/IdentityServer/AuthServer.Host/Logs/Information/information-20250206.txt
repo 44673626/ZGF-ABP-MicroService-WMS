@@ -1,0 +1,3225 @@
+
+Date:2025-02-06 13:54:36.525
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2025-02-06 13:54:36.546
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- AuthServer.Host.AuthServerHostModule
+
+Date:2025-02-06 13:54:36.547
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2025-02-06 13:54:36.548
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2025-02-06 13:54:36.549
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 13:54:36.550
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2025-02-06 13:54:36.551
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2025-02-06 13:54:36.552
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2025-02-06 13:54:36.553
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2025-02-06 13:54:36.554
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2025-02-06 13:54:36.555
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2025-02-06 13:54:36.555
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2025-02-06 13:54:36.556
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2025-02-06 13:54:36.557
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Security.AbpSecurityModule
+
+Date:2025-02-06 13:54:36.558
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Data.AbpDataModule
+
+Date:2025-02-06 13:54:36.559
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2025-02-06 13:54:36.560
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2025-02-06 13:54:36.560
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2025-02-06 13:54:36.561
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2025-02-06 13:54:36.562
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2025-02-06 13:54:36.562
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2025-02-06 13:54:36.563
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2025-02-06 13:54:36.564
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2025-02-06 13:54:36.564
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2025-02-06 13:54:36.565
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2025-02-06 13:54:36.566
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2025-02-06 13:54:36.566
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2025-02-06 13:54:36.567
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2025-02-06 13:54:36.568
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2025-02-06 13:54:36.569
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2025-02-06 13:54:36.570
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2025-02-06 13:54:36.571
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2025-02-06 13:54:36.571
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2025-02-06 13:54:36.572
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2025-02-06 13:54:36.573
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2025-02-06 13:54:36.574
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2025-02-06 13:54:36.575
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2025-02-06 13:54:36.575
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2025-02-06 13:54:36.577
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2025-02-06 13:54:36.577
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2025-02-06 13:54:36.578
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2025-02-06 13:54:36.579
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2025-02-06 13:54:36.580
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2025-02-06 13:54:36.581
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2025-02-06 13:54:36.582
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 13:54:36.582
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2025-02-06 13:54:36.583
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2025-02-06 13:54:36.584
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2025-02-06 13:54:36.585
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2025-02-06 13:54:36.585
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2025-02-06 13:54:36.586
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2025-02-06 13:54:36.587
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2025-02-06 13:54:36.587
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2025-02-06 13:54:36.589
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2025-02-06 13:54:36.589
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2025-02-06 13:54:36.590
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2025-02-06 13:54:36.591
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2025-02-06 13:54:36.592
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2025-02-06 13:54:36.593
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2025-02-06 13:54:36.594
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2025-02-06 13:54:36.595
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2025-02-06 13:54:36.596
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2025-02-06 13:54:36.597
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2025-02-06 13:54:36.598
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2025-02-06 13:54:36.598
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2025-02-06 13:54:36.599
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2025-02-06 13:54:36.600
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2025-02-06 13:54:36.601
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.AbpUiModule
+
+Date:2025-02-06 13:54:36.602
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2025-02-06 13:54:36.603
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2025-02-06 13:54:36.604
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2025-02-06 13:54:36.605
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2025-02-06 13:54:36.606
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2025-02-06 13:54:36.607
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.IdentityServer.EntityFrameworkCore.AbpIdentityServerEntityFrameworkCoreModule
+
+Date:2025-02-06 13:54:36.607
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.IdentityServer.AbpIdentityServerDomainModule
+
+Date:2025-02-06 13:54:36.608
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.IdentityServer.AbpIdentityServerDomainSharedModule
+
+Date:2025-02-06 13:54:36.609
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2025-02-06 13:54:36.610
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.Web.AbpAccountWebIdentityServerModule
+
+Date:2025-02-06 13:54:36.611
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.Web.AbpAccountWebModule
+
+Date:2025-02-06 13:54:36.612
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AspNetCore.AbpIdentityAspNetCoreModule
+
+Date:2025-02-06 13:54:36.613
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2025-02-06 13:54:36.614
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2025-02-06 13:54:36.615
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2025-02-06 13:54:36.616
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2025-02-06 13:54:36.617
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2025-02-06 13:54:36.618
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Http.AbpHttpModule
+
+Date:2025-02-06 13:54:36.619
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2025-02-06 13:54:36.620
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2025-02-06 13:54:36.621
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2025-02-06 13:54:36.623
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2025-02-06 13:54:36.624
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2025-02-06 13:54:36.625
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2025-02-06 13:54:36.626
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2025-02-06 13:54:36.627
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+
+Date:2025-02-06 13:54:36.628
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2025-02-06 13:54:36.629
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2025-02-06 13:54:36.631
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 13:54:36.631
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2025-02-06 13:54:36.632
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2025-02-06 13:54:36.633
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2025-02-06 13:54:36.634
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2025-02-06 13:54:36.831
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e"
+
+Date:2025-02-06 13:54:38.453
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Using the default authentication scheme "Identity.Application" for IdentityServer
+
+Date:2025-02-06 13:54:42.703
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2025-02-06 13:54:42.756
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:53362"
+
+Date:2025-02-06 13:54:42.758
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2025-02-06 13:54:42.759
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2025-02-06 13:54:42.760
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host"
+
+Date:2025-02-06 13:54:53.526
+LogLevel:Information
+Class:Volo.Abp.AspNetCore.Mvc.AntiForgery.AbpValidateAntiforgeryTokenAuthorizationFilter
+Message:Skipping the execution of current filter as its not the most effective filter implementing the policy Microsoft.AspNetCore.Mvc.ViewFeatures.IAntiforgeryPolicy
+
+Date:2025-02-06 14:33:12.926
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 14:33:12.932
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 14:33:13.286
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 14:33:13.509
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6EB09Q943:00000001", TimeStamp: 02/06/2025 06:33:13, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:33:14.329
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 14:33:14.901
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6EB09Q943:00000001", TimeStamp: 02/06/2025 06:33:14, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:33:14.922
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 14:33:15.182
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****psHw" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6EB09Q943:00000001", TimeStamp: 02/06/2025 06:33:15, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:33:15.754
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration"
+
+Date:2025-02-06 14:33:16.029
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks"
+
+Date:2025-02-06 14:33:26.544
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 14:33:26.545
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 14:33:26.554
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 14:33:26.576
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6EB09Q947:00000002", TimeStamp: 02/06/2025 06:33:26, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:33:26.650
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 14:33:26.758
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6EB09Q947:00000002", TimeStamp: 02/06/2025 06:33:26, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:33:26.777
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 14:33:26.967
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****JgzQ" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6EB09Q947:00000002", TimeStamp: 02/06/2025 06:33:26, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:33:37.104
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 14:33:37.105
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 14:33:37.119
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 14:33:37.130
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6EB09Q949:00000002", TimeStamp: 02/06/2025 06:33:37, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:33:37.217
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 14:33:37.395
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6EB09Q949:00000002", TimeStamp: 02/06/2025 06:33:37, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:33:37.415
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 14:33:37.587
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****5ovw" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6EB09Q949:00000002", TimeStamp: 02/06/2025 06:33:37, ProcessId: 6520, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:34:30.861
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2025-02-06 14:34:30.876
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- AuthServer.Host.AuthServerHostModule
+
+Date:2025-02-06 14:34:30.877
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2025-02-06 14:34:30.878
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2025-02-06 14:34:30.878
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:34:30.879
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2025-02-06 14:34:30.880
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2025-02-06 14:34:30.880
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2025-02-06 14:34:30.881
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2025-02-06 14:34:30.882
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2025-02-06 14:34:30.883
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2025-02-06 14:34:30.884
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2025-02-06 14:34:30.884
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2025-02-06 14:34:30.885
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Security.AbpSecurityModule
+
+Date:2025-02-06 14:34:30.886
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Data.AbpDataModule
+
+Date:2025-02-06 14:34:30.886
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2025-02-06 14:34:30.887
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2025-02-06 14:34:30.888
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2025-02-06 14:34:30.888
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2025-02-06 14:34:30.889
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2025-02-06 14:34:30.890
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2025-02-06 14:34:30.891
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2025-02-06 14:34:30.892
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2025-02-06 14:34:30.892
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2025-02-06 14:34:30.893
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2025-02-06 14:34:30.894
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2025-02-06 14:34:30.895
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2025-02-06 14:34:30.896
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2025-02-06 14:34:30.897
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2025-02-06 14:34:30.897
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2025-02-06 14:34:30.898
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2025-02-06 14:34:30.899
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2025-02-06 14:34:30.900
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2025-02-06 14:34:30.900
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2025-02-06 14:34:30.901
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2025-02-06 14:34:30.902
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2025-02-06 14:34:30.903
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2025-02-06 14:34:30.904
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2025-02-06 14:34:30.904
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2025-02-06 14:34:30.905
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2025-02-06 14:34:30.906
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2025-02-06 14:34:30.907
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2025-02-06 14:34:30.908
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2025-02-06 14:34:30.909
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2025-02-06 14:34:30.910
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:34:30.911
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2025-02-06 14:34:30.911
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2025-02-06 14:34:30.912
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2025-02-06 14:34:30.913
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2025-02-06 14:34:30.913
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2025-02-06 14:34:30.914
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2025-02-06 14:34:30.916
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2025-02-06 14:34:30.917
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2025-02-06 14:34:30.918
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2025-02-06 14:34:30.919
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2025-02-06 14:34:30.920
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2025-02-06 14:34:30.921
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2025-02-06 14:34:30.922
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2025-02-06 14:34:30.923
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2025-02-06 14:34:30.924
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2025-02-06 14:34:30.925
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2025-02-06 14:34:30.925
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2025-02-06 14:34:30.926
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2025-02-06 14:34:30.927
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2025-02-06 14:34:30.928
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2025-02-06 14:34:30.929
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2025-02-06 14:34:30.930
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2025-02-06 14:34:30.931
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.AbpUiModule
+
+Date:2025-02-06 14:34:30.932
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2025-02-06 14:34:30.933
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2025-02-06 14:34:30.934
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2025-02-06 14:34:30.936
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2025-02-06 14:34:30.937
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2025-02-06 14:34:30.938
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.IdentityServer.EntityFrameworkCore.AbpIdentityServerEntityFrameworkCoreModule
+
+Date:2025-02-06 14:34:30.939
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.IdentityServer.AbpIdentityServerDomainModule
+
+Date:2025-02-06 14:34:30.940
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.IdentityServer.AbpIdentityServerDomainSharedModule
+
+Date:2025-02-06 14:34:30.941
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2025-02-06 14:34:30.943
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.Web.AbpAccountWebIdentityServerModule
+
+Date:2025-02-06 14:34:30.944
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.Web.AbpAccountWebModule
+
+Date:2025-02-06 14:34:30.945
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AspNetCore.AbpIdentityAspNetCoreModule
+
+Date:2025-02-06 14:34:30.946
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2025-02-06 14:34:30.947
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2025-02-06 14:34:30.948
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2025-02-06 14:34:30.949
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2025-02-06 14:34:30.950
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2025-02-06 14:34:30.951
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Http.AbpHttpModule
+
+Date:2025-02-06 14:34:30.952
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2025-02-06 14:34:30.953
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2025-02-06 14:34:30.954
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2025-02-06 14:34:30.955
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2025-02-06 14:34:30.955
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2025-02-06 14:34:30.956
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2025-02-06 14:34:30.957
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2025-02-06 14:34:30.958
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+
+Date:2025-02-06 14:34:30.959
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2025-02-06 14:34:30.960
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2025-02-06 14:34:30.961
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:34:30.962
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2025-02-06 14:34:30.963
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2025-02-06 14:34:30.964
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2025-02-06 14:34:30.965
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2025-02-06 14:34:31.153
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e"
+
+Date:2025-02-06 14:34:32.942
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Using the default authentication scheme "Identity.Application" for IdentityServer
+
+Date:2025-02-06 14:34:39.137
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2025-02-06 14:34:39.231
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:53362"
+
+Date:2025-02-06 14:34:39.234
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2025-02-06 14:34:39.236
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2025-02-06 14:34:39.237
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host"
+
+Date:2025-02-06 14:34:47.026
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 14:34:47.028
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 14:34:47.593
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 14:34:47.610
+LogLevel:Information
+Class:Volo.Abp.AspNetCore.Mvc.AntiForgery.AbpValidateAntiforgeryTokenAuthorizationFilter
+Message:Skipping the execution of current filter as its not the most effective filter implementing the policy Microsoft.AspNetCore.Mvc.ViewFeatures.IAntiforgeryPolicy
+
+Date:2025-02-06 14:34:47.852
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6F1AHTH5I:00000002", TimeStamp: 02/06/2025 06:34:47, ProcessId: 47500, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:34:49.796
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 14:34:50.786
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6F1AHTH5I:00000002", TimeStamp: 02/06/2025 06:34:50, ProcessId: 47500, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:34:50.813
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 14:34:51.151
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****FSgA" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6F1AHTH5I:00000002", TimeStamp: 02/06/2025 06:34:51, ProcessId: 47500, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:34:51.356
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration"
+
+Date:2025-02-06 14:34:51.720
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks"
+
+Date:2025-02-06 14:34:54.147
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 14:34:54.148
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 14:34:54.169
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 14:34:54.206
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6F1AHTH5R:00000002", TimeStamp: 02/06/2025 06:34:54, ProcessId: 47500, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:34:54.341
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 14:34:54.510
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6F1AHTH5R:00000002", TimeStamp: 02/06/2025 06:34:54, ProcessId: 47500, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:34:54.521
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 14:34:54.670
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****urHA" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6F1AHTH5R:00000002", TimeStamp: 02/06/2025 06:34:54, ProcessId: 47500, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:36:16.870
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2025-02-06 14:36:16.886
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- AuthServer.Host.AuthServerHostModule
+
+Date:2025-02-06 14:36:16.887
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2025-02-06 14:36:16.888
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2025-02-06 14:36:16.888
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:36:16.889
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2025-02-06 14:36:16.890
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2025-02-06 14:36:16.891
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2025-02-06 14:36:16.892
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2025-02-06 14:36:16.892
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2025-02-06 14:36:16.894
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2025-02-06 14:36:16.894
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2025-02-06 14:36:16.895
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2025-02-06 14:36:16.895
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Security.AbpSecurityModule
+
+Date:2025-02-06 14:36:16.896
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Data.AbpDataModule
+
+Date:2025-02-06 14:36:16.896
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2025-02-06 14:36:16.897
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2025-02-06 14:36:16.898
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2025-02-06 14:36:16.899
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2025-02-06 14:36:16.899
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2025-02-06 14:36:16.900
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2025-02-06 14:36:16.901
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2025-02-06 14:36:16.901
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2025-02-06 14:36:16.902
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2025-02-06 14:36:16.903
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2025-02-06 14:36:16.904
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2025-02-06 14:36:16.904
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2025-02-06 14:36:16.905
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2025-02-06 14:36:16.907
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2025-02-06 14:36:16.908
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2025-02-06 14:36:16.909
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2025-02-06 14:36:16.909
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2025-02-06 14:36:16.910
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2025-02-06 14:36:16.911
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2025-02-06 14:36:16.912
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2025-02-06 14:36:16.913
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2025-02-06 14:36:16.914
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2025-02-06 14:36:16.915
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2025-02-06 14:36:16.916
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2025-02-06 14:36:16.916
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2025-02-06 14:36:16.917
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2025-02-06 14:36:16.918
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2025-02-06 14:36:16.919
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2025-02-06 14:36:16.920
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2025-02-06 14:36:16.920
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:36:16.921
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2025-02-06 14:36:16.922
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2025-02-06 14:36:16.922
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2025-02-06 14:36:16.923
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2025-02-06 14:36:16.924
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2025-02-06 14:36:16.925
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2025-02-06 14:36:16.925
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2025-02-06 14:36:16.926
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2025-02-06 14:36:16.927
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2025-02-06 14:36:16.927
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2025-02-06 14:36:16.927
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2025-02-06 14:36:16.928
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2025-02-06 14:36:16.929
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2025-02-06 14:36:16.929
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2025-02-06 14:36:16.929
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2025-02-06 14:36:16.930
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2025-02-06 14:36:16.930
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2025-02-06 14:36:16.931
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2025-02-06 14:36:16.931
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2025-02-06 14:36:16.932
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2025-02-06 14:36:16.932
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2025-02-06 14:36:16.933
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2025-02-06 14:36:16.934
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.AbpUiModule
+
+Date:2025-02-06 14:36:16.934
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2025-02-06 14:36:16.935
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2025-02-06 14:36:16.936
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2025-02-06 14:36:16.937
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2025-02-06 14:36:16.938
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2025-02-06 14:36:16.939
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.IdentityServer.EntityFrameworkCore.AbpIdentityServerEntityFrameworkCoreModule
+
+Date:2025-02-06 14:36:16.940
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.IdentityServer.AbpIdentityServerDomainModule
+
+Date:2025-02-06 14:36:16.941
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.IdentityServer.AbpIdentityServerDomainSharedModule
+
+Date:2025-02-06 14:36:16.942
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2025-02-06 14:36:16.942
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.Web.AbpAccountWebIdentityServerModule
+
+Date:2025-02-06 14:36:16.943
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.Web.AbpAccountWebModule
+
+Date:2025-02-06 14:36:16.944
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AspNetCore.AbpIdentityAspNetCoreModule
+
+Date:2025-02-06 14:36:16.945
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2025-02-06 14:36:16.945
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2025-02-06 14:36:16.946
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2025-02-06 14:36:16.947
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2025-02-06 14:36:16.948
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2025-02-06 14:36:16.949
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Http.AbpHttpModule
+
+Date:2025-02-06 14:36:16.950
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2025-02-06 14:36:16.950
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2025-02-06 14:36:16.951
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2025-02-06 14:36:16.952
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2025-02-06 14:36:16.953
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2025-02-06 14:36:16.954
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2025-02-06 14:36:16.955
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2025-02-06 14:36:16.955
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+
+Date:2025-02-06 14:36:16.956
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2025-02-06 14:36:16.956
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2025-02-06 14:36:16.957
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:36:16.958
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2025-02-06 14:36:16.958
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2025-02-06 14:36:16.959
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2025-02-06 14:36:16.959
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2025-02-06 14:36:17.069
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e"
+
+Date:2025-02-06 14:36:18.714
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Using the default authentication scheme "Identity.Application" for IdentityServer
+
+Date:2025-02-06 14:36:25.555
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2025-02-06 14:36:25.647
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:53362"
+
+Date:2025-02-06 14:36:25.652
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2025-02-06 14:36:25.654
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2025-02-06 14:36:25.657
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host"
+
+Date:2025-02-06 14:36:34.378
+LogLevel:Information
+Class:Volo.Abp.AspNetCore.Mvc.AntiForgery.AbpValidateAntiforgeryTokenAuthorizationFilter
+Message:Skipping the execution of current filter as its not the most effective filter implementing the policy Microsoft.AspNetCore.Mvc.ViewFeatures.IAntiforgeryPolicy
+
+Date:2025-02-06 14:45:34.689
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 14:45:34.691
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 14:45:35.267
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 14:45:35.519
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6F2A8JB7S:00000001", TimeStamp: 02/06/2025 06:45:35, ProcessId: 33908, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:45:36.450
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 14:45:37.094
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6F2A8JB7S:00000001", TimeStamp: 02/06/2025 06:45:37, ProcessId: 33908, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:45:37.123
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 14:45:37.472
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****uQLQ" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6F2A8JB7S:00000001", TimeStamp: 02/06/2025 06:45:37, ProcessId: 33908, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:45:37.716
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration"
+
+Date:2025-02-06 14:45:38.057
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks"
+
+Date:2025-02-06 14:51:45.193
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2025-02-06 14:51:45.225
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- AuthServer.Host.AuthServerHostModule
+
+Date:2025-02-06 14:51:45.227
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2025-02-06 14:51:45.228
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2025-02-06 14:51:45.229
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:51:45.230
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2025-02-06 14:51:45.231
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2025-02-06 14:51:45.231
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2025-02-06 14:51:45.232
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2025-02-06 14:51:45.233
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2025-02-06 14:51:45.234
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2025-02-06 14:51:45.235
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2025-02-06 14:51:45.236
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2025-02-06 14:51:45.237
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Security.AbpSecurityModule
+
+Date:2025-02-06 14:51:45.238
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Data.AbpDataModule
+
+Date:2025-02-06 14:51:45.239
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2025-02-06 14:51:45.239
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2025-02-06 14:51:45.240
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2025-02-06 14:51:45.241
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2025-02-06 14:51:45.242
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2025-02-06 14:51:45.243
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2025-02-06 14:51:45.244
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2025-02-06 14:51:45.245
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2025-02-06 14:51:45.246
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2025-02-06 14:51:45.247
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2025-02-06 14:51:45.248
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2025-02-06 14:51:45.248
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2025-02-06 14:51:45.249
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2025-02-06 14:51:45.251
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2025-02-06 14:51:45.252
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2025-02-06 14:51:45.253
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2025-02-06 14:51:45.253
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2025-02-06 14:51:45.255
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2025-02-06 14:51:45.256
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2025-02-06 14:51:45.257
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2025-02-06 14:51:45.258
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2025-02-06 14:51:45.259
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2025-02-06 14:51:45.260
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2025-02-06 14:51:45.261
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2025-02-06 14:51:45.262
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2025-02-06 14:51:45.263
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2025-02-06 14:51:45.264
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2025-02-06 14:51:45.265
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2025-02-06 14:51:45.266
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2025-02-06 14:51:45.267
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:51:45.267
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2025-02-06 14:51:45.268
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2025-02-06 14:51:45.269
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2025-02-06 14:51:45.270
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2025-02-06 14:51:45.270
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2025-02-06 14:51:45.271
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2025-02-06 14:51:45.272
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2025-02-06 14:51:45.273
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2025-02-06 14:51:45.274
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2025-02-06 14:51:45.275
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2025-02-06 14:51:45.276
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2025-02-06 14:51:45.276
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2025-02-06 14:51:45.277
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2025-02-06 14:51:45.278
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2025-02-06 14:51:45.279
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2025-02-06 14:51:45.279
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2025-02-06 14:51:45.280
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2025-02-06 14:51:45.281
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2025-02-06 14:51:45.282
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2025-02-06 14:51:45.282
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2025-02-06 14:51:45.283
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2025-02-06 14:51:45.285
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2025-02-06 14:51:45.286
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.AbpUiModule
+
+Date:2025-02-06 14:51:45.287
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2025-02-06 14:51:45.288
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2025-02-06 14:51:45.289
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2025-02-06 14:51:45.290
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2025-02-06 14:51:45.291
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2025-02-06 14:51:45.292
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.IdentityServer.EntityFrameworkCore.AbpIdentityServerEntityFrameworkCoreModule
+
+Date:2025-02-06 14:51:45.293
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.IdentityServer.AbpIdentityServerDomainModule
+
+Date:2025-02-06 14:51:45.294
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.IdentityServer.AbpIdentityServerDomainSharedModule
+
+Date:2025-02-06 14:51:45.295
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2025-02-06 14:51:45.296
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.Web.AbpAccountWebIdentityServerModule
+
+Date:2025-02-06 14:51:45.296
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.Web.AbpAccountWebModule
+
+Date:2025-02-06 14:51:45.297
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AspNetCore.AbpIdentityAspNetCoreModule
+
+Date:2025-02-06 14:51:45.298
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2025-02-06 14:51:45.299
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2025-02-06 14:51:45.300
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2025-02-06 14:51:45.301
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2025-02-06 14:51:45.302
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2025-02-06 14:51:45.303
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Http.AbpHttpModule
+
+Date:2025-02-06 14:51:45.304
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2025-02-06 14:51:45.305
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2025-02-06 14:51:45.306
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2025-02-06 14:51:45.307
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2025-02-06 14:51:45.308
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2025-02-06 14:51:45.309
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2025-02-06 14:51:45.310
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2025-02-06 14:51:45.311
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+
+Date:2025-02-06 14:51:45.312
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2025-02-06 14:51:45.313
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2025-02-06 14:51:45.314
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 14:51:45.315
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2025-02-06 14:51:45.316
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2025-02-06 14:51:45.316
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2025-02-06 14:51:45.317
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2025-02-06 14:51:45.495
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e"
+
+Date:2025-02-06 14:51:47.212
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Using the default authentication scheme "Identity.Application" for IdentityServer
+
+Date:2025-02-06 14:51:53.126
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2025-02-06 14:51:53.205
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:53362"
+
+Date:2025-02-06 14:51:53.207
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2025-02-06 14:51:53.209
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2025-02-06 14:51:53.210
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host"
+
+Date:2025-02-06 14:52:01.591
+LogLevel:Information
+Class:Volo.Abp.AspNetCore.Mvc.AntiForgery.AbpValidateAntiforgeryTokenAuthorizationFilter
+Message:Skipping the execution of current filter as its not the most effective filter implementing the policy Microsoft.AspNetCore.Mvc.ViewFeatures.IAntiforgeryPolicy
+
+Date:2025-02-06 14:52:07.833
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 14:52:07.835
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 14:52:08.307
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 14:52:08.497
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6FAUNE0QN:00000002", TimeStamp: 02/06/2025 06:52:08, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:52:09.288
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 14:52:09.841
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6FAUNE0QN:00000002", TimeStamp: 02/06/2025 06:52:09, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:52:09.871
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 14:52:10.061
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****YeFg" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6FAUNE0QN:00000002", TimeStamp: 02/06/2025 06:52:10, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:52:10.227
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration"
+
+Date:2025-02-06 14:52:10.575
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks"
+
+Date:2025-02-06 14:52:20.336
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 14:52:20.337
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 14:52:20.366
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 14:52:20.412
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6FAUNE0QN:00000004", TimeStamp: 02/06/2025 06:52:20, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:52:20.583
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 14:52:20.640
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6FAUNE0QN:00000004", TimeStamp: 02/06/2025 06:52:20, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 14:52:20.655
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 14:52:20.707
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****vyZw" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6FAUNE0QN:00000004", TimeStamp: 02/06/2025 06:52:20, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:00:42.175
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 15:00:42.177
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 15:00:42.207
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 15:00:42.221
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6FAUNE0S7:00000002", TimeStamp: 02/06/2025 07:00:42, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:00:42.389
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 15:00:42.571
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6FAUNE0S7:00000002", TimeStamp: 02/06/2025 07:00:42, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:00:42.585
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 15:00:42.793
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****OPvQ" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6FAUNE0S7:00000002", TimeStamp: 02/06/2025 07:00:42, ProcessId: 43160, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:01:57.092
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:Loaded ABP modules:
+
+Date:2025-02-06 15:01:57.109
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:- AuthServer.Host.AuthServerHostModule
+
+Date:2025-02-06 15:01:57.110
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Autofac.AbpAutofacModule
+
+Date:2025-02-06 15:01:57.111
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Castle.AbpCastleCoreModule
+
+Date:2025-02-06 15:01:57.112
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 15:01:57.113
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+
+Date:2025-02-06 15:01:57.114
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Authorization.AbpAuthorizationModule
+
+Date:2025-02-06 15:01:57.114
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+
+Date:2025-02-06 15:01:57.115
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+
+Date:2025-02-06 15:01:57.116
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+
+Date:2025-02-06 15:01:57.117
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Localization.AbpLocalizationModule
+
+Date:2025-02-06 15:01:57.117
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Settings.AbpSettingsModule
+
+Date:2025-02-06 15:01:57.118
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+
+Date:2025-02-06 15:01:57.119
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Security.AbpSecurityModule
+
+Date:2025-02-06 15:01:57.119
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Data.AbpDataModule
+
+Date:2025-02-06 15:01:57.120
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+
+Date:2025-02-06 15:01:57.121
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                    - Volo.Abp.Validation.AbpValidationAbstractionsModule
+
+Date:2025-02-06 15:01:57.121
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Uow.AbpUnitOfWorkModule
+
+Date:2025-02-06 15:01:57.122
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+
+Date:2025-02-06 15:01:57.123
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Threading.AbpThreadingModule
+
+Date:2025-02-06 15:01:57.123
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+
+Date:2025-02-06 15:01:57.124
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Domain.AbpDddDomainModule
+
+Date:2025-02-06 15:01:57.125
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Auditing.AbpAuditingModule
+
+Date:2025-02-06 15:01:57.126
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Json.AbpJsonModule
+
+Date:2025-02-06 15:01:57.126
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+
+Date:2025-02-06 15:01:57.127
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Json.AbpJsonAbstractionsModule
+
+Date:2025-02-06 15:01:57.128
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.Timing.AbpTimingModule
+
+Date:2025-02-06 15:01:57.128
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Auditing.AbpAuditingContractsModule
+
+Date:2025-02-06 15:01:57.129
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.EventBus.AbpEventBusModule
+
+Date:2025-02-06 15:01:57.130
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Guids.AbpGuidsModule
+
+Date:2025-02-06 15:01:57.131
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+
+Date:2025-02-06 15:01:57.132
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.DistributedLocking.AbpDistributedLockingAbstractionsModule
+
+Date:2025-02-06 15:01:57.132
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+
+Date:2025-02-06 15:01:57.133
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+
+Date:2025-02-06 15:01:57.134
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Specifications.AbpSpecificationsModule
+
+Date:2025-02-06 15:01:57.135
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Caching.AbpCachingModule
+
+Date:2025-02-06 15:01:57.136
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Serialization.AbpSerializationModule
+
+Date:2025-02-06 15:01:57.137
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Domain.AbpDddDomainSharedModule
+
+Date:2025-02-06 15:01:57.137
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+
+Date:2025-02-06 15:01:57.138
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Validation.AbpValidationModule
+
+Date:2025-02-06 15:01:57.139
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+
+Date:2025-02-06 15:01:57.140
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+
+Date:2025-02-06 15:01:57.140
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+
+Date:2025-02-06 15:01:57.141
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+
+Date:2025-02-06 15:01:57.142
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 15:01:57.142
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+
+Date:2025-02-06 15:01:57.143
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+
+Date:2025-02-06 15:01:57.144
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Features.AbpFeaturesModule
+
+Date:2025-02-06 15:01:57.145
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+
+Date:2025-02-06 15:01:57.146
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityDomainModule
+
+Date:2025-02-06 15:01:57.146
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+
+Date:2025-02-06 15:01:57.147
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersDomainSharedModule
+
+Date:2025-02-06 15:01:57.148
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Users.AbpUsersDomainModule
+
+Date:2025-02-06 15:01:57.149
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Users.AbpUsersAbstractionModule
+
+Date:2025-02-06 15:01:57.149
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AutoMapper.AbpAutoMapperModule
+
+Date:2025-02-06 15:01:57.150
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+
+Date:2025-02-06 15:01:57.151
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+
+Date:2025-02-06 15:01:57.152
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+
+Date:2025-02-06 15:01:57.153
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Application.AbpDddApplicationContractsModule
+
+Date:2025-02-06 15:01:57.154
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.AbpAccountApplicationModule
+
+Date:2025-02-06 15:01:57.155
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.AbpAccountApplicationContractsModule
+
+Date:2025-02-06 15:01:57.156
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Identity.AbpIdentityApplicationModule
+
+Date:2025-02-06 15:01:57.156
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+
+Date:2025-02-06 15:01:57.157
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.Application.AbpDddApplicationModule
+
+Date:2025-02-06 15:01:57.158
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.Http.AbpHttpAbstractionsModule
+
+Date:2025-02-06 15:01:57.159
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+
+Date:2025-02-06 15:01:57.160
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+
+Date:2025-02-06 15:01:57.160
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.UI.AbpUiModule
+
+Date:2025-02-06 15:01:57.161
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Emailing.AbpEmailingModule
+
+Date:2025-02-06 15:01:57.162
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+
+Date:2025-02-06 15:01:57.162
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+
+Date:2025-02-06 15:01:57.163
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.TextTemplating.Scriban.AbpTextTemplatingScribanModule
+
+Date:2025-02-06 15:01:57.164
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.TextTemplating.AbpTextTemplatingCoreModule
+
+Date:2025-02-06 15:01:57.165
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.IdentityServer.EntityFrameworkCore.AbpIdentityServerEntityFrameworkCoreModule
+
+Date:2025-02-06 15:01:57.165
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.IdentityServer.AbpIdentityServerDomainModule
+
+Date:2025-02-06 15:01:57.166
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.IdentityServer.AbpIdentityServerDomainSharedModule
+
+Date:2025-02-06 15:01:57.167
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+
+Date:2025-02-06 15:01:57.168
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.Account.Web.AbpAccountWebIdentityServerModule
+
+Date:2025-02-06 15:01:57.169
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.Account.Web.AbpAccountWebModule
+
+Date:2025-02-06 15:01:57.170
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.Identity.AspNetCore.AbpIdentityAspNetCoreModule
+
+Date:2025-02-06 15:01:57.170
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+
+Date:2025-02-06 15:01:57.171
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+
+Date:2025-02-06 15:01:57.172
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+
+Date:2025-02-06 15:01:57.172
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:            - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+
+Date:2025-02-06 15:01:57.173
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+
+Date:2025-02-06 15:01:57.174
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                - Volo.Abp.Http.AbpHttpModule
+
+Date:2025-02-06 15:01:57.175
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:                  - Volo.Abp.Minify.AbpMinifyModule
+
+Date:2025-02-06 15:01:57.175
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+
+Date:2025-02-06 15:01:57.176
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:              - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+
+Date:2025-02-06 15:01:57.177
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+
+Date:2025-02-06 15:01:57.178
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingAbstractionsModule
+
+Date:2025-02-06 15:01:57.178
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:        - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+
+Date:2025-02-06 15:01:57.179
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:          - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+
+Date:2025-02-06 15:01:57.180
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+
+Date:2025-02-06 15:01:57.180
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+
+Date:2025-02-06 15:01:57.181
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+
+Date:2025-02-06 15:01:57.182
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+
+Date:2025-02-06 15:01:57.183
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:    - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+
+Date:2025-02-06 15:01:57.183
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:      - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+
+Date:2025-02-06 15:01:57.184
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Comm.ConsulConfig.CommConsulModule
+
+Date:2025-02-06 15:01:57.185
+LogLevel:Information
+Class:Volo.Abp.AbpApplicationBase
+Message:  - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+
+Date:2025-02-06 15:01:57.305
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e"
+
+Date:2025-02-06 15:01:58.838
+LogLevel:Information
+Class:IdentityServer4.Startup
+Message:Using the default authentication scheme "Identity.Application" for IdentityServer
+
+Date:2025-02-06 15:02:05.105
+LogLevel:Information
+Class:Volo.Abp.Modularity.ModuleManager
+Message:Initialized all ABP modules.
+
+Date:2025-02-06 15:02:05.186
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Now listening on: "http://localhost:53362"
+
+Date:2025-02-06 15:02:05.188
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+Date:2025-02-06 15:02:05.189
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+Date:2025-02-06 15:02:05.191
+LogLevel:Information
+Class:Microsoft.Hosting.Lifetime
+Message:Content root path: "E:\hxgitcode\ZGF-ABP-MicroService-WMS\AuthServer\IdentityServer\AuthServer.Host"
+
+Date:2025-02-06 15:02:12.363
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 15:02:12.366
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 15:02:12.853
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 15:02:13.074
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6FGL1N1J2:00000002", TimeStamp: 02/06/2025 07:02:13, ProcessId: 38688, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:02:13.845
+LogLevel:Information
+Class:Volo.Abp.AspNetCore.Mvc.AntiForgery.AbpValidateAntiforgeryTokenAuthorizationFilter
+Message:Skipping the execution of current filter as its not the most effective filter implementing the policy Microsoft.AspNetCore.Mvc.ViewFeatures.IAntiforgeryPolicy
+
+Date:2025-02-06 15:02:13.893
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 15:02:14.926
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6FGL1N1J2:00000002", TimeStamp: 02/06/2025 07:02:14, ProcessId: 38688, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:02:14.976
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 15:02:15.772
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****jeYg" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6FGL1N1J2:00000002", TimeStamp: 02/06/2025 07:02:15, ProcessId: 38688, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:02:16.164
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration"
+
+Date:2025-02-06 15:02:16.518
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks"
+
+Date:2025-02-06 15:02:17.031
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration"
+
+Date:2025-02-06 15:02:17.111
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks"
+
+Date:2025-02-06 15:02:17.537
+LogLevel:Warning
+Class:Volo.Abp.IdentityServer.AbpCorsPolicyService
+Message:Origin is not allowed: http://localhost:9527
+
+Date:2025-02-06 15:02:17.538
+LogLevel:Warning
+Class:IdentityServer4.Hosting.CorsPolicyProvider
+Message:CorsPolicyService did not allow origin: "http://localhost:9527"
+
+Date:2025-02-06 15:02:17.562
+LogLevel:Information
+Class:IdentityServer4.Hosting.IdentityServerMiddleware
+Message:Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token"
+
+Date:2025-02-06 15:02:17.601
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:ClientAuthenticationSuccessEvent { ClientId: "basic-web", AuthenticationMethod: "NoSecret", Category: "Authentication", Name: "Client Authentication Success", EventType: Success, Id: 1010, Message: null, ActivityId: "0HNA6FGL1N1J2:00000004", TimeStamp: 02/06/2025 07:02:17, ProcessId: 38688, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:02:17.757
+LogLevel:Information
+Class:IdentityServer4.AspNetIdentity.ResourceOwnerPasswordValidator
+Message:Credentials validated for username: "admin"
+
+Date:2025-02-06 15:02:17.919
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:UserLoginSuccessEvent { Username: "admin", Provider: null, ProviderUserId: null, SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", DisplayName: null, Endpoint: "Token", ClientId: "basic-web", Category: "Authentication", Name: "User Login Success", EventType: Success, Id: 1000, Message: null, ActivityId: "0HNA6FGL1N1J2:00000004", TimeStamp: 02/06/2025 07:02:17, ProcessId: 38688, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
+
+Date:2025-02-06 15:02:17.948
+LogLevel:Information
+Class:IdentityServer4.Validation.TokenRequestValidator
+Message:Token request validation success, TokenRequestValidationLog { ClientId: "basic-web", ClientName: "basic-web", GrantType: "password", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "basic-web"), ("grant_type": "password"), ("scope": "WebAppGateway BaseService BusinessService WMSService FileStorageService")] }
+
+Date:2025-02-06 15:02:18.134
+LogLevel:Information
+Class:IdentityServer4.Events.DefaultEventService
+Message:TokenIssuedSuccessEvent { ClientId: "basic-web", ClientName: "basic-web", RedirectUri: null, Endpoint: "Token", SubjectId: "4cea76f6-1527-02ae-048a-3a158b72770c", Scopes: "BaseService BusinessService FileStorageService WebAppGateway WMSService", GrantType: "password", Tokens: [Token { TokenType: "access_token", TokenValue: "****nSWQ" }], Category: "Token", Name: "Token Issued Success", EventType: Success, Id: 2000, Message: null, ActivityId: "0HNA6FGL1N1J2:00000004", TimeStamp: 02/06/2025 07:02:18, ProcessId: 38688, LocalIpAddress: "::1:53362", RemoteIpAddress: "::1" }
