@@ -180,10 +180,10 @@ namespace WMS.BaseService.CommonManagement.Tenants
                             .Select(x => x.Value)
                             .FirstOrDefault();
                             //配置当前租户的数据库
-                            var dbContextOptions = new DbContextOptionsBuilder<ABPVNextDbContext>()
+                            var dbContextOptions = new DbContextOptionsBuilder<WMSBaseDbContext>()
                                   .UseSqlServer(tenantConnectionString, builder => builder.AddTableHintSupport())
                                   .Options;
-                            using (var tenantDbContext = new ABPVNextDbContext(dbContextOptions))
+                            using (var tenantDbContext = new WMSBaseDbContext(dbContextOptions))
                             {
                                 try
                                 {
@@ -326,10 +326,10 @@ namespace WMS.BaseService.CommonManagement.Tenants
                             .Select(x => x.Value)
                             .FirstOrDefault();
                             //配置当前租户的数据库
-                            var dbContextOptions = new DbContextOptionsBuilder<ABPVNextDbContext>()
+                            var dbContextOptions = new DbContextOptionsBuilder<WMSBaseDbContext>()
                                   .UseSqlServer(tenantConnectionString)
                                   .Options;
-                            using (var tenantDbContext = new ABPVNextDbContext(dbContextOptions))
+                            using (var tenantDbContext = new WMSBaseDbContext(dbContextOptions))
                             {
                                 try
                                 {

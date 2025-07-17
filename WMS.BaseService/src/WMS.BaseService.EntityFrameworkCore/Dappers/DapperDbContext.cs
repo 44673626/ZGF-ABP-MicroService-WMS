@@ -21,7 +21,7 @@ namespace WMS.BaseService.Dappers
         public DapperDbContext(IConfiguration configuration)
         {
             _connectionString1 = configuration.GetConnectionString("Default");
-            _connectionString2 = configuration.GetConnectionString(ABPVNextDbProperties.ConnectionStringName);
+            _connectionString2 = configuration.GetConnectionString(WMSBaseDbProperties.ConnectionStringName);
         }
 
         private IDbConnection CreateConnection(string connectionString)

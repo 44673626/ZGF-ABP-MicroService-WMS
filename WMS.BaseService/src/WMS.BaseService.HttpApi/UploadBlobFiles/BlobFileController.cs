@@ -14,11 +14,11 @@ using Volo.Abp.Application.Dtos;
 
 namespace WMS.BaseService.UploadBlobFiles
 {
-    [Area(ABPVNextRemoteServiceConsts.ModuleName)]
-    [RemoteService(Name = ABPVNextRemoteServiceConsts.RemoteServiceName)]
+    [Area(WMSBaseRemoteServiceConsts.ModuleName)]
+    [RemoteService(Name = WMSBaseRemoteServiceConsts.RemoteServiceName)]
     [Route($"{ApiConsts.RootPath}getBlobFiles")]
     [ApiExplorerSettings(GroupName = "Infra", IgnoreApi = false)]
-    public class BlobFileController : ABPVNextController, IFileStorageCommonService, IFileStorageBlobAppService
+    public class BlobFileController : WMSBaseController, IFileStorageCommonService, IFileStorageBlobAppService
     {
         private readonly IFileStorageBlobAppService _fileAppService;
         private readonly IFileStorageCommonService _upoladfileAppService;

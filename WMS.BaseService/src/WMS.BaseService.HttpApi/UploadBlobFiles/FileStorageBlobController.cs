@@ -15,11 +15,11 @@ namespace WMS.BaseService.UploadBlobFiles
     /// <summary>
     /// 基础Blob二进制文件存储
     /// </summary>
-    [Area(ABPVNextRemoteServiceConsts.ModuleName)]
-    [RemoteService(Name = ABPVNextRemoteServiceConsts.RemoteServiceName)]
+    [Area(WMSBaseRemoteServiceConsts.ModuleName)]
+    [RemoteService(Name = WMSBaseRemoteServiceConsts.RemoteServiceName)]
     [Route($"{ApiConsts.RootPath}fileblob")]
     [ApiExplorerSettings(GroupName = "Infra", IgnoreApi = false)]
-    public class FileStorageBlobController : ABPVNextController, IFileStorageBlobAppService
+    public class FileStorageBlobController : WMSBaseController, IFileStorageBlobAppService
     {
         private readonly IFileStorageBlobAppService _fileContainer;//文件类型的Blob容器
         /// <summary>

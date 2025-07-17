@@ -10,10 +10,10 @@ using Volo.Abp.EntityFrameworkCore;
 
 namespace WMS.BaseService.Dappers
 {
-    public class CommonDapperRepository : DapperRepository<ABPVNextDbContext>
+    public class CommonDapperRepository : DapperRepository<WMSBaseDbContext>
         , ITransientDependency, ICommonDapperRepository
     {
-        public CommonDapperRepository(IDbContextProvider<ABPVNextDbContext> dbContextProvider)
+        public CommonDapperRepository(IDbContextProvider<WMSBaseDbContext> dbContextProvider)
             : base(dbContextProvider)
         {
         }

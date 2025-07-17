@@ -12,7 +12,7 @@
     <PackageReference Include="DistributedLock.Redis" Version="1.0.2" />
     <PackageReference Include="DotNetCore.CAP" Version="8.0.0" />
     <PackageReference Include="EFCore.BulkExtensions" Version="8.1.3" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.3.0" />
     <PackageReference Include="MiniProfiler.AspNetCore.Mvc" Version="4.3.8" />
     <PackageReference Include="Shouldly" Version="4.2.1" />
     <PackageReference Include="Thinktecture.EntityFrameworkCore.SqlServer" Version="4.5.1" />
@@ -26,6 +26,10 @@
     <ProjectReference Include="..\WMS.BaseService.Application.Contracts\WMS.BaseService.Application.Contracts.csproj" />
     <ProjectReference Include="..\WMS.BaseService.Domain\WMS.BaseService.Domain.csproj" />
     <ProjectReference Include="..\WMS.BaseService.EntityFrameworkCore\WMS.BaseService.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="BaseEntity\UnitConversions\Validates\" />
   </ItemGroup>
 
 </Project>

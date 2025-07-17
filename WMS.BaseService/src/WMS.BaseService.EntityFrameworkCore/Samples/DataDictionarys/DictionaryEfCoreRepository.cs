@@ -10,9 +10,9 @@ using Volo.Abp.EntityFrameworkCore;
 namespace WMS.BaseService.Samples.DataDictionarys
 {
     public class DictionaryEfCoreRepository
-        : AbpAuthEfCoreRepositoryBase<ABPVNextDbContext, DataDictionary, Guid>, IDictionaryRepository
+        : AbpAuthEfCoreRepositoryBase<WMSBaseDbContext, DataDictionary, Guid>, IDictionaryRepository
     {
-        public DictionaryEfCoreRepository(IDbContextProvider<ABPVNextDbContext> dbContextProvider) : base(dbContextProvider)
+        public DictionaryEfCoreRepository(IDbContextProvider<WMSBaseDbContext> dbContextProvider) : base(dbContextProvider)
         {
         }
     }

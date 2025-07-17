@@ -14,7 +14,7 @@ public class ABPVNextHttpApiHostMigrationsDbContextFactory : IDesignTimeDbContex
         var configuration = BuildConfiguration();
 
         var builder = new DbContextOptionsBuilder<ABPVNextHttpApiHostMigrationsDbContext>()
-            .UseSqlServer(configuration.GetConnectionString(ABPVNextDbProperties.ConnectionStringName));
+            .UseSqlServer(configuration.GetConnectionString(WMSBaseDbProperties.ConnectionStringName));
 
         return new ABPVNextHttpApiHostMigrationsDbContext(builder.Options);
     }

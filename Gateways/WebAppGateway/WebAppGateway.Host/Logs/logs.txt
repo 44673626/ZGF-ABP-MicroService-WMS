@@ -10059,3 +10059,50 @@ System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法
 2025-02-10 09:38:25.597 +08:00 [DBG] requestId: 0HNA9CTM9NPD7:00000008, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline finished'
 2025-02-10 09:38:25.598 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:62162/api/base/role-menus - 200 null application/json; charset=utf-8 221.2422ms
 2025-02-10 09:38:25.602 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:62162/api/base/role-menus, Response status code: 200
+2025-07-16 15:28:01.207 +08:00 [INF] Starting WebAppGateway.Host
+2025-07-16 15:28:07.401 +08:00 [INF] User profile is available. Using 'C:\Users\合心凯达\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-07-16 15:28:07.566 +08:00 [INF] Loaded ABP modules:
+2025-07-16 15:28:07.567 +08:00 [INF] - WebAppGateway.WebAppGatewayHostModule
+2025-07-16 15:28:07.568 +08:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2025-07-16 15:28:07.569 +08:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2025-07-16 15:28:07.570 +08:00 [INF]   - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+2025-07-16 15:28:07.571 +08:00 [INF]     - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2025-07-16 15:28:07.572 +08:00 [INF]       - Volo.Abp.Data.AbpDataModule
+2025-07-16 15:28:07.573 +08:00 [INF]         - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2025-07-16 15:28:07.574 +08:00 [INF]           - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2025-07-16 15:28:07.575 +08:00 [INF]           - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2025-07-16 15:28:07.577 +08:00 [INF]         - Volo.Abp.Uow.AbpUnitOfWorkModule
+2025-07-16 15:28:07.578 +08:00 [INF]         - Volo.Abp.EventBus.Abstractions.AbpEventBusAbstractionsModule
+2025-07-16 15:28:07.579 +08:00 [INF]       - Volo.Abp.Security.AbpSecurityModule
+2025-07-16 15:28:07.580 +08:00 [INF]       - Volo.Abp.Settings.AbpSettingsModule
+2025-07-16 15:28:07.581 +08:00 [INF]       - Volo.Abp.MultiTenancy.AbpMultiTenancyAbstractionsModule
+2025-07-16 15:28:07.582 +08:00 [INF]         - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2025-07-16 15:28:07.583 +08:00 [INF]         - Volo.Abp.Localization.AbpLocalizationModule
+2025-07-16 15:28:07.584 +08:00 [INF]           - Volo.Abp.Threading.AbpThreadingModule
+2025-07-16 15:28:07.585 +08:00 [INF]     - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2025-07-16 15:28:07.587 +08:00 [INF]       - Volo.Abp.Auditing.AbpAuditingModule
+2025-07-16 15:28:07.587 +08:00 [INF]         - Volo.Abp.Json.AbpJsonModule
+2025-07-16 15:28:07.588 +08:00 [INF]           - Volo.Abp.Json.SystemTextJson.AbpJsonSystemTextJsonModule
+2025-07-16 15:28:07.589 +08:00 [INF]             - Volo.Abp.Json.AbpJsonAbstractionsModule
+2025-07-16 15:28:07.590 +08:00 [INF]             - Volo.Abp.Timing.AbpTimingModule
+2025-07-16 15:28:07.592 +08:00 [INF]         - Volo.Abp.Auditing.AbpAuditingContractsModule
+2025-07-16 15:28:07.593 +08:00 [INF]       - Volo.Abp.Http.AbpHttpModule
+2025-07-16 15:28:07.594 +08:00 [INF]         - Volo.Abp.Http.AbpHttpAbstractionsModule
+2025-07-16 15:28:07.595 +08:00 [INF]         - Volo.Abp.Minify.AbpMinifyModule
+2025-07-16 15:28:07.596 +08:00 [INF]       - Volo.Abp.Authorization.AbpAuthorizationModule
+2025-07-16 15:28:07.597 +08:00 [INF]         - Volo.Abp.Authorization.AbpAuthorizationAbstractionsModule
+2025-07-16 15:28:07.598 +08:00 [INF]       - Volo.Abp.Validation.AbpValidationModule
+2025-07-16 15:28:07.599 +08:00 [INF]       - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+2025-07-16 15:28:07.600 +08:00 [INF]       - Volo.Abp.AspNetCore.AbpAspNetCoreAbstractionsModule
+2025-07-16 15:28:07.980 +08:00 [INF] Initialized all ABP modules.
+2025-07-16 15:28:08.117 +08:00 [INF] Now listening on: http://localhost:62162
+2025-07-16 15:28:08.119 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-16 15:28:08.121 +08:00 [INF] Hosting environment: Development
+2025-07-16 15:28:08.123 +08:00 [INF] Content root path: E:\hxgitcode\ZGF-ABP-MicroService-WMS\Gateways\WebAppGateway\WebAppGateway.Host
+2025-07-16 15:28:22.670 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:62162/ - null null
+2025-07-16 15:28:23.564 +08:00 [DBG] requestId: 0HNE4797UVNL5:00000001, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline started'
+2025-07-16 15:28:23.572 +08:00 [DBG] requestId: 0HNE4797UVNL5:00000001, previousRequestId: No PreviousRequestId, message: 'Upstream url path is /'
+2025-07-16 15:28:23.581 +08:00 [WRN] requestId: 0HNE4797UVNL5:00000001, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2025-07-16 15:28:23.585 +08:00 [WRN] requestId: 0HNE4797UVNL5:00000001, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2025-07-16 15:28:23.591 +08:00 [DBG] requestId: 0HNE4797UVNL5:00000001, previousRequestId: No PreviousRequestId, message: 'ocelot pipeline finished'
+2025-07-16 15:28:23.615 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:62162/ - 404 0 null 955.8667ms

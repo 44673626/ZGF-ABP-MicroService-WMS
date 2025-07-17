@@ -56,9 +56,9 @@ using Volo.Abp.Dapper;
 namespace WMS.BaseService;
 
 [DependsOn(
-    typeof(ABPVNextApplicationModule),
-    typeof(ABPVNextEntityFrameworkCoreModule),
-    typeof(ABPVNextHttpApiModule),
+    typeof(WMSBaseApplicationModule),
+    typeof(WMSBaseEntityFrameworkCoreModule),
+    typeof(WMSBaseHttpApiModule),
     typeof(AbpAspNetCoreMvcUiMultiTenancyModule),
     typeof(AbpAutofacModule),
     typeof(AbpCachingStackExchangeRedisModule),//集成redis
@@ -118,10 +118,10 @@ public class ABPVNextHttpApiHostModule : AbpModule
         {
             Configure<AbpVirtualFileSystemOptions>(options =>
             {
-                options.FileSets.ReplaceEmbeddedByPhysical<ABPVNextDomainSharedModule>(Path.Combine(hostingEnvironment.ContentRootPath, string.Format("..{0}..{0}src{0}WMS.BaseService.Domain.Shared", Path.DirectorySeparatorChar)));
-                options.FileSets.ReplaceEmbeddedByPhysical<ABPVNextDomainModule>(Path.Combine(hostingEnvironment.ContentRootPath, string.Format("..{0}..{0}src{0}WMS.BaseService.Domain", Path.DirectorySeparatorChar)));
-                options.FileSets.ReplaceEmbeddedByPhysical<ABPVNextApplicationContractsModule>(Path.Combine(hostingEnvironment.ContentRootPath, string.Format("..{0}..{0}src{0}WMS.BaseService.Application.Contracts", Path.DirectorySeparatorChar)));
-                options.FileSets.ReplaceEmbeddedByPhysical<ABPVNextApplicationModule>(Path.Combine(hostingEnvironment.ContentRootPath, string.Format("..{0}..{0}src{0}WMS.BaseService.Application", Path.DirectorySeparatorChar)));
+                options.FileSets.ReplaceEmbeddedByPhysical<WMSBaseDomainSharedModule>(Path.Combine(hostingEnvironment.ContentRootPath, string.Format("..{0}..{0}src{0}WMS.BaseService.Domain.Shared", Path.DirectorySeparatorChar)));
+                options.FileSets.ReplaceEmbeddedByPhysical<WMSBaseDomainModule>(Path.Combine(hostingEnvironment.ContentRootPath, string.Format("..{0}..{0}src{0}WMS.BaseService.Domain", Path.DirectorySeparatorChar)));
+                options.FileSets.ReplaceEmbeddedByPhysical<WMSBaseApplicationContractsModule>(Path.Combine(hostingEnvironment.ContentRootPath, string.Format("..{0}..{0}src{0}WMS.BaseService.Application.Contracts", Path.DirectorySeparatorChar)));
+                options.FileSets.ReplaceEmbeddedByPhysical<WMSBaseApplicationModule>(Path.Combine(hostingEnvironment.ContentRootPath, string.Format("..{0}..{0}src{0}WMS.BaseService.Application", Path.DirectorySeparatorChar)));
             });
         }
 
@@ -232,7 +232,7 @@ public class ABPVNextHttpApiHostModule : AbpModule
         {
             options
                 .ConventionalControllers
-                .Create(typeof(ABPVNextApplicationModule).Assembly, opts
+                .Create(typeof(WMSBaseApplicationModule).Assembly, opts
                      =>
                 { opts.RootPath = "abpvnext"; });
         });

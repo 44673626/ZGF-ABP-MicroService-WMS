@@ -1,0 +1,13 @@
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\bin\Debug\net8.0\Com.Filter.Shared.deps.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\bin\Debug\net8.0\Com.Filter.Shared.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\bin\Debug\net8.0\Com.Filter.Shared.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\Com.Filter.Shared.csproj.AssemblyReference.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\Com.Filter.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\Com.Filter.Shared.AssemblyInfoInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\Com.Filter.Shared.AssemblyInfo.cs
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\Com.Filter.Shared.csproj.CoreCompileInputs.cache
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\Com.Filter.Shared.sourcelink.json
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\Com.Filter.Shared.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\refint\Com.Filter.Shared.dll
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\Com.Filter.Shared.pdb
+E:\hxgitcode\ZGF-ABP-MicroService-WMS\Com.Filter.Shared\obj\Debug\net8.0\ref\Com.Filter.Shared.dll

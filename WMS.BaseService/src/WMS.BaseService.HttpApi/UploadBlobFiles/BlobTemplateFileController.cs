@@ -18,11 +18,11 @@ namespace WMS.BaseService.UploadBlobFiles
     /// <summary>
     /// 模板管理
     /// </summary>
-    [Area(ABPVNextRemoteServiceConsts.ModuleName)]
-    [RemoteService(Name = ABPVNextRemoteServiceConsts.RemoteServiceName)]
+    [Area(WMSBaseRemoteServiceConsts.ModuleName)]
+    [RemoteService(Name = WMSBaseRemoteServiceConsts.RemoteServiceName)]
     [Route($"{ApiConsts.RootPath}getBlobTemplateFiles")]
     [ApiExplorerSettings(GroupName = "Infra", IgnoreApi = false)]
-    public class BlobTemplateFileController : ABPVNextController, IFileTemplateBlobAppService
+    public class BlobTemplateFileController : WMSBaseController, IFileTemplateBlobAppService
     {
         private readonly IFileTemplateBlobAppService _fileAppService;
 

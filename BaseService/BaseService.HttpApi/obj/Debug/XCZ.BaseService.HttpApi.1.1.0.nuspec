@@ -7,7 +7,7 @@
     <authors>XCZ</authors>
     <projectUrl>https://github.com/WilliamXu96/ABP-MicroService</projectUrl>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" commit="4c0aebeec7a218bb13d4662f789612a8a9976af4" />
+    <repository type="git" url="https://github.com/WilliamXu96/ABP-MicroService" commit="695a640e870f0149245978a27fef82cc08b1d730" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="XCZ.BaseService.Application.Contracts" version="2.0.0" exclude="Build,Analyzers" />

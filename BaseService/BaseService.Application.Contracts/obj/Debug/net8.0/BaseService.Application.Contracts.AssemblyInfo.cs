@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XCZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0+4c0aebeec7a218bb13d4662f789612a8a9976af4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0+695a640e870f0149245978a27fef82cc08b1d730")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseService.Application.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseService.Application.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.0.0")]

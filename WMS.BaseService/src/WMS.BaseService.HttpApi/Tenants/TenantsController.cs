@@ -1,25 +1,10 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.StaticFiles;
 using Microsoft.Extensions.Configuration;
 using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using System.Web;
-using Volo.Abp.AspNetCore.Mvc;
-using Volo.Abp.Domain.Repositories;
-using Volo.Abp.MultiTenancy;
-using Volo.Abp.Uow;
 using Volo.Abp;
-using Volo.Abp.TenantManagement;
-using static Volo.Abp.TenantManagement.TenantManagementPermissions;
-using WMS.BaseService.BaseData;
-using Microsoft.EntityFrameworkCore;
-using WMS.BaseService.Settings;
+using Volo.Abp.Uow;
 using WMS.BaseService.CommonManagement.Tenants;
 using WMS.BaseService.CommonManagement.Tenants.Dto;
 using WMS.BaseService.Settings;
@@ -29,11 +14,11 @@ namespace WMS.BaseService.Tenants
     /// <summary>
     /// 根据租户的独立数据库，自动生成租户表及其种子数据
     /// </summary>
-    [Area(ABPVNextRemoteServiceConsts.ModuleName)]
-    [RemoteService(Name = ABPVNextRemoteServiceConsts.RemoteServiceName)]
+    [Area(WMSBaseRemoteServiceConsts.ModuleName)]
+    [RemoteService(Name = WMSBaseRemoteServiceConsts.RemoteServiceName)]
     [Route($"{ApiConsts.RootPath}TenantsManager")]
     [ApiExplorerSettings(GroupName = "Infra")] //, IgnoreApi = false
-    public class TenantsController : ABPVNextController
+    public class TenantsController : WMSBaseController
     {
         private readonly ITenantManagerAppService _iTenantManager;
         //读取配置文件
